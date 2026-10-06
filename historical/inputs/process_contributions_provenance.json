@@ -1,0 +1,17 @@
+{
+  "source_doi": "10.3390/resources8020110",
+  "source_pdf_sha256": "576c19f8d6cc2c2b714afc5aa369f8bb0c75a5f06b2864fafde3b992ea94c05a",
+  "source_tables": [
+    "S13",
+    "S14"
+  ],
+  "source_pages": [
+    15,
+    16
+  ],
+  "entries": 42,
+  "scope": "W1-RE1 contributions per reconditioning of 100 crates; original Italian inventory and characterization",
+  "rounding": "half of the last displayed decimal place, retaining source scientific notation",
+  "evidence_status": "published attributed numeric facts; not EU-27 observations or new LCIA",
+  "not_included": "loaded product distribution, plant/network investment, changed loss/replacement, changed hygiene performance"
+}

@@ -1,0 +1,422 @@
+{
+  "version": "2.0",
+  "class": "dataset",
+  "label": "Electricity prices for industrial consumers - bi-annual data (from 2007 onwards)",
+  "source": "ESTAT",
+  "updated": "2026-08-11T23:00:00+0200",
+  "value": {
+    "96": 0.2761,
+    "97": 0.2738,
+    "98": 0.2751,
+    "99": 0.2618,
+    "100": 0.2823,
+    "101": 0.2824,
+    "102": 0.2818,
+    "103": 0.2695,
+    "72": 0.1933,
+    "73": 0.1921,
+    "74": 0.19,
+    "75": 0.1818,
+    "76": 0.1967,
+    "77": 0.1975,
+    "78": 0.1947,
+    "79": 0.1869,
+    "84": 0.2294,
+    "85": 0.2279,
+    "86": 0.2291,
+    "87": 0.2179,
+    "88": 0.2347,
+    "89": 0.2352,
+    "90": 0.2348,
+    "91": 0.2244,
+    "168": 0.1962,
+    "169": 0.2057,
+    "170": 0.1969,
+    "171": 0.192,
+    "172": 0.2011,
+    "173": 0.2128,
+    "174": 0.2023,
+    "175": 0.1975,
+    "144": 0.1389,
+    "145": 0.1471,
+    "146": 0.1387,
+    "147": 0.1349,
+    "148": 0.1414,
+    "149": 0.1517,
+    "150": 0.1424,
+    "151": 0.1385,
+    "156": 0.163,
+    "157": 0.1712,
+    "158": 0.164,
+    "159": 0.1596,
+    "160": 0.1675,
+    "161": 0.1775,
+    "162": 0.1689,
+    "163": 0.1646,
+    "204": 0.167,
+    "205": 0.1737,
+    "206": 0.1664,
+    "207": 0.1618,
+    "208": 0.1723,
+    "209": 0.1818,
+    "210": 0.1726,
+    "211": 0.1684,
+    "180": 0.1219,
+    "181": 0.1289,
+    "182": 0.1208,
+    "183": 0.1178,
+    "184": 0.125,
+    "185": 0.1344,
+    "186": 0.1252,
+    "187": 0.1222,
+    "192": 0.1386,
+    "193": 0.1444,
+    "194": 0.1381,
+    "195": 0.1342,
+    "196": 0.1436,
+    "197": 0.1516,
+    "198": 0.1437,
+    "199": 0.1401,
+    "132": 0.2263,
+    "133": 0.2332,
+    "134": 0.2283,
+    "135": 0.2206,
+    "136": 0.2317,
+    "137": 0.2404,
+    "138": 0.2339,
+    "139": 0.2263,
+    "108": 0.1575,
+    "109": 0.1629,
+    "110": 0.157,
+    "111": 0.1511,
+    "112": 0.1601,
+    "113": 0.1674,
+    "114": 0.1607,
+    "115": 0.1547,
+    "120": 0.1885,
+    "121": 0.1941,
+    "122": 0.1903,
+    "123": 0.1837,
+    "124": 0.1932,
+    "125": 0.2004,
+    "126": 0.1953,
+    "127": 0.1887,
+    "240": 0.1449,
+    "241": 0.154,
+    "242": 0.1516,
+    "243": 0.1481,
+    "244": 0.1499,
+    "245": 0.1616,
+    "246": 0.1567,
+    "247": 0.1538,
+    "216": 0.1069,
+    "217": 0.1151,
+    "218": 0.1125,
+    "219": 0.1095,
+    "220": 0.1094,
+    "221": 0.1199,
+    "222": 0.1159,
+    "223": 0.1132,
+    "228": 0.1186,
+    "229": 0.1264,
+    "230": 0.1246,
+    "231": 0.1217,
+    "232": 0.1232,
+    "233": 0.1332,
+    "234": 0.1294,
+    "235": 0.127,
+    "276": 0.1311,
+    "277": 0.1449,
+    "278": 0.1373,
+    "279": 0.1336,
+    "280": 0.1363,
+    "281": 0.1529,
+    "282": 0.1435,
+    "283": 0.14,
+    "252": 0.0975,
+    "253": 0.1092,
+    "254": 0.1026,
+    "255": 0.0998,
+    "256": 0.1002,
+    "257": 0.1143,
+    "258": 0.1066,
+    "259": 0.1039,
+    "264": 0.1067,
+    "265": 0.1187,
+    "266": 0.113,
+    "267": 0.1096,
+    "268": 0.1118,
+    "269": 0.126,
+    "270": 0.1187,
+    "271": 0.1155,
+    "60": 0.3433,
+    "61": 0.3536,
+    "62": 0.3555,
+    "63": 0.3577,
+    "64": 0.3504,
+    "65": 0.3626,
+    "66": 0.3636,
+    "67": 0.3661,
+    "36": 0.2449,
+    "37": 0.2505,
+    "38": 0.2487,
+    "39": 0.2506,
+    "40": 0.2484,
+    "41": 0.2558,
+    "42": 0.2536,
+    "43": 0.2556,
+    "48": 0.2871,
+    "49": 0.2965,
+    "50": 0.2969,
+    "51": 0.298,
+    "52": 0.293,
+    "53": 0.304,
+    "54": 0.3037,
+    "55": 0.305,
+    "24": 0.2143,
+    "25": 0.2201,
+    "26": 0.2163,
+    "27": 0.2066,
+    "28": 0.2201,
+    "29": 0.2283,
+    "30": 0.2227,
+    "31": 0.2137,
+    "0": 0.1512,
+    "1": 0.1563,
+    "2": 0.1514,
+    "3": 0.1452,
+    "4": 0.1542,
+    "5": 0.1614,
+    "6": 0.1557,
+    "7": 0.1498,
+    "12": 0.1773,
+    "13": 0.1824,
+    "14": 0.1794,
+    "15": 0.1712,
+    "16": 0.1825,
+    "17": 0.1896,
+    "18": 0.1852,
+    "19": 0.1774
+  },
+  "id": [
+    "freq",
+    "siec",
+    "nrg_cons",
+    "unit",
+    "tax",
+    "currency",
+    "geo",
+    "time"
+  ],
+  "size": [
+    1,
+    1,
+    8,
+    1,
+    3,
+    3,
+    1,
+    4
+  ],
+  "dimension": {
+    "freq": {
+      "label": "Time frequency",
+      "category": {
+        "index": {
+          "S": 0
+        },
+        "label": {
+          "S": "Half-yearly, semesterly"
+        }
+      }
+    },
+    "siec": {
+      "label": "Standard international energy product classification (SIEC)",
+      "category": {
+        "index": {
+          "E7000": 0
+        },
+        "label": {
+          "E7000": "Electricity"
+        }
+      }
+    },
+    "nrg_cons": {
+      "label": "Energy consumption",
+      "category": {
+        "index": {
+          "TOT_KWH": 0,
+          "MWH_LT20": 1,
+          "MWH20-499": 2,
+          "MWH500-1999": 3,
+          "MWH2000-19999": 4,
+          "MWH20000-69999": 5,
+          "MWH70000-149999": 6,
+          "MWH_GE150000": 7
+        },
+        "label": {
+          "TOT_KWH": "Consumption of kWh - all bands",
+          "MWH_LT20": "Consumption less than 20 MWh - band IA",
+          "MWH20-499": "Consumption from 20 MWh to 499 MWh - band IB",
+          "MWH500-1999": "Consumption from 500 MWh to 1 999 MWh - band IC",
+          "MWH2000-19999": "Consumption from 2 000 MWh to 19 999 MWh - band ID",
+          "MWH20000-69999": "Consumption from 20 000 MWh to 69 999 MWh - band IE",
+          "MWH70000-149999": "Consumption from 70 000 MWh to 149 999 MWh - band IF",
+          "MWH_GE150000": "Consumption 150 000 MWh or over - band IG"
+        }
+      }
+    },
+    "unit": {
+      "label": "Unit of measure",
+      "category": {
+        "index": {
+          "KWH": 0
+        },
+        "label": {
+          "KWH": "Kilowatt-hour"
+        }
+      }
+    },
+    "tax": {
+      "label": "Taxes",
+      "category": {
+        "index": {
+          "X_TAX": 0,
+          "X_VAT": 1,
+          "I_TAX": 2
+        },
+        "label": {
+          "X_TAX": "Excluding taxes and levies",
+          "X_VAT": "Excluding VAT and other recoverable taxes and levies",
+          "I_TAX": "All taxes and levies included"
+        }
+      }
+    },
+    "currency": {
+      "label": "Currency",
+      "category": {
+        "index": {
+          "EUR": 0,
+          "PPS": 1,
+          "NAC": 2
+        },
+        "label": {
+          "EUR": "Euro",
+          "PPS": "Purchasing Power Standard",
+          "NAC": "National currency"
+        }
+      }
+    },
+    "geo": {
+      "label": "Geopolitical entity (reporting)",
+      "category": {
+        "index": {
+          "EU27_2020": 0
+        },
+        "label": {
+          "EU27_2020": "European Union - 27 countries (from 2020)"
+        }
+      }
+    },
+    "time": {
+      "label": "Time",
+      "category": {
+        "index": {
+          "2024-S1": 0,
+          "2024-S2": 1,
+          "2025-S1": 2,
+          "2025-S2": 3
+        },
+        "label": {
+          "2024-S1": "2024-S1",
+          "2024-S2": "2024-S2",
+          "2025-S1": "2025-S1",
+          "2025-S2": "2025-S2"
+        }
+      }
+    }
+  },
+  "extension": {
+    "lang": "EN",
+    "id": "NRG_PC_205",
+    "agencyId": "ESTAT",
+    "version": "1.0",
+    "datastructure": {
+      "id": "NRG_PC_205",
+      "agencyId": "ESTAT",
+      "version": "60.0"
+    },
+    "annotation": [
+      {
+        "type": "CREATED",
+        "date": "2023-06-13T11:20:27+0200"
+      },
+      {
+        "type": "DISSEMINATION_DOI_XML",
+        "title": "<adms:identifier xmlns:adms=\"http://www.w3.org/ns/adms#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core.html\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><adms:Identifier rdf:about=\"https://doi.org/10.2908/NRG_PC_205\"><skos:notation rdf:datatype=\"http://purl.org/spar/datacite/doi\">10.2908/NRG_PC_205</skos:notation><dct:creator rdf:resource=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/><dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2023-01-23</dct:issued></adms:Identifier></adms:identifier>"
+      },
+      {
+        "type": "DISSEMINATION_OBJECT_TYPE",
+        "title": "DATASET"
+      },
+      {
+        "type": "DISSEMINATION_TIMESTAMP_DATA",
+        "date": "2026-08-12T09:04:00+0200"
+      },
+      {
+        "type": "DISSEMINATION_TIMESTAMP_GLOBAL",
+        "date": "2026-08-12T09:04:00+0200"
+      },
+      {
+        "type": "DISSEMINATION_TIMESTAMP_PLANNED",
+        "date": "2026-08-11T23:00:00+0200"
+      },
+      {
+        "type": "ESMS_HTML",
+        "title": "Explanatory texts (metadata)",
+        "href": "https://ec.europa.eu/eurostat/cache/metadata/en/nrg_pc_204_sims.htm"
+      },
+      {
+        "type": "ESMS_SDMX",
+        "title": "Explanatory texts (metadata)",
+        "href": "https://ec.europa.eu/eurostat/api/dissemination/files?file=metadata/nrg_pc_204_sims.sdmx.zip"
+      },
+      {
+        "type": "OBS_COUNT",
+        "title": "79641"
+      },
+      {
+        "type": "OBS_PERIOD_OVERALL_LATEST",
+        "title": "2025-S2"
+      },
+      {
+        "type": "OBS_PERIOD_OVERALL_OLDEST",
+        "title": "2007-S1"
+      },
+      {
+        "type": "SOURCE_INSTITUTIONS",
+        "text": "Eurostat"
+      },
+      {
+        "type": "UPDATE_DATA",
+        "date": "2026-08-11T23:00:00+0200"
+      },
+      {
+        "type": "UPDATE_STRUCTURE",
+        "date": "2026-04-09T23:00:00+0200"
+      }
+    ],
+    "positions-with-no-data": {
+      "freq": [],
+      "siec": [],
+      "nrg_cons": [],
+      "unit": [],
+      "tax": [],
+      "currency": [
+        2
+      ],
+      "geo": [],
+      "time": []
+    }
+  }
+}

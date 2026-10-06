@@ -1,0 +1,44 @@
+{
+  "ifeu_assumed_cases": [
+    {
+      "scenario": "ifeu_individual",
+      "A": 0.95,
+      "B": 0.05,
+      "days_between_uses": 120.0,
+      "reported_mean": 10.0,
+      "source": "IFEU/EUPC (2025) pp. 42-43, Table 2-1",
+      "denominator_note": "The report uses additive loss (1-A)+B. B is not silently assumed conditional on returned assets; the sequential alternative is sensitivity only.",
+      "evidence_status": "report scenario assumption, not an observed cohort hazard"
+    },
+    {
+      "scenario": "ifeu_managed_pool",
+      "A": 0.99,
+      "B": 0.02,
+      "days_between_uses": 100.0,
+      "reported_mean": 33.0,
+      "source": "IFEU/EUPC (2025) pp. 42-43, Table 2-1",
+      "denominator_note": "The report uses additive loss (1-A)+B. B is not silently assumed conditional on returned assets; the sequential alternative is sensitivity only.",
+      "evidence_status": "report scenario assumption, not an observed cohort hazard"
+    },
+    {
+      "scenario": "ifeu_open_pool",
+      "A": 0.99,
+      "B": 0.03,
+      "days_between_uses": 80.0,
+      "reported_mean": 25.0,
+      "source": "IFEU/EUPC (2025) pp. 42-43, Table 2-1",
+      "denominator_note": "The report uses additive loss (1-A)+B. B is not silently assumed conditional on returned assets; the sequential alternative is sensitivity only.",
+      "evidence_status": "report scenario assumption, not an observed cohort hazard"
+    }
+  ],
+  "tua_facility_rejection": {
+    "tua_w1": 0.0055,
+    "tua_w2": 0.0046
+  },
+  "r3pack_assumed_case": {
+    "recovery": 0.68,
+    "conditional_scrap": 0.05,
+    "reported_mean": 2.82,
+    "evidence_status": "D3.4 model scenario; no measured cohort history"
+  }
+}

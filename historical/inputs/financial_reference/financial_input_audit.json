@@ -1,0 +1,39 @@
+{
+  "acquired_at_utc": "2026-10-01T05:12:11.349615+00:00",
+  "sources": [
+    {
+      "dataset": "nrg_pc_205",
+      "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_205?format=JSON&lang=en&geo=EU27_2020&sinceTimePeriod=2024",
+      "source_updated": "2026-08-11T23:00:00+0200",
+      "raw_sha256": "012b61e8b5ca89c52aa17ba40dfc8d15f13ac0c144ed5281734751729afeadca",
+      "raw_file": "source_files/eurostat_nrg_pc_205_EU27_2024plus.json",
+      "access": "public Eurostat API, no account",
+      "licence": "Eurostat/European Commission reuse policy; attribution required",
+      "spatial_coverage": "EU27_2020 aggregate; no non-EU countries",
+      "interpretation": "Public marginal-input stress context, not an observed wash-site tariff"
+    }
+  ],
+  "excluded_sources": [
+    {
+      "dataset": "nrg_pc_203",
+      "source_updated": "2026-09-24T23:00:00+0200",
+      "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_203?format=JSON&lang=en&geo=EU27_2020&sinceTimePeriod=2024",
+      "raw_file": "source_files/energy/eurostat_nrg_pc_203_EU27_2024_2025_acquired_20261001_v1.json",
+      "raw_sha256": "1c9514cd884385a045bca39289762ab9e58c396eee00b13edd4df96be847c238",
+      "reason": "Later revision cannot enter frozen scientific evidence; preserved read-only, not used"
+    }
+  ],
+  "ranges": {
+    "nrg_pc_205": {
+      "lower": 0.1067,
+      "upper": 0.298,
+      "cells": 28
+    }
+  },
+  "tax_convention": "X_VAT excludes VAT and other recoverable taxes/levies; retains non-recoverable levies",
+  "sampling": "No probability distribution assigned to price cells; extrema are context sensitivities",
+  "accounting": "Only extra energy quantities above source cleaning are charged at these prices; historical 0.07 EUR baseline washing remains bundled and is not double charged",
+  "heat_mapping": "Source 0.322 MJ/crate is delivered conventional-boiler heat; effective purchased-heat price p_H is a declared coordinate, not an admitted gas observation. Gas-to-heat conversion is not silently assumed.",
+  "cutoff": "All admitted snapshots updated no later than 2026-08-29; no current API revision silently replaces archived electricity",
+  "selected_rows": 28
+}

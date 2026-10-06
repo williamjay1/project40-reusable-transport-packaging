@@ -1,0 +1,79 @@
+{
+  "all_passed": true,
+  "source_doi": "10.1016/j.scitotenv.2024.175452",
+  "source_locator": "Table1 gross RPC mass; Table2 RPC manufacture electricity; article p.4",
+  "source_foreground_years": [
+    2021,
+    2022
+  ],
+  "service_boundary": "four unit RPC deliveries, each10kg fish plus2kg ice, final-ready endpoint",
+  "washing_assignment_condition": "Same original column problem. Allocated monthly resources (50% to relevant crate type); underlying monthly totals not public.",
+  "unknown_terms": [
+    "steam",
+    "material/masterbatch recipe",
+    "transport and complete washing technology",
+    "terminal gross burdens and substitution",
+    "food protection and refrigeration"
+  ],
+  "no_single_use_superiority_or_current_EU_effect": true,
+  "rows": [
+    {
+      "calendar_ready_life": 2,
+      "new_births": {
+        "pooled": 2,
+        "dedicated": 2
+      },
+      "equal_services": 4,
+      "fish_kg_per_service": 10,
+      "final_ready_washes_each_mode": 4,
+      "gross_new_crate_mass_kg": {
+        "pooled": 2.4,
+        "dedicated": 2.4
+      },
+      "manufacture_electricity_kWh": {
+        "pooled": 0.62,
+        "dedicated": 0.62
+      },
+      "conditional_manufacture_plus_wash_electricity_kWh": {
+        "pooled": 1.7799999999999998,
+        "dedicated": 1.7799999999999998
+      },
+      "conditional_wash_water_kg_each_mode": 4.8,
+      "ice_kg_each_mode": 8,
+      "avoided_gross_new_crate_mass_kg": 0.0,
+      "avoided_manufacture_electricity_kWh": 0.0,
+      "new_calendar_and_births_are_synthetic": true,
+      "not_complete_materials_energy_or_lcia": true,
+      "wash_context_assignment_common_and_cancels": true
+    },
+    {
+      "calendar_ready_life": 101,
+      "new_births": {
+        "pooled": 1,
+        "dedicated": 2
+      },
+      "equal_services": 4,
+      "fish_kg_per_service": 10,
+      "final_ready_washes_each_mode": 4,
+      "gross_new_crate_mass_kg": {
+        "pooled": 1.2,
+        "dedicated": 2.4
+      },
+      "manufacture_electricity_kWh": {
+        "pooled": 0.31,
+        "dedicated": 0.62
+      },
+      "conditional_manufacture_plus_wash_electricity_kWh": {
+        "pooled": 1.47,
+        "dedicated": 1.7799999999999998
+      },
+      "conditional_wash_water_kg_each_mode": 4.8,
+      "ice_kg_each_mode": 8,
+      "avoided_gross_new_crate_mass_kg": 1.2,
+      "avoided_manufacture_electricity_kWh": 0.31,
+      "new_calendar_and_births_are_synthetic": true,
+      "not_complete_materials_energy_or_lcia": true,
+      "wash_context_assignment_common_and_cancels": true
+    }
+  ]
+}

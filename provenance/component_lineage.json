@@ -1,0 +1,809 @@
+{
+  "manuscript_content_version": "EPSE_v39",
+  "public_release_candidate": "v1",
+  "externally_published": false,
+  "doi_assigned": false,
+  "no_raw_articles_or_ecoinvent": true,
+  "derived_numeric_changes": false,
+  "components": [
+    {
+      "file": "code/run_lifecycle_v38.py",
+      "source_component": "code/run_lifecycle_v38.py",
+      "original_sha256": "c8f9f591212545c7d161ecd1cb9ce14425837bb6d3b719dc36eabe3d8257a2ee",
+      "released_sha256": "c8f9f591212545c7d161ecd1cb9ce14425837bb6d3b719dc36eabe3d8257a2ee",
+      "byte_identical": true
+    },
+    {
+      "file": "code/extend_lifecycle_v38.py",
+      "source_component": "code/extend_lifecycle_v38.py",
+      "original_sha256": "637fdf3cbe8fcf611617955d89c067b5acb21758973f791203f619ca05825789",
+      "released_sha256": "637fdf3cbe8fcf611617955d89c067b5acb21758973f791203f619ca05825789",
+      "byte_identical": true
+    },
+    {
+      "file": "code/lifecycle_foreground_v38.py",
+      "source_component": "code/lifecycle_foreground_v38.py",
+      "original_sha256": "2964b20dc22e8202ae2e235af9e48d9e28ab67ac7e374969a035b3181c7a65b6",
+      "released_sha256": "2964b20dc22e8202ae2e235af9e48d9e28ab67ac7e374969a035b3181c7a65b6",
+      "byte_identical": true
+    },
+    {
+      "file": "code/lifecycle_v38_independent_check.py",
+      "source_component": "code/lifecycle_v38_independent_check.py",
+      "original_sha256": "86faa2053710dd8f4fd123c160a4ed29170391d4b81c8211e2edd49c2fb37fb4",
+      "released_sha256": "86faa2053710dd8f4fd123c160a4ed29170391d4b81c8211e2edd49c2fb37fb4",
+      "byte_identical": true
+    },
+    {
+      "file": "code/lifecycle_v38_path_verify.py",
+      "source_component": "code/lifecycle_v38_path_verify.py",
+      "original_sha256": "dcedafe05444e3a963505aa924b463167c0dc21ab535994a8e7d5f87da1e693e",
+      "released_sha256": "7a3f4057627428f974318eec2d691b5133bd247f3076b01007cf4b8503363a40",
+      "byte_identical": false
+    },
+    {
+      "file": "results/lifecycle_v38/pilot_protocol.md",
+      "source_component": "results/lifecycle_v38/pilot_protocol.md",
+      "original_sha256": "778ae2230a0320764bf133554e83c48bb98855580a51ff5b87bd4d4fc413059f",
+      "released_sha256": "778ae2230a0320764bf133554e83c48bb98855580a51ff5b87bd4d4fc413059f",
+      "byte_identical": true
+    },
+    {
+      "file": "results/lifecycle_v38/extension_protocol.md",
+      "source_component": "results/lifecycle_v38/extension_protocol.md",
+      "original_sha256": "5883d9e0b02a3fa81e9f4ff501696d46b72969995e85873a7706b5caa232d8d8",
+      "released_sha256": "5883d9e0b02a3fa81e9f4ff501696d46b72969995e85873a7706b5caa232d8d8",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/lifecycle_structural.json",
+      "source_component": "results/lifecycle_v38/extension/structural_results.json",
+      "original_sha256": "a27a35d86dcf5387b0d2a118081d41cd87efde6236abc2657e5235ab387b42ad",
+      "released_sha256": "a27a35d86dcf5387b0d2a118081d41cd87efde6236abc2657e5235ab387b42ad",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/foreground_bridge.json",
+      "source_component": "results/lifecycle_v38/foreground_v2/foreground_bridge.json",
+      "original_sha256": "779c9d77c3c346ba192ceb116134b7afdf30007075a5f1e80c34b03184c8c73a",
+      "released_sha256": "779c9d77c3c346ba192ceb116134b7afdf30007075a5f1e80c34b03184c8c73a",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/calendar_pool_network_v23.py",
+      "source_component": "geometry_refit_v36/code/calendar_pool_network_v23.py",
+      "original_sha256": "d3379155796814f3acd9799ed305e7529ce403a7be8fa7be9afaf6252d105a39",
+      "released_sha256": "670e2005b6b3a22a52d60bbaf87276d4406456f6e5d1505ee7d317d26c313a65",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/code/calendar_operating_thresholds_v23.py",
+      "source_component": "geometry_refit_v36/code/calendar_operating_thresholds_v23.py",
+      "original_sha256": "eb6df1a4a8a09cfec51bfc1cc4eda0d5618a8f5572b76d34b00aa233fe1e5c15",
+      "released_sha256": "eb6df1a4a8a09cfec51bfc1cc4eda0d5618a8f5572b76d34b00aa233fe1e5c15",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_calendar_pool_v23.py",
+      "source_component": "geometry_refit_v36/code/verify_calendar_pool_v23.py",
+      "original_sha256": "6bcdf36c9a6bf44a70e30756a4c16031f246bc9eef05bfcc67e4154055062748",
+      "released_sha256": "6bcdf36c9a6bf44a70e30756a4c16031f246bc9eef05bfcc67e4154055062748",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_operating_thresholds_v24.py",
+      "source_component": "geometry_refit_v36/code/verify_operating_thresholds_v24.py",
+      "original_sha256": "08e30137a5b546119f084462b260e89ece49c0a3a3cb8e8b032d61d7e7f8c6d5",
+      "released_sha256": "08e30137a5b546119f084462b260e89ece49c0a3a3cb8e8b032d61d7e7f8c6d5",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/run_calendar_phase_v33.py",
+      "source_component": "geometry_refit_v36/code/run_calendar_phase_v33.py",
+      "original_sha256": "8c3c99f805711c80ac4176855b9678cc0c1decaa8ae94c1a80aae09b4f841663",
+      "released_sha256": "44f5c2456c0b743de09882da4eccda823513278fe308ea02fff196ffeee2781c",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/code/verify_calendar_phase_v33.py",
+      "source_component": "geometry_refit_v36/code/verify_calendar_phase_v33.py",
+      "original_sha256": "73ded2ae95c6ae64bb7a69e3fbf71fea2ac5b21f005a9cb6acafe848b3e89fa9",
+      "released_sha256": "2592245b6544ab5a4b7453785f96c02bd5cf6c34dab861f2e9c663a9138c3c34",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/code/run_continuing_pool_v34.py",
+      "source_component": "geometry_refit_v36/code/run_continuing_pool_v34.py",
+      "original_sha256": "7d7db7f4ef9fe7e43e54a0ec92b2f9a18c848282b28f96c6c5280a3b9b6c1765",
+      "released_sha256": "2bebf0b10c815b55ba05343f6ba28bd3d70190a9145f0db2e1331a6b3c1bfbd1",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/code/derive_periodic_stock_certificates_v34.py",
+      "source_component": "geometry_refit_v36/code/derive_periodic_stock_certificates_v34.py",
+      "original_sha256": "634b43ce1eb30719fda791d8ebab348789571746c0b8ed32d3dbed091ac049e5",
+      "released_sha256": "634b43ce1eb30719fda791d8ebab348789571746c0b8ed32d3dbed091ac049e5",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_continuing_pool_v34.py",
+      "source_component": "geometry_refit_v36/code/verify_continuing_pool_v34.py",
+      "original_sha256": "53a43d2d6bce7b571cf36c112b0e391b3884d5004d16bda991622f5db1350c49",
+      "released_sha256": "69d4519027df7ec2d5c15ddbb7fcd4ae273733a3ca8016d27df851182de313ef",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/code/prepare_financial_inputs_v29.py",
+      "source_component": "geometry_refit_v36/code/prepare_financial_inputs_v29.py",
+      "original_sha256": "92e1b2362ca8e5a302ffe95cb1d345c972889782a5b715e53e1e666f6fc8569b",
+      "released_sha256": "92e1b2362ca8e5a302ffe95cb1d345c972889782a5b715e53e1e666f6fc8569b",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/calendar_financial_completion_v29.py",
+      "source_component": "geometry_refit_v36/code/calendar_financial_completion_v29.py",
+      "original_sha256": "8faa26e7ec58ff27a9abd7827fc25c50dcfffe3b58a6b2e1bcc168e2e5fd7de7",
+      "released_sha256": "8faa26e7ec58ff27a9abd7827fc25c50dcfffe3b58a6b2e1bcc168e2e5fd7de7",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_financial_completion_v29.py",
+      "source_component": "geometry_refit_v36/code/verify_financial_completion_v29.py",
+      "original_sha256": "3905a0960e082a65e9c0a8541b3a331e8aaff9edfe1cce1577902ca5b3cb17f7",
+      "released_sha256": "3905a0960e082a65e9c0a8541b3a331e8aaff9edfe1cce1577902ca5b3cb17f7",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/reevaluate_financial_joint_v29.py",
+      "source_component": "geometry_refit_v36/code/reevaluate_financial_joint_v29.py",
+      "original_sha256": "613760bdaecf23a5e8ad939384db16ede119ffcca016a33bf47c5b3cabc08976",
+      "released_sha256": "613760bdaecf23a5e8ad939384db16ede119ffcca016a33bf47c5b3cabc08976",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/calendar_collection_frontier_v25.py",
+      "source_component": "geometry_refit_v36/code/calendar_collection_frontier_v25.py",
+      "original_sha256": "b01e9b2af324543b56d542e1ac224dff0e31782ea68882bf1cf8c770cc7287d3",
+      "released_sha256": "b01e9b2af324543b56d542e1ac224dff0e31782ea68882bf1cf8c770cc7287d3",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/calendar_grid_component_screen_v25.py",
+      "source_component": "geometry_refit_v36/code/calendar_grid_component_screen_v25.py",
+      "original_sha256": "64ee5f7c50cf8ec061be84eeeffe598be26fde80adb4578da60864016dcb9898",
+      "released_sha256": "64ee5f7c50cf8ec061be84eeeffe598be26fde80adb4578da60864016dcb9898",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_collection_grid_v25.py",
+      "source_component": "geometry_refit_v36/code/verify_collection_grid_v25.py",
+      "original_sha256": "86b2a8842b50d592ccc3b523cc926cb4c6d0bd0f4aca391a952c544a3c5617c2",
+      "released_sha256": "86b2a8842b50d592ccc3b523cc926cb4c6d0bd0f4aca391a952c544a3c5617c2",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/integrate_joint_prior_v30.py",
+      "source_component": "geometry_refit_v36/code/integrate_joint_prior_v30.py",
+      "original_sha256": "6af30994122e949abdd72ea5d75a5372b8bdff6f4f35e46cda9936fdffe9086d",
+      "released_sha256": "6af30994122e949abdd72ea5d75a5372b8bdff6f4f35e46cda9936fdffe9086d",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_joint_integration_v30.py",
+      "source_component": "geometry_refit_v36/code/verify_joint_integration_v30.py",
+      "original_sha256": "065345b588a8327b7e8239dba6598d4cda6bb27208730a62228afbe5f23aeb1b",
+      "released_sha256": "065345b588a8327b7e8239dba6598d4cda6bb27208730a62228afbe5f23aeb1b",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/run_joint_travel_v31.py",
+      "source_component": "geometry_refit_v36/code/run_joint_travel_v31.py",
+      "original_sha256": "9b91cab55cedb51c667b4df5815b71662bbef3dc302beb15648726545e43b0ac",
+      "released_sha256": "9b91cab55cedb51c667b4df5815b71662bbef3dc302beb15648726545e43b0ac",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_joint_travel_v31.py",
+      "source_component": "geometry_refit_v36/code/verify_joint_travel_v31.py",
+      "original_sha256": "60c4d71779616d91a708905327d9e59887351e6814c2169b3b0116be39adce42",
+      "released_sha256": "60c4d71779616d91a708905327d9e59887351e6814c2169b3b0116be39adce42",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/run_joint_dependence_v32.py",
+      "source_component": "geometry_refit_v36/code/run_joint_dependence_v32.py",
+      "original_sha256": "90e8d4fdb1e4b2fc9d426a7d019c84cc11eeb4221a2f1388c0dc660fdee2797a",
+      "released_sha256": "90e8d4fdb1e4b2fc9d426a7d019c84cc11eeb4221a2f1388c0dc660fdee2797a",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/verify_joint_dependence_v32.py",
+      "source_component": "geometry_refit_v36/code/verify_joint_dependence_v32.py",
+      "original_sha256": "0ebd86dac5b30549fb1978538baf38fb3afaa6e93952377480f4d4c2cda1662f",
+      "released_sha256": "0ebd86dac5b30549fb1978538baf38fb3afaa6e93952377480f4d4c2cda1662f",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/compute_pooling_overhead_budget_v28.py",
+      "source_component": "geometry_refit_v36/code/compute_pooling_overhead_budget_v28.py",
+      "original_sha256": "c7644ee2059aabe1ce8f4097ae5d8ec6df564c9eb68559fa1140701b7320217d",
+      "released_sha256": "c7644ee2059aabe1ce8f4097ae5d8ec6df564c9eb68559fa1140701b7320217d",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/couple_pool_budget_and_cohort_v20.py",
+      "source_component": "geometry_refit_v36/code/couple_pool_budget_and_cohort_v20.py",
+      "original_sha256": "c765711af5bb464e07560ee2de63a0f17477ff762ae19f79e4211390d17af191",
+      "released_sha256": "c765711af5bb464e07560ee2de63a0f17477ff762ae19f79e4211390d17af191",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/code/extend_rejection_operating_certificate_v21.py",
+      "source_component": "geometry_refit_v36/code/extend_rejection_operating_certificate_v21.py",
+      "original_sha256": "c396d34469334d69d6011c323092415f75f2abc032e9a0556c658a23b6da8812",
+      "released_sha256": "c396d34469334d69d6011c323092415f75f2abc032e9a0556c658a23b6da8812",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/analysis_protocol.md",
+      "source_component": "geometry_refit_v36/analysis_protocol.md",
+      "original_sha256": "b5916df65ecb9152644a219133a89d7b471132a783ca01a2346f4cb53448fd2a",
+      "released_sha256": "b5916df65ecb9152644a219133a89d7b471132a783ca01a2346f4cb53448fd2a",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/inputs/barometer_crate_bins.csv",
+      "source_component": "geometry_refit_v36/inputs/barometer_crate_bins.csv",
+      "original_sha256": "fbaade8c6543c9babff164ec0fc9dca6c10bbd2d72e4f7840600e6c1f5dbdfaf",
+      "released_sha256": "fbaade8c6543c9babff164ec0fc9dca6c10bbd2d72e4f7840600e6c1f5dbdfaf",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/inputs/barometer_crate_bins_manifest.json",
+      "source_component": "geometry_refit_v36/inputs/barometer_crate_bins_manifest.json",
+      "original_sha256": "76732c30fe80dc320fd36591ddce2d1bc21d996e383556357ad86990500736c2",
+      "released_sha256": "76732c30fe80dc320fd36591ddce2d1bc21d996e383556357ad86990500736c2",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/inputs/energy/electricity_nrg_pc_205_frozen.json",
+      "source_component": "geometry_refit_v36/inputs/energy/electricity_nrg_pc_205_frozen.json",
+      "original_sha256": "012b61e8b5ca89c52aa17ba40dfc8d15f13ac0c144ed5281734751729afeadca",
+      "released_sha256": "18ea71ec4c04a4964f6128ac1ee3a62fd8e4ec9befb7f68a9580c0ffa78c1e70",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/energy/gas_nrg_pc_203_EXCLUDED_after_cutoff.json",
+      "source_component": "geometry_refit_v36/inputs/energy/gas_nrg_pc_203_EXCLUDED_after_cutoff.json",
+      "original_sha256": "1c9514cd884385a045bca39289762ab9e58c396eee00b13edd4df96be847c238",
+      "released_sha256": "5031b456cd5ee36f687f72ae0610fde22fa1a940da0520b0566ae5a6e5dac356",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/financial_reference/financial_input_audit.json",
+      "source_component": "geometry_refit_v36/inputs/financial_reference/financial_input_audit.json",
+      "original_sha256": "de595851ec41c695ab00071ac2e050adace09e4d5da3c1a90f96bc38e103c296",
+      "released_sha256": "e1385567681fcdde9adb939241ca00c4717cc891d5398e434750376293374135",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/financial_reference/industrial_energy_contexts.csv",
+      "source_component": "geometry_refit_v36/inputs/financial_reference/industrial_energy_contexts.csv",
+      "original_sha256": "6843fa77805ac9336b52900e21bf1799e6e8ea1ec729a1a86b29b44a101098e3",
+      "released_sha256": "6843fa77805ac9336b52900e21bf1799e6e8ea1ec729a1a86b29b44a101098e3",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/inputs/geometry/geometry_numeric_facts.csv",
+      "source_component": "geometry_refit_v36/inputs/geometry/geometry_numeric_facts.csv",
+      "original_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "released_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/inputs/geometry/geometry_provenance.json",
+      "source_component": "geometry_refit_v36/inputs/geometry/geometry_provenance.json",
+      "original_sha256": "747da0410016d91c8ec975e9a01542ff1775769daea68019272dc0d38ddbab58",
+      "released_sha256": "d88793f6d4e7aa2d97187ac40d153e4358f71126bca884951d947dcde37cf4ad",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/JRC_generation_2026_acquired_20261001_v1.xlsx",
+      "source_component": "geometry_refit_v36/inputs/JRC_generation_2026_acquired_20261001_v1.xlsx",
+      "original_sha256": "d0a55f52bb791752b1ee46dba25f0fb6927ba81ea728f36ea53e04b8ae80be58",
+      "released_sha256": "d0a55f52bb791752b1ee46dba25f0fb6927ba81ea728f36ea53e04b8ae80be58",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/inputs/process_contributions_provenance.json",
+      "source_component": "geometry_refit_v36/inputs/process_contributions_provenance.json",
+      "original_sha256": "e8d57834a38af793fb60c8da4bf4f6a3e85bc30a5fbfc23b13b727aa293dc62e",
+      "released_sha256": "aee9c9841297a7199899620c3b9e33cd055bd8a6ea90e69a78708d0d8fcccc01",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/r3pack_schema_reference.json",
+      "source_component": "geometry_refit_v36/inputs/r3pack_schema_reference.json",
+      "original_sha256": "d99c5fac0f986b0fb49c22c7cc694d9a876bc7e74ff5bac7c2bf116f2f7846fc",
+      "released_sha256": "de3461fbd831b221177de5773c84770f214f273731bfc65ebc2fa063dd12075c",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/replacement_stage_facts_v21.json",
+      "source_component": "geometry_refit_v36/inputs/replacement_stage_facts_v21.json",
+      "original_sha256": "878e27d69a61751391f4d5d2514cbe2068aebc736317119ee6e684567338b879",
+      "released_sha256": "1b5c40f8be5ad442926e8fea3dda29c1c0387ffaca862fcd61d5b861998ab476",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/source_parameters.json",
+      "source_component": "geometry_refit_v36/inputs/source_parameters.json",
+      "original_sha256": "7076f374264ac6866a292db7cb8aa032bf47cb0ea53b1d1b4a1a155e16716495",
+      "released_sha256": "28f4119adc2226ef3315a0d362a6bb5684448cd97ffe6bb4903586555d6776db",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/source_provenance.json",
+      "source_component": "geometry_refit_v36/inputs/source_provenance.json",
+      "original_sha256": "0007be01b889c4aada483a5f91e326f6a1b3d98f1c59ea2ea85ce1fa6ba04bf2",
+      "released_sha256": "f7064e52c600632ef385fe65b8fe31ad3f40e6abe5d55bb5098a6424cdf65af5",
+      "change": "JSON formatting and source/acquisition metadata only; numerical values unchanged",
+      "byte_identical": false
+    },
+    {
+      "file": "historical/inputs/tua_process_contributions.csv",
+      "source_component": "geometry_refit_v36/inputs/tua_process_contributions.csv",
+      "original_sha256": "af447a7e41cdcdf00fb6a522d15c6f43b0437e0fc9cf573cb7534d69c8346835",
+      "released_sha256": "af447a7e41cdcdf00fb6a522d15c6f43b0437e0fc9cf573cb7534d69c8346835",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/inputs/tua_reported_grid.csv",
+      "source_component": "geometry_refit_v36/inputs/tua_reported_grid.csv",
+      "original_sha256": "90f46b75566539818a20e951b5f3d6311aa0a4a4f800adfff1d0da37eaf396e4",
+      "released_sha256": "90f46b75566539818a20e951b5f3d6311aa0a4a4f800adfff1d0da37eaf396e4",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/reference/results/calendar_phase_v33/analysis_protocol.md",
+      "source_component": "release_20261001_v34/results/calendar_phase_v33/analysis_protocol.md",
+      "original_sha256": "1540a9dbf9dfd0d3ce0ada83ff5495e118a246556c8aa330100a4a8fde1b2ba6",
+      "released_sha256": "1540a9dbf9dfd0d3ce0ada83ff5495e118a246556c8aa330100a4a8fde1b2ba6",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/reference/results/continuing_pool_v34/analysis_protocol.md",
+      "source_component": "release_20261001_v34/results/continuing_pool_v34/analysis_protocol.md",
+      "original_sha256": "04a07a4ee31f923db99c9a9eb18aaf6117783eb888985815345ea59564834a97",
+      "released_sha256": "04a07a4ee31f923db99c9a9eb18aaf6117783eb888985815345ea59564834a97",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/reference/results/joint_travel_v31/analysis_protocol.md",
+      "source_component": "release_20261001_v34/results/joint_travel_v31/analysis_protocol.md",
+      "original_sha256": "35a3111290e79c68f77cea22ca2af7a594c4c0c36fe968fc0f9726ea8d34267a",
+      "released_sha256": "35a3111290e79c68f77cea22ca2af7a594c4c0c36fe968fc0f9726ea8d34267a",
+      "byte_identical": true
+    },
+    {
+      "file": "historical/reference/results/joint_dependence_v32/analysis_protocol.md",
+      "source_component": "release_20261001_v34/results/joint_dependence_v32/analysis_protocol.md",
+      "original_sha256": "108bc208341dcc92e939c755d65aec9b4f11cdc980d825a0a885f7786fc04f44",
+      "released_sha256": "108bc208341dcc92e939c755d65aec9b4f11cdc980d825a0a885f7786fc04f44",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_thresholds_v23/fixed_policy_probabilistic_travel_thresholds.csv",
+      "source_component": "geometry_refit_v36/results/calendar_thresholds_v23/fixed_policy_probabilistic_travel_thresholds.csv",
+      "original_sha256": "1a3a5a5d0d9cba327bc3bae4e44524da96f37223dd462e0ab327f6bc7b6fd2a4",
+      "released_sha256": "1a3a5a5d0d9cba327bc3bae4e44524da96f37223dd462e0ab327f6bc7b6fd2a4",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_thresholds_v23/source_nonnegative_remaining_stage_checks.csv",
+      "source_component": "geometry_refit_v36/results/calendar_thresholds_v23/source_nonnegative_remaining_stage_checks.csv",
+      "original_sha256": "93707ebaa30786a92f2c94cd04785c59b66bc07f14bcbdf873e79cf9beb6a21d",
+      "released_sha256": "93707ebaa30786a92f2c94cd04785c59b66bc07f14bcbdf873e79cf9beb6a21d",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_thresholds_v23/strong_baseline_comparisons.csv",
+      "source_component": "geometry_refit_v36/results/calendar_thresholds_v23/strong_baseline_comparisons.csv",
+      "original_sha256": "4a39566a1eecb0dc409c31bec30aff1ceeecc3abc8daea5f99661bc2ccc17978",
+      "released_sha256": "4a39566a1eecb0dc409c31bec30aff1ceeecc3abc8daea5f99661bc2ccc17978",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/continuing_pool_v34/geometry_numeric_facts.csv",
+      "source_component": "geometry_refit_v36/results/continuing_pool_v34/geometry_numeric_facts.csv",
+      "original_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "released_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/continuing_pool_v34/periodic_comparisons.csv",
+      "source_component": "geometry_refit_v36/results/continuing_pool_v34/periodic_comparisons.csv",
+      "original_sha256": "96b0360f5f9d0f211095895cae8f9f11003dbd8039dcae4536874cc597f1f330",
+      "released_sha256": "96b0360f5f9d0f211095895cae8f9f11003dbd8039dcae4536874cc597f1f330",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/continuing_pool_v34/periodic_stock_certificates.csv",
+      "source_component": "geometry_refit_v36/results/continuing_pool_v34/periodic_stock_certificates.csv",
+      "original_sha256": "f9296a9af8fcd8f5eecd0227385ca5cf5a4af2d11ecb486618cad1911bb1e53b",
+      "released_sha256": "f9296a9af8fcd8f5eecd0227385ca5cf5a4af2d11ecb486618cad1911bb1e53b",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_collection_v25/collection_energy_fate_frontier.csv",
+      "source_component": "geometry_refit_v36/results/calendar_collection_v25/collection_energy_fate_frontier.csv",
+      "original_sha256": "87fa0c0e6ed6609790bbea5031b529c580729f89c1a616a762973655925993c8",
+      "released_sha256": "87fa0c0e6ed6609790bbea5031b529c580729f89c1a616a762973655925993c8",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_collection_v25/financial_capacity_stress_comparisons.csv",
+      "source_component": "geometry_refit_v36/results/calendar_collection_v25/financial_capacity_stress_comparisons.csv",
+      "original_sha256": "0f15bfa7b6105c0a6c2c035a329a016c3a50aeff481ce0871f4051e189874ebd",
+      "released_sha256": "0f15bfa7b6105c0a6c2c035a329a016c3a50aeff481ce0871f4051e189874ebd",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_collection_v25/geometry_numeric_facts.csv",
+      "source_component": "geometry_refit_v36/results/calendar_collection_v25/geometry_numeric_facts.csv",
+      "original_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "released_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_collection_v25/missing_fate_allowances.csv",
+      "source_component": "geometry_refit_v36/results/calendar_collection_v25/missing_fate_allowances.csv",
+      "original_sha256": "d0c07f02152e4ef8803adc83e74d4539380c1423bb2acfe2d791296cd911c13e",
+      "released_sha256": "d0c07f02152e4ef8803adc83e74d4539380c1423bb2acfe2d791296cd911c13e",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_collection_v25/source_calendar_calibration.csv",
+      "source_component": "geometry_refit_v36/results/calendar_collection_v25/source_calendar_calibration.csv",
+      "original_sha256": "08dd6c47bc17eaa33a195cf1dee10adf35f3c095b9ef09ad4dbd9f4bd7b0811a",
+      "released_sha256": "08dd6c47bc17eaa33a195cf1dee10adf35f3c095b9ef09ad4dbd9f4bd7b0811a",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_phase_v33/geometry_numeric_facts.csv",
+      "source_component": "geometry_refit_v36/results/calendar_phase_v33/geometry_numeric_facts.csv",
+      "original_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "released_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_phase_v33/phase_network_comparisons.csv",
+      "source_component": "geometry_refit_v36/results/calendar_phase_v33/phase_network_comparisons.csv",
+      "original_sha256": "2563443eae6410b86c331bb26e8ba54c352e6988ace4cbe792727e65d3895a61",
+      "released_sha256": "2563443eae6410b86c331bb26e8ba54c352e6988ace4cbe792727e65d3895a61",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_phase_v33/phase_stock_screen.csv",
+      "source_component": "geometry_refit_v36/results/calendar_phase_v33/phase_stock_screen.csv",
+      "original_sha256": "8e6bae124384b2767587f6bd4d2301ac69bbf3844577b9d54bb249ae358136ce",
+      "released_sha256": "8e6bae124384b2767587f6bd4d2301ac69bbf3844577b9d54bb249ae358136ce",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_financial_v29/discounted_cashflow_ledger.csv",
+      "source_component": "geometry_refit_v36/results/calendar_financial_v29/discounted_cashflow_ledger.csv",
+      "original_sha256": "3c697a72c4c07838655bafb188b4bf373adc780682f6a69d28a06df1d23e0079",
+      "released_sha256": "3c697a72c4c07838655bafb188b4bf373adc780682f6a69d28a06df1d23e0079",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_financial_v29/financial_completion_comparisons.csv",
+      "source_component": "geometry_refit_v36/results/calendar_financial_v29/financial_completion_comparisons.csv",
+      "original_sha256": "e540e721550904f5da076a9b424857e9b814c85fba9f4a022d00653413d01848",
+      "released_sha256": "e540e721550904f5da076a9b424857e9b814c85fba9f4a022d00653413d01848",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_financial_v29/geometry_numeric_facts.csv",
+      "source_component": "geometry_refit_v36/results/calendar_financial_v29/geometry_numeric_facts.csv",
+      "original_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "released_sha256": "ab4a281b645fda39cbdf147ebbe3e6ffd9d8d56171494520a25ebccd01890e5a",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_financial_v29/joint_environment_financial_budgets.csv",
+      "source_component": "geometry_refit_v36/results/calendar_financial_v29/joint_environment_financial_budgets.csv",
+      "original_sha256": "316abaa28a7b8401a9a20eeb81d04c3467744b7c6375950649cd4482969e9acd",
+      "released_sha256": "316abaa28a7b8401a9a20eeb81d04c3467744b7c6375950649cd4482969e9acd",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_financial_v29/source_calendar_calibration.csv",
+      "source_component": "geometry_refit_v36/results/calendar_financial_v29/source_calendar_calibration.csv",
+      "original_sha256": "08dd6c47bc17eaa33a195cf1dee10adf35f3c095b9ef09ad4dbd9f4bd7b0811a",
+      "released_sha256": "08dd6c47bc17eaa33a195cf1dee10adf35f3c095b9ef09ad4dbd9f4bd7b0811a",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/joint_integration_v30/environmental_halfplanes.csv",
+      "source_component": "geometry_refit_v36/results/joint_integration_v30/environmental_halfplanes.csv",
+      "original_sha256": "c7ef1bbbfe8a0853ec3fa3841417ce9e41ae1be7d4f4bda2e282a54cd73e0dd0",
+      "released_sha256": "c7ef1bbbfe8a0853ec3fa3841417ce9e41ae1be7d4f4bda2e282a54cd73e0dd0",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/joint_integration_v30/integrated_joint_decisions.csv",
+      "source_component": "geometry_refit_v36/results/joint_integration_v30/integrated_joint_decisions.csv",
+      "original_sha256": "8b289c01c10a7d17adb8c3bd8f33a77496915747c0d7b6cf2daa74acc9843ba4",
+      "released_sha256": "8b289c01c10a7d17adb8c3bd8f33a77496915747c0d7b6cf2daa74acc9843ba4",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/joint_travel_v31/continuous_environment_coefficients.csv",
+      "source_component": "geometry_refit_v36/results/joint_travel_v31/continuous_environment_coefficients.csv",
+      "original_sha256": "83e8b2426ddaeffce34afd90934408fd0ab2b2d75b023cb536b146ca0183b2cb",
+      "released_sha256": "83e8b2426ddaeffce34afd90934408fd0ab2b2d75b023cb536b146ca0183b2cb",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/joint_travel_v31/joint_travel_thresholds.csv",
+      "source_component": "geometry_refit_v36/results/joint_travel_v31/joint_travel_thresholds.csv",
+      "original_sha256": "4d42a7de34004ef60c0498f1242f5a849fe1ba4fb552755418460221932a2d74",
+      "released_sha256": "4d42a7de34004ef60c0498f1242f5a849fe1ba4fb552755418460221932a2d74",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/joint_dependence_v32/joint_dependence_thresholds.csv",
+      "source_component": "geometry_refit_v36/results/joint_dependence_v32/joint_dependence_thresholds.csv",
+      "original_sha256": "8f58f6e01a33ea51c2425672a008731f8d03a786aa565cbd55f16f688e01dac1",
+      "released_sha256": "8f58f6e01a33ea51c2425672a008731f8d03a786aa565cbd55f16f688e01dac1",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_grid_component_v25/country_wash_climate_component.csv",
+      "source_component": "geometry_refit_v36/results/calendar_grid_component_v25/country_wash_climate_component.csv",
+      "original_sha256": "f643787d657d9a8557522ec65899d0c8e864e07674fdb02f0e103ff9bfa5e350",
+      "released_sha256": "f643787d657d9a8557522ec65899d0c8e864e07674fdb02f0e103ff9bfa5e350",
+      "byte_identical": true
+    },
+    {
+      "file": "benchmarks/historical/calendar_grid_component_v25/eu27_generation_climate_factors.csv",
+      "source_component": "geometry_refit_v36/results/calendar_grid_component_v25/eu27_generation_climate_factors.csv",
+      "original_sha256": "d01f57ce3e81311067558d7ca8196f7dd6b206ac3e6c85616d639ab13d007e98",
+      "released_sha256": "d01f57ce3e81311067558d7ca8196f7dd6b206ac3e6c85616d639ab13d007e98",
+      "byte_identical": true
+    },
+    {
+      "file": "code/plot_epse_nature_v39.py",
+      "source_component": "code/plot_epse_nature_v39.py",
+      "original_sha256": "078db6e7649354386c7a4ed412cc621510396714c6a33bfb51c3639c03c44ac3",
+      "released_sha256": "afc86e243da52751f7eaf3ca4c119db7cf09080a70b079852202c8e89c8d5b0f",
+      "byte_identical": false
+    },
+    {
+      "file": "code/vendor/scienceplots_v39/LICENSE",
+      "source_component": "code/vendor/scienceplots_v39/LICENSE",
+      "original_sha256": "9e5d935909270a14c3e9dc5ede0bcfc73a69fc3411f70ddd9e05065602a46cdb",
+      "released_sha256": "9e5d935909270a14c3e9dc5ede0bcfc73a69fc3411f70ddd9e05065602a46cdb",
+      "byte_identical": true
+    },
+    {
+      "file": "code/vendor/scienceplots_v39/nature.mplstyle",
+      "source_component": "code/vendor/scienceplots_v39/nature.mplstyle",
+      "original_sha256": "1d39b7974b71da2b92349f7f95d2e17f94dc83b335a0e1c18dfab522b363b0e2",
+      "released_sha256": "1d39b7974b71da2b92349f7f95d2e17f94dc83b335a0e1c18dfab522b363b0e2",
+      "byte_identical": true
+    },
+    {
+      "file": "code/vendor/scienceplots_v39/no-latex.mplstyle",
+      "source_component": "code/vendor/scienceplots_v39/no-latex.mplstyle",
+      "original_sha256": "a2f7749add6d6e658891fa89eb51df2ab5758f35ab36be109495fae11ac0640b",
+      "released_sha256": "a2f7749add6d6e658891fa89eb51df2ab5758f35ab36be109495fae11ac0640b",
+      "byte_identical": true
+    },
+    {
+      "file": "code/vendor/scienceplots_v39/science.mplstyle",
+      "source_component": "code/vendor/scienceplots_v39/science.mplstyle",
+      "original_sha256": "b7ab81c1d1bc762f389a0c50c895a3f6346cbb1dfce53778d6f443a319aa9fa1",
+      "released_sha256": "b7ab81c1d1bc762f389a0c50c895a3f6346cbb1dfce53778d6f443a319aa9fa1",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure1_lifecycle.pdf",
+      "source_component": "manuscript/figures_v39/figure1_lifecycle.pdf",
+      "original_sha256": "84c3ac0c822d08b0457242ab17cd3ec10b872d4a2a4d6f930d59909ebfaa4a16",
+      "released_sha256": "84c3ac0c822d08b0457242ab17cd3ec10b872d4a2a4d6f930d59909ebfaa4a16",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure1_lifecycle.svg",
+      "source_component": "manuscript/figures_v39/figure1_lifecycle.svg",
+      "original_sha256": "bb7f63a7c3c74c2d00685935759c1bd4ca4213c4b9cf2975faf16740345dce07",
+      "released_sha256": "bb7f63a7c3c74c2d00685935759c1bd4ca4213c4b9cf2975faf16740345dce07",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure2_calendar.pdf",
+      "source_component": "manuscript/figures_v39/figure2_calendar.pdf",
+      "original_sha256": "11639d5119fab6b62a94105612cc7146fe95ba7fc5b9e48dd725cfef07095826",
+      "released_sha256": "11639d5119fab6b62a94105612cc7146fe95ba7fc5b9e48dd725cfef07095826",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure2_calendar.svg",
+      "source_component": "manuscript/figures_v39/figure2_calendar.svg",
+      "original_sha256": "d2239079b709ab9a6064e7fa6800cdd9752f66069ade01f776d882d9d202ed86",
+      "released_sha256": "d2239079b709ab9a6064e7fa6800cdd9752f66069ade01f776d882d9d202ed86",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure3_delay_age.pdf",
+      "source_component": "manuscript/figures_v39/figure3_delay_age.pdf",
+      "original_sha256": "cd4b8c8c6d2796eb4c6b53085d7b0d7b6397a174b7e6162b0ee53ae170e907be",
+      "released_sha256": "cd4b8c8c6d2796eb4c6b53085d7b0d7b6397a174b7e6162b0ee53ae170e907be",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure3_delay_age.svg",
+      "source_component": "manuscript/figures_v39/figure3_delay_age.svg",
+      "original_sha256": "0a1d35868b570bdf67788235b0a1388ba380ee0c16fe05042eff70cafbc268e2",
+      "released_sha256": "0a1d35868b570bdf67788235b0a1388ba380ee0c16fe05042eff70cafbc268e2",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure4_workflow.pdf",
+      "source_component": "manuscript/figures_v39/figure4_workflow.pdf",
+      "original_sha256": "50478717b888563547b0f3d1456ccfa04654e6718b096235b478d6d2dcb3198a",
+      "released_sha256": "50478717b888563547b0f3d1456ccfa04654e6718b096235b478d6d2dcb3198a",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/figure4_workflow.svg",
+      "source_component": "manuscript/figures_v39/figure4_workflow.svg",
+      "original_sha256": "56b36a1e13cb90625a3823c55dac0e885676e444843436f27f3ef02d17a6014e",
+      "released_sha256": "56b36a1e13cb90625a3823c55dac0e885676e444843436f27f3ef02d17a6014e",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/graphical_abstract.pdf",
+      "source_component": "manuscript/figures_v39/graphical_abstract.pdf",
+      "original_sha256": "df19d346c84fc93f9f34c5dc703119df3d68ee47bbfe16be4381e0d580c67abf",
+      "released_sha256": "df19d346c84fc93f9f34c5dc703119df3d68ee47bbfe16be4381e0d580c67abf",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/graphical_abstract.svg",
+      "source_component": "manuscript/figures_v39/graphical_abstract.svg",
+      "original_sha256": "716b5392890d9e0415db061adf4f7b972dad15819086bca7b4bd84d7e4487b5f",
+      "released_sha256": "716b5392890d9e0415db061adf4f7b972dad15819086bca7b4bd84d7e4487b5f",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_1_lifecycle.pdf",
+      "source_component": "manuscript/figures_v39/supplement_1_lifecycle.pdf",
+      "original_sha256": "d42bbba22510e9c960fe7ac45037014752c8325beb91d9c2873446e5b8f5a6c6",
+      "released_sha256": "d42bbba22510e9c960fe7ac45037014752c8325beb91d9c2873446e5b8f5a6c6",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_1_lifecycle.svg",
+      "source_component": "manuscript/figures_v39/supplement_1_lifecycle.svg",
+      "original_sha256": "9b3a3e4af589d51d94fd52bdc790dae3c28eb804b69d102a849ef5a755db185e",
+      "released_sha256": "9b3a3e4af589d51d94fd52bdc790dae3c28eb804b69d102a849ef5a755db185e",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_2_ownership.pdf",
+      "source_component": "manuscript/figures_v39/supplement_2_ownership.pdf",
+      "original_sha256": "b1bb16cff7ccd54b9a9bbffc836a823def2f6a4b8b3c2991ae95940e1528b201",
+      "released_sha256": "b1bb16cff7ccd54b9a9bbffc836a823def2f6a4b8b3c2991ae95940e1528b201",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_2_ownership.svg",
+      "source_component": "manuscript/figures_v39/supplement_2_ownership.svg",
+      "original_sha256": "2cd59e5195e45e1326780ed61f5e43ac394afc9aef6a3b7eb65933372a1941f3",
+      "released_sha256": "2cd59e5195e45e1326780ed61f5e43ac394afc9aef6a3b7eb65933372a1941f3",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_3_collection.pdf",
+      "source_component": "manuscript/figures_v39/supplement_3_collection.pdf",
+      "original_sha256": "8a1fbff930bed10511650d2796cfd69274e7b0c78de3ac9b6562b09a37229d40",
+      "released_sha256": "8a1fbff930bed10511650d2796cfd69274e7b0c78de3ac9b6562b09a37229d40",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_3_collection.svg",
+      "source_component": "manuscript/figures_v39/supplement_3_collection.svg",
+      "original_sha256": "2eabdefafab88bc35f706e16637407420415fe360d295550f9ee5eb031b98f39",
+      "released_sha256": "2eabdefafab88bc35f706e16637407420415fe360d295550f9ee5eb031b98f39",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_4_events.pdf",
+      "source_component": "manuscript/figures_v39/supplement_4_events.pdf",
+      "original_sha256": "cdbb1963338b42a16b708248b75bebb80aa3082d5125804a13dc849c34ffd4a9",
+      "released_sha256": "cdbb1963338b42a16b708248b75bebb80aa3082d5125804a13dc849c34ffd4a9",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_4_events.svg",
+      "source_component": "manuscript/figures_v39/supplement_4_events.svg",
+      "original_sha256": "f18b6453a3e6bfc4016828a9b70a83ac6bedb9725ae45c7d5b8e2f68f261146a",
+      "released_sha256": "f18b6453a3e6bfc4016828a9b70a83ac6bedb9725ae45c7d5b8e2f68f261146a",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_5_attainment.pdf",
+      "source_component": "manuscript/figures_v39/supplement_5_attainment.pdf",
+      "original_sha256": "08201f69167eb989cc7f7f43f66c29d176917d468320b1c519362cf927fcf7a2",
+      "released_sha256": "08201f69167eb989cc7f7f43f66c29d176917d468320b1c519362cf927fcf7a2",
+      "byte_identical": true
+    },
+    {
+      "file": "figures_reference/supplement_5_attainment.svg",
+      "source_component": "manuscript/figures_v39/supplement_5_attainment.svg",
+      "original_sha256": "784881e26f72521e876321d268cc1aca7128e4a88fedf062830914e8d6aba4a9",
+      "released_sha256": "784881e26f72521e876321d268cc1aca7128e4a88fedf062830914e8d6aba4a9",
+      "byte_identical": true
+    }
+  ],
+  "changes": [
+    {
+      "file": "code/lifecycle_v38_path_verify.py",
+      "change": "Removed only manuscript-label inspection; retained all state/trajectory/certificate/486-formula/324-state computations. Relative fingerprint keys."
+    },
+    {
+      "file": "historical\\code\\run_calendar_phase_v33.py",
+      "change": "portable path/storage guard",
+      "original": "if os.name=='nt' and out.drive.upper()!='D:':",
+      "replacement": "if False:"
+    },
+    {
+      "file": "historical\\code\\verify_calendar_phase_v33.py",
+      "change": "portable path/storage guard",
+      "original": "require(root.drive.upper() == \"D:\", \"Verification results must stay on the D drive\")",
+      "replacement": "require(root.is_absolute(), \"Choose an absolute package directory\")"
+    },
+    {
+      "file": "historical\\code\\run_continuing_pool_v34.py",
+      "change": "portable path/storage guard",
+      "original": "if os.name=='nt' and out.drive.upper()!='D:':",
+      "replacement": "if False:"
+    },
+    {
+      "file": "historical\\code\\verify_continuing_pool_v34.py",
+      "change": "portable path/storage guard",
+      "original": "require(os.name == \"nt\" and out.drive.upper() == \"D:\", \"Report writes must remain on Windows D:\")",
+      "replacement": "require(out.is_absolute(), \"Choose an absolute output directory\")"
+    },
+    {
+      "file": "historical/run_geometry_refit_v36.py",
+      "change": "Four included scenario protocols replace external historical release; portable workspace guard. Scientific 24-step commands unchanged."
+    },
+    {
+      "file": "code/plot_supplement_functions.py",
+      "change": "Same checked SI plotting functions; wrapper and manuscript typography audit removed, minimal semantic inputs supplied, portable font fallback."
+    }
+  ],
+  "portability_changes": [
+    "Paths locate package-relative data; Windows/D-only execution guards removed from public copies.",
+    "Mathematical assertions and declared scenario grids retained.",
+    "Independent canonical structural checks separated from unavailable frozen TeX inspection.",
+    "Original supplementary font resolver uses FontProperties for actual tested Matplotlib API.",
+    "Four foreground scalar facts retain source provenance; broad seafood extracts omitted.",
+    "Root wrapper validates frozen scientific quantities and independently verifies actual witnesses.",
+    "cached_geometry now preserves exact provenance bytes instead of reserializing JSON; downstream hash checks are unchanged."
+  ]
+}

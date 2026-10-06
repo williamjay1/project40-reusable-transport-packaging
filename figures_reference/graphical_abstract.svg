@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="170.07874pt" height="141.732283pt" viewBox="0 0 170.07874 141.732283" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-05T15:02:12.551480</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 141.732283 
+L 170.07874 141.732283 
+L 170.07874 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="workflow-card">
+    <path d="M 11.565354 38.211024 
+L 158.513386 38.211024 
+L 158.513386 9.637795 
+L 11.565354 9.637795 
+z
+" clip-path="url(#p2112aa3e21)" style="fill: #f4f6f7; stroke: #c2c7ca; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="workflow-card">
+    <path d="M 11.565354 80.390551 
+L 158.513386 80.390551 
+L 158.513386 51.817323 
+L 11.565354 51.817323 
+z
+" clip-path="url(#p2112aa3e21)" style="fill: #f4f6f7; stroke: #c2c7ca; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="workflow-card">
+    <path d="M 11.565354 122.570079 
+L 158.513386 122.570079 
+L 158.513386 93.99685 
+L 11.565354 93.99685 
+z
+" clip-path="url(#p2112aa3e21)" style="fill: #f4f6f7; stroke: #c2c7ca; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 85.03937 42.525044 
+Q 85.03937 45.560284 85.03937 47.701097 
+" clip-path="url(#p2112aa3e21)" style="fill: none; stroke: #0072b2; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 86.43937 44.901097 
+L 85.03937 47.701097 
+L 83.63937 44.901097 
+z
+" clip-path="url(#p2112aa3e21)" style="fill: #0072b2; stroke: #0072b2; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 85.03937 84.704572 
+Q 85.03937 87.739812 85.03937 89.880625 
+" clip-path="url(#p2112aa3e21)" style="fill: none; stroke: #0072b2; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 86.43937 87.080625 
+L 85.03937 89.880625 
+L 83.63937 87.080625 
+z
+" clip-path="url(#p2112aa3e21)" style="fill: #0072b2; stroke: #0072b2; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="85.03937" y="21.654043" transform="rotate(-0 85.03937 21.654043)">Asset lifetime</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="85.03937" y="32.331991" transform="rotate(-0 85.03937 32.331991)">Age and remaining uses</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="85.03937" y="63.833571" transform="rotate(-0 85.03937 63.833571)">Return calendar</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="85.03937" y="74.511518" transform="rotate(-0 85.03937 74.511518)">Availability and replacement</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="85.03937" y="106.013098" transform="rotate(-0 85.03937 106.013098)">Environmental benefit</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="85.03937" y="116.691106" transform="rotate(-0 85.03937 116.691106)">Matched service and full flows</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2112aa3e21">
+   <rect x="3.401575" y="2.834646" width="163.275591" height="136.062992"/>
+  </clipPath>
+ </defs>
+</svg>

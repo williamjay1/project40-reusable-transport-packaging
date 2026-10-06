@@ -1,0 +1,239 @@
+{
+  "audit_date_utc": "2026-09-27T20:25:17.564739+00:00",
+  "source_file_name": "R3PACK_D3.5_dataset_2026.xlsx",
+  "source_record": "https://zenodo.org/records/21392137",
+  "record_doi": "10.5281/zenodo.21392137",
+  "record_expected_md5": "431ae25f99695d68d26747062918cff6",
+  "local_md5": "431ae25f99695d68d26747062918cff6",
+  "md5_matches_record": true,
+  "local_sha256": "97003577379532efa469b94e8585e5960bf6437fe9d93539951707f7206a3812",
+  "record_license_note": "The Zenodo record labels the item Dataset/Open, but its displayed License field is blank at retrieval; cite/link the source and do not redistribute the workbook absent a clarified license.",
+  "read_mode": "openpyxl read_only=True, data_only=True",
+  "sheet_count": 22,
+  "sheets": [
+    {
+      "sheet": "Product",
+      "data_rows": 19,
+      "columns": [
+        "A",
+        "wkg_a",
+        "sat_a",
+        "PKG",
+        "J",
+        "TurnIndex"
+      ]
+    },
+    {
+      "sheet": "ProductPackaging",
+      "data_rows": 38,
+      "columns": [
+        "A",
+        "C",
+        "qm_b"
+      ]
+    },
+    {
+      "sheet": "DistributionCenter",
+      "data_rows": 145,
+      "columns": [
+        "D",
+        "fc_d",
+        "sa_d",
+        "sm_d"
+      ]
+    },
+    {
+      "sheet": "FoodPackager",
+      "data_rows": 46,
+      "columns": [
+        "F",
+        "fc_f"
+      ]
+    },
+    {
+      "sheet": "EAN",
+      "data_rows": 19,
+      "columns": [
+        "J"
+      ]
+    },
+    {
+      "sheet": "PackagingList",
+      "data_rows": 10,
+      "columns": [
+        "M",
+        "wkg_m",
+        "satpf_m",
+        "satrvmo_m",
+        "satow_m",
+        "satwf_m",
+        "CostoDep_m",
+        "ScrapRate_m",
+        "TARI_m",
+        "eric_m",
+        "CostoProd_m"
+      ]
+    },
+    {
+      "sheet": "Sorter",
+      "data_rows": 14,
+      "columns": [
+        "O",
+        "s_o",
+        "TI_o"
+      ]
+    },
+    {
+      "sheet": "PackagingProducer",
+      "data_rows": 29,
+      "columns": [
+        "P"
+      ]
+    },
+    {
+      "sheet": "PARAMETERS",
+      "data_rows": 1,
+      "columns": [
+        "COCP",
+        "VelMedia",
+        "CTemp"
+      ]
+    },
+    {
+      "sheet": "RVM",
+      "data_rows": 1,
+      "columns": [
+        "RVM",
+        "fc_rvm",
+        "cap_rvm",
+        "TI_rvm",
+        "fe_rvm"
+      ]
+    },
+    {
+      "sheet": "Store",
+      "data_rows": 2366,
+      "columns": [
+        "S"
+      ]
+    },
+    {
+      "sheet": "Transport",
+      "data_rows": 1,
+      "columns": [
+        "T",
+        "cap_t",
+        "dc_t",
+        "e_t"
+      ]
+    },
+    {
+      "sheet": "Washer",
+      "data_rows": 35,
+      "columns": [
+        "W",
+        "plt_w"
+      ]
+    },
+    {
+      "sheet": "DC_Product",
+      "data_rows": 2755,
+      "columns": [
+        "D",
+        "A",
+        "TI_da",
+        "hc_da"
+      ]
+    },
+    {
+      "sheet": "FP_Product",
+      "data_rows": 60,
+      "columns": [
+        "F",
+        "A",
+        "plt_fa",
+        "c_fa"
+      ]
+    },
+    {
+      "sheet": "FP_Packaging",
+      "data_rows": 56,
+      "columns": [
+        "F",
+        "M"
+      ]
+    },
+    {
+      "sheet": "Sorter_Packaging",
+      "data_rows": 140,
+      "columns": [
+        "O",
+        "M",
+        "c_om"
+      ]
+    },
+    {
+      "sheet": "PackagingProducer_Pack",
+      "data_rows": 52,
+      "columns": [
+        "P",
+        "plt_pm",
+        "M",
+        "cp_pm",
+        "e_pm"
+      ]
+    },
+    {
+      "sheet": "Store_Product",
+      "data_rows": 44954,
+      "columns": [
+        "S",
+        "A"
+      ]
+    },
+    {
+      "sheet": "Demand",
+      "data_rows": 44954,
+      "columns": [
+        "S",
+        "J",
+        "dem_sj",
+        "StoreType"
+      ]
+    },
+    {
+      "sheet": "WasherPackaging",
+      "data_rows": 240,
+      "columns": [
+        "W",
+        "M",
+        "c_wm",
+        "e_wm"
+      ]
+    },
+    {
+      "sheet": "Distances",
+      "data_rows": 29382,
+      "columns": [
+        "NodeFrom",
+        "NodeTo",
+        "Distance"
+      ]
+    }
+  ],
+  "candidate_event_or_history_headers": [
+    {
+      "sheet": "Product",
+      "header": "TurnIndex"
+    }
+  ],
+  "product_turnindex_n": 19,
+  "product_turnindex_distinct_values": [
+    10,
+    21,
+    41,
+    261,
+    730
+  ],
+  "interpretation": "This is a static regional MILP input workbook. TurnIndex is a product-level model input, not a longitudinal asset history. The schema does not identify asset survival, dated return-to-ready events, seasonal pool inventory, or observed washing/rejection sequences."
+}

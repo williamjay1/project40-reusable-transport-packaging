@@ -1,0 +1,29 @@
+dataset,band,band_label,semester,tax,unit,value
+nrg_pc_205,MWH20-499,Consumption from 20 MWh to 499 MWh - band IB,2024-S1,X_VAT,EUR/kWh,0.2294
+nrg_pc_205,MWH20-499,Consumption from 20 MWh to 499 MWh - band IB,2024-S2,X_VAT,EUR/kWh,0.2279
+nrg_pc_205,MWH20-499,Consumption from 20 MWh to 499 MWh - band IB,2025-S1,X_VAT,EUR/kWh,0.2291
+nrg_pc_205,MWH20-499,Consumption from 20 MWh to 499 MWh - band IB,2025-S2,X_VAT,EUR/kWh,0.2179
+nrg_pc_205,MWH2000-19999,Consumption from 2 000 MWh to 19 999 MWh - band ID,2024-S1,X_VAT,EUR/kWh,0.163
+nrg_pc_205,MWH2000-19999,Consumption from 2 000 MWh to 19 999 MWh - band ID,2024-S2,X_VAT,EUR/kWh,0.1712
+nrg_pc_205,MWH2000-19999,Consumption from 2 000 MWh to 19 999 MWh - band ID,2025-S1,X_VAT,EUR/kWh,0.164
+nrg_pc_205,MWH2000-19999,Consumption from 2 000 MWh to 19 999 MWh - band ID,2025-S2,X_VAT,EUR/kWh,0.1596
+nrg_pc_205,MWH20000-69999,Consumption from 20 000 MWh to 69 999 MWh - band IE,2024-S1,X_VAT,EUR/kWh,0.1386
+nrg_pc_205,MWH20000-69999,Consumption from 20 000 MWh to 69 999 MWh - band IE,2024-S2,X_VAT,EUR/kWh,0.1444
+nrg_pc_205,MWH20000-69999,Consumption from 20 000 MWh to 69 999 MWh - band IE,2025-S1,X_VAT,EUR/kWh,0.1381
+nrg_pc_205,MWH20000-69999,Consumption from 20 000 MWh to 69 999 MWh - band IE,2025-S2,X_VAT,EUR/kWh,0.1342
+nrg_pc_205,MWH500-1999,Consumption from 500 MWh to 1 999 MWh - band IC,2024-S1,X_VAT,EUR/kWh,0.1885
+nrg_pc_205,MWH500-1999,Consumption from 500 MWh to 1 999 MWh - band IC,2024-S2,X_VAT,EUR/kWh,0.1941
+nrg_pc_205,MWH500-1999,Consumption from 500 MWh to 1 999 MWh - band IC,2025-S1,X_VAT,EUR/kWh,0.1903
+nrg_pc_205,MWH500-1999,Consumption from 500 MWh to 1 999 MWh - band IC,2025-S2,X_VAT,EUR/kWh,0.1837
+nrg_pc_205,MWH70000-149999,Consumption from 70 000 MWh to 149 999 MWh - band IF,2024-S1,X_VAT,EUR/kWh,0.1186
+nrg_pc_205,MWH70000-149999,Consumption from 70 000 MWh to 149 999 MWh - band IF,2024-S2,X_VAT,EUR/kWh,0.1264
+nrg_pc_205,MWH70000-149999,Consumption from 70 000 MWh to 149 999 MWh - band IF,2025-S1,X_VAT,EUR/kWh,0.1246
+nrg_pc_205,MWH70000-149999,Consumption from 70 000 MWh to 149 999 MWh - band IF,2025-S2,X_VAT,EUR/kWh,0.1217
+nrg_pc_205,MWH_GE150000,Consumption 150 000 MWh or over - band IG,2024-S1,X_VAT,EUR/kWh,0.1067
+nrg_pc_205,MWH_GE150000,Consumption 150 000 MWh or over - band IG,2024-S2,X_VAT,EUR/kWh,0.1187
+nrg_pc_205,MWH_GE150000,Consumption 150 000 MWh or over - band IG,2025-S1,X_VAT,EUR/kWh,0.113
+nrg_pc_205,MWH_GE150000,Consumption 150 000 MWh or over - band IG,2025-S2,X_VAT,EUR/kWh,0.1096
+nrg_pc_205,MWH_LT20,Consumption less than 20 MWh - band IA,2024-S1,X_VAT,EUR/kWh,0.2871
+nrg_pc_205,MWH_LT20,Consumption less than 20 MWh - band IA,2024-S2,X_VAT,EUR/kWh,0.2965
+nrg_pc_205,MWH_LT20,Consumption less than 20 MWh - band IA,2025-S1,X_VAT,EUR/kWh,0.2969
+nrg_pc_205,MWH_LT20,Consumption less than 20 MWh - band IA,2025-S2,X_VAT,EUR/kWh,0.298

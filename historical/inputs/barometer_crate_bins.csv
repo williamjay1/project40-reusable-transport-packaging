@@ -1,0 +1,6 @@
+source_report,printed_page,pdf_page,figure,package_category,cycle_bin_label,lower_bound,lower_inclusive,upper_bound,upper_inclusive,displayed_entry_count,extraction_method
+European Reuse Barometer 2025,65,33,13,Crates,Very Low: 0-15,0,true,15,true,0,manual visual transcription
+European Reuse Barometer 2025,65,33,13,Crates,Low: 16-35,16,true,35,true,0,manual visual transcription
+European Reuse Barometer 2025,65,33,13,Crates,Medium: 36-60,36,true,60,true,3,manual visual transcription
+European Reuse Barometer 2025,65,33,13,Crates,High: 61-100,61,true,100,true,0,manual visual transcription
+European Reuse Barometer 2025,65,33,13,Crates,Very High: >100,100,false,,false,2,manual visual transcription

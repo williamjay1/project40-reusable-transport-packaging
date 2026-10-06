@@ -1,0 +1,169 @@
+services,indicator,reported,reconstructed,printed_half_width,inside_printed_interval
+1,Climate change,327.89,327.8898717948718,0.005,True
+1,Ozone depletion,2.8e-05,2.7981428571428575e-05,5e-08,True
+1,"Human toxicity, non-cancer effects",4.26e-05,4.2562389487328474e-05,5e-08,True
+1,"Human toxicity, cancer effects",1.36e-05,1.3634999999999994e-05,5e-08,True
+1,Particulate matter,0.128,0.12772,0.0005,True
+1,Photochemical ozone formation,0.93,0.9334971098265896,0.005,True
+1,Acidification,1.5,1.4984146341463411,0.005,True
+1,Terrestrial eutrophication,2.45,2.4540449438202256,0.005,True
+1,Freshwater eutrophication,0.112,0.11186011761303383,0.0005,True
+1,Marine eutrophication,0.245,0.24496874999999999,0.0005,True
+1,Freshwater ecotoxicity,1933.0,1933.0713265043182,0.5,True
+1,"Mineral, fossil & renewable resource depletion",0.00537,0.005365849056603772,5e-06,True
+1,Cumulative energy demand,8855.0,8855.38764044944,0.5,True
+1,Water depletion,4.29,4.289999999999999,0.005,True
+3,Climate change,343.6,343.5996153846154,0.005,True
+3,Ozone depletion,3.04e-05,3.037e-05,5e-08,True
+3,"Human toxicity, non-cancer effects",4.53e-05,4.52928538863809e-05,5e-08,True
+3,"Human toxicity, cancer effects",1.41e-05,1.4129999999999993e-05,5e-08,True
+3,Particulate matter,0.134,0.13363999999999998,0.0005,True
+3,Photochemical ozone formation,0.97,0.9728034682080924,0.005,True
+3,Acidification,1.56,1.5576829268292678,0.005,True
+3,Terrestrial eutrophication,2.57,2.570449438202248,0.005,True
+3,Freshwater eutrophication,0.115,0.11495767858864359,0.0005,True
+3,Marine eutrophication,0.258,0.25828125,0.0005,True
+3,Freshwater ecotoxicity,2052.0,2051.921274989952,0.5,True
+3,"Mineral, fossil & renewable resource depletion",0.00571,0.0057088679245283006,5e-06,True
+3,Cumulative energy demand,9161.0,9161.09550561798,0.5,True
+3,Water depletion,4.44,4.443333333333333,0.005,True
+5,Climate change,359.31,359.30935897435893,0.005,True
+5,Ozone depletion,3.28e-05,3.2758571428571426e-05,5e-08,True
+5,"Human toxicity, non-cancer effects",4.8e-05,4.802331828543332e-05,5e-08,True
+5,"Human toxicity, cancer effects",1.46e-05,1.4624999999999991e-05,5e-08,True
+5,Particulate matter,0.14,0.13956,0.0005,True
+5,Photochemical ozone formation,1.01,1.0121098265895951,0.005,True
+5,Acidification,1.62,1.6169512195121944,0.005,True
+5,Terrestrial eutrophication,2.69,2.6868539325842704,0.005,True
+5,Freshwater eutrophication,0.118,0.11805523956425334,0.0005,True
+5,Marine eutrophication,0.272,0.2715937500000001,0.0005,True
+5,Freshwater ecotoxicity,2171.0,2170.7712234755863,0.5,True
+5,"Mineral, fossil & renewable resource depletion",0.00605,0.00605188679245283,5e-06,True
+5,Cumulative energy demand,9467.0,9466.803370786518,0.5,True
+5,Water depletion,4.6,4.596666666666667,0.005,True
+8,Climate change,382.87,382.87397435897435,0.005,True
+8,Ozone depletion,3.63e-05,3.634142857142857e-05,5e-08,True
+8,"Human toxicity, non-cancer effects",5.21e-05,5.211901488401198e-05,5e-08,True
+8,"Human toxicity, cancer effects",1.54e-05,1.5367499999999995e-05,5e-08,True
+8,Particulate matter,0.148,0.14844,0.0005,True
+8,Photochemical ozone formation,1.07,1.0710693641618498,0.005,True
+8,Acidification,1.71,1.7058536585365849,0.005,True
+8,Terrestrial eutrophication,2.86,2.8614606741573043,0.005,True
+8,Freshwater eutrophication,0.123,0.12270158102766797,0.0005,True
+8,Marine eutrophication,0.292,0.2915625,0.0005,True
+8,Freshwater ecotoxicity,2349.0,2349.0461462040366,0.5,True
+8,"Mineral, fossil & renewable resource depletion",0.00657,0.006566415094339622,5e-06,True
+8,Cumulative energy demand,9925.0,9925.365168539327,0.5,True
+8,Water depletion,4.83,4.826666666666665,0.005,True
+20,Climate change,477.13,477.1324358974359,0.005,True
+20,Ozone depletion,5.07e-05,5.067285714285715e-05,5e-08,True
+20,"Human toxicity, non-cancer effects",6.85e-05,6.850180127832655e-05,5e-08,True
+20,"Human toxicity, cancer effects",1.83e-05,1.8337499999999995e-05,5e-08,True
+20,Particulate matter,0.184,0.18395999999999998,0.0005,True
+20,Photochemical ozone formation,1.31,1.306907514450867,0.005,True
+20,Acidification,2.06,2.061463414634146,0.005,True
+20,Terrestrial eutrophication,3.56,3.5598876404494386,0.005,True
+20,Freshwater eutrophication,0.141,0.14128694688132654,0.0005,True
+20,Marine eutrophication,0.371,0.3714375,0.0005,True
+20,Freshwater ecotoxicity,3062.0,3062.14583711784,0.5,True
+20,"Mineral, fossil & renewable resource depletion",0.00862,0.008624528301886793,5e-06,True
+20,Cumulative energy demand,11760.0,11759.612359550561,0.5,True
+20,Water depletion,5.75,5.746666666666665,0.005,True
+30,Climate change,555.68,555.6811538461538,0.005,True
+30,Ozone depletion,6.26e-05,6.261571428571429e-05,5e-08,True
+30,"Human toxicity, non-cancer effects",8.22e-05,8.215412327358868e-05,5e-08,True
+30,"Human toxicity, cancer effects",2.08e-05,2.0812499999999994e-05,5e-08,True
+30,Particulate matter,0.214,0.21356,0.0005,True
+30,Photochemical ozone formation,1.5,1.5034393063583815,0.005,True
+30,Acidification,2.36,2.35780487804878,0.005,True
+30,Terrestrial eutrophication,4.14,4.141910112359551,0.005,True
+30,Freshwater eutrophication,0.157,0.1567747517593753,0.0005,True
+30,Marine eutrophication,0.438,0.43800000000000006,0.0005,True
+30,Freshwater ecotoxicity,3656.0,3656.395579546009,0.5,True
+30,"Mineral, fossil & renewable resource depletion",0.0103,0.010339622641509436,5e-05,True
+30,Cumulative energy demand,13288.0,13288.151685393259,0.5,True
+30,Water depletion,6.51,6.513333333333332,0.005,True
+40,Climate change,634.23,634.2298717948719,0.005,True
+40,Ozone depletion,7.46e-05,7.455857142857144e-05,5e-08,True
+40,"Human toxicity, non-cancer effects",9.58e-05,9.580644526885084e-05,5e-08,True
+40,"Human toxicity, cancer effects",2.33e-05,2.3287499999999993e-05,5e-08,True
+40,Particulate matter,0.243,0.24316,0.0005,True
+40,Photochemical ozone formation,1.7,1.699971098265896,0.005,True
+40,Acidification,2.65,2.6541463414634143,0.005,True
+40,Terrestrial eutrophication,4.72,4.723932584269663,0.005,True
+40,Freshwater eutrophication,0.172,0.1722625566374241,0.0005,True
+40,Marine eutrophication,0.505,0.5045625,0.0005,True
+40,Freshwater ecotoxicity,4251.0,4250.645321974179,0.5,True
+40,"Mineral, fossil & renewable resource depletion",0.0121,0.012054716981132078,5e-05,True
+40,Cumulative energy demand,14817.0,14816.691011235956,0.5,True
+40,Water depletion,7.28,7.279999999999998,0.005,True
+50,Climate change,712.78,712.7785897435897,0.005,True
+50,Ozone depletion,8.65e-05,8.650142857142858e-05,5e-08,True
+50,"Human toxicity, non-cancer effects",0.000109,0.00010945876726411301,5e-07,True
+50,"Human toxicity, cancer effects",2.58e-05,2.5762499999999993e-05,5e-08,True
+50,Particulate matter,0.273,0.27276,0.0005,True
+50,Photochemical ozone formation,1.9,1.8965028901734102,0.005,True
+50,Acidification,2.95,2.9504878048780485,0.005,True
+50,Terrestrial eutrophication,5.31,5.3059550561797755,0.005,True
+50,Freshwater eutrophication,0.188,0.18775036151547286,0.0005,True
+50,Marine eutrophication,0.571,0.5711250000000001,0.0005,True
+50,Freshwater ecotoxicity,4845.0,4844.895064402348,0.5,True
+50,"Mineral, fossil & renewable resource depletion",0.0138,0.01376981132075472,5e-05,True
+50,Cumulative energy demand,16345.0,16345.230337078652,0.5,True
+50,Water depletion,8.05,8.046666666666665,0.005,True
+70,Climate change,869.88,869.8760256410256,0.005,True
+70,Ozone depletion,0.00011,0.00011038714285714285,5e-07,True
+70,"Human toxicity, non-cancer effects",0.000137,0.00013676341125463726,5e-07,True
+70,"Human toxicity, cancer effects",3.07e-05,3.0712499999999994e-05,5e-08,True
+70,Particulate matter,0.332,0.33196,0.0005,True
+70,Photochemical ozone formation,2.29,2.2895664739884394,0.005,True
+70,Acidification,3.54,3.543170731707317,0.005,True
+70,Terrestrial eutrophication,6.47,6.470000000000001,0.005,True
+70,Freshwater eutrophication,0.219,0.21872597127157045,0.0005,True
+70,Marine eutrophication,0.704,0.7042500000000002,0.0005,True
+70,Freshwater ecotoxicity,6033.0,6033.394549258687,0.5,True
+70,"Mineral, fossil & renewable resource depletion",0.0172,0.017200000000000003,5e-05,True
+70,Cumulative energy demand,19402.0,19402.308988764045,0.5,True
+70,Water depletion,9.58,9.579999999999998,0.005,True
+90,Climate change,1026.97,1026.9734615384616,0.005,True
+90,Ozone depletion,0.000134,0.00013427285714285716,5e-07,True
+90,"Human toxicity, non-cancer effects",0.000164,0.00016406805524516157,5e-07,True
+90,"Human toxicity, cancer effects",3.57e-05,3.566249999999999e-05,5e-08,True
+90,Particulate matter,0.391,0.39115999999999995,0.0005,True
+90,Photochemical ozone formation,2.68,2.682630057803468,0.005,True
+90,Acidification,4.14,4.135853658536586,0.005,True
+90,Terrestrial eutrophication,7.63,7.634044943820227,0.005,True
+90,Freshwater eutrophication,0.25,0.24970158102766807,0.0005,True
+90,Marine eutrophication,0.837,0.8373750000000001,0.0005,True
+90,Freshwater ecotoxicity,7222.0,7221.894034115025,0.5,True
+90,"Mineral, fossil & renewable resource depletion",0.0206,0.020630188679245293,5e-05,True
+90,Cumulative energy demand,22459.0,22459.38764044944,0.5,True
+90,Water depletion,11.11,11.11333333333333,0.005,True
+100,Climate change,1105.52,1105.5221794871795,0.005,True
+100,Ozone depletion,0.000146,0.0001462157142857143,5e-07,True
+100,"Human toxicity, non-cancer effects",0.000178,0.0001777203772404237,5e-07,True
+100,"Human toxicity, cancer effects",3.81e-05,3.81375e-05,5e-08,True
+100,Particulate matter,0.421,0.42075999999999986,0.0005,True
+100,Photochemical ozone formation,2.88,2.879161849710982,0.005,True
+100,Acidification,4.43,4.43219512195122,0.005,True
+100,Terrestrial eutrophication,8.22,8.21606741573034,0.005,True
+100,Freshwater eutrophication,0.265,0.26518938590571683,0.0005,True
+100,Marine eutrophication,0.904,0.9039375000000002,0.0005,True
+100,Freshwater ecotoxicity,7816.0,7816.143776543194,0.5,True
+100,"Mineral, fossil & renewable resource depletion",0.0223,0.022345283018867935,5e-05,True
+100,Cumulative energy demand,23988.0,23987.926966292136,0.5,True
+100,Water depletion,11.88,11.879999999999997,0.005,True
+125,Climate change,1301.89,1301.8939743589742,0.005,True
+125,Ozone depletion,0.000176,0.00017607285714285712,5e-07,True
+125,"Human toxicity, non-cancer effects",0.000212,0.00021185118222857908,5e-07,True
+125,"Human toxicity, cancer effects",4.43e-05,4.4325e-05,5e-08,True
+125,Particulate matter,0.495,0.49476,0.0005,True
+125,Photochemical ozone formation,3.37,3.3704913294797683,0.005,True
+125,Acidification,5.17,5.173048780487804,0.005,True
+125,Terrestrial eutrophication,9.67,9.67112359550562,0.005,True
+125,Freshwater eutrophication,0.304,0.3039088981008388,0.0005,True
+125,Marine eutrophication,1.07,1.0703437500000004,0.005,True
+125,Freshwater ecotoxicity,9302.0,9301.768132613619,0.5,True
+125,"Mineral, fossil & renewable resource depletion",0.0266,0.02663301886792454,5e-05,True
+125,Cumulative energy demand,27809.0,27809.27528089888,0.5,True
+125,Water depletion,13.8,13.796666666666665,0.005,True

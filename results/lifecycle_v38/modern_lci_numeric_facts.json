@@ -1,0 +1,62 @@
+{
+  "schema": "project40.foreground_scalar_facts.v1",
+  "scope": "Four attributed published numeric facts, not a reproduced LCI/database or article table.",
+  "source_doi": "10.1016/j.scitotenv.2024.175452",
+  "source_license": "Article: CC BY-NC-ND; no new licence assigned to third-party source content.",
+  "source_sha256": "8f93ca3db6384f45980651ecbed27221137134fac245464b924ee8a4bd436fe6",
+  "physical_inputs": [
+    {
+      "id": "rpc_weight",
+      "stage": "birth",
+      "system": "RPC",
+      "value": 1.2,
+      "unit": "kg",
+      "basis": "one new crate",
+      "source_id": "ceballos_F",
+      "locator": "PDF p.4 Table 1 Weight (kg), RPC",
+      "status": "reported",
+      "condition": "Transport-format HDPE crate; gross crate mass, not automatically 1.2 kg neat HDPE."
+    },
+    {
+      "id": "rpc_production_electricity",
+      "stage": "birth",
+      "system": "RPC",
+      "value": 0.31,
+      "unit": "kWh",
+      "basis": "one crate",
+      "source_id": "ceballos_F",
+      "locator": "PDF p.4 Table 2 Electricity (kWh), Manufacture, RPC",
+      "status": "reported",
+      "condition": "Spanish residual electricity mix 2021, modelled; public process LCIA vector absent."
+    },
+    {
+      "id": "rpc_wash_water_context",
+      "stage": "washing",
+      "system": "RPC",
+      "value": 1.2,
+      "unit": "kg water",
+      "basis": "one wash (contextual assignment)",
+      "source_id": "ceballos_F",
+      "locator": "PDF p.4 Table 2 Washing and disinfection process, Water (kg)",
+      "status": "context_assigned_column_ambiguity",
+      "condition": "Numbers lie under the EPS column region in the original PDF; p.5 section 2.4.3 and p.6 section 2.6.4 assign washing to reusable RPC only."
+    },
+    {
+      "id": "rpc_wash_electricity_context",
+      "stage": "washing",
+      "system": "RPC",
+      "value": 0.29,
+      "unit": "kWh",
+      "basis": "one wash (contextual assignment)",
+      "source_id": "ceballos_F",
+      "locator": "PDF p.4 Table 2 Washing and disinfection process, Electricity (kWh)",
+      "status": "context_assigned_column_ambiguity",
+      "condition": "Same original column problem. Allocated monthly resources (50% to relevant crate type); underlying monthly totals not public."
+    }
+  ],
+  "limitations": [
+    "Contextual wash column assignment retained.",
+    "Gross mass is not neat-HDPE mass.",
+    "Unknown steam/material/background/fate flows; no complete LCIA claim."
+  ]
+}

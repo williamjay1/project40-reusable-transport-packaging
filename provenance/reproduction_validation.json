@@ -1,0 +1,603 @@
+{
+  "all_passed": true,
+  "scope": "all",
+  "started_at_utc": "2026-10-05T08:47:17.599181+00:00",
+  "finished_at_utc": "2026-10-05T08:53:16.036518+00:00",
+  "repository_inputs_unchanged": true,
+  "runtime": {
+    "python": "3.12.10",
+    "numpy": "2.5.1",
+    "scipy": "1.18.0",
+    "matplotlib": "3.11.1",
+    "openpyxl": "3.1.5",
+    "Pillow": "12.3.0"
+  },
+  "lifecycle": {
+    "policies": 578,
+    "matched_declared_inputs_and_scientific_counters": true,
+    "independently_validated_witnesses": 578,
+    "certificate_integer_gaps": 14,
+    "formula_rows": 486,
+    "box_comparisons": 324,
+    "matched_foreground": true
+  },
+  "historical": {
+    "all24_producer_verifier_steps_pass": true,
+    "tables": [
+      {
+        "table": "calendar_collection_v25/collection_energy_fate_frontier.csv",
+        "rows": 124,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_collection_v25/financial_capacity_stress_comparisons.csv",
+        "rows": 4,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_collection_v25/geometry_numeric_facts.csv",
+        "rows": 490,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_collection_v25/missing_fate_allowances.csv",
+        "rows": 840,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_collection_v25/source_calendar_calibration.csv",
+        "rows": 168,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_financial_v29/discounted_cashflow_ledger.csv",
+        "rows": 111479,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_financial_v29/financial_completion_comparisons.csv",
+        "rows": 28,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_financial_v29/geometry_numeric_facts.csv",
+        "rows": 490,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_financial_v29/joint_environment_financial_budgets.csv",
+        "rows": 432,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_financial_v29/source_calendar_calibration.csv",
+        "rows": 168,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_grid_component_v25/country_wash_climate_component.csv",
+        "rows": 270,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_grid_component_v25/eu27_generation_climate_factors.csv",
+        "rows": 27,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_phase_v33/geometry_numeric_facts.csv",
+        "rows": 490,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_phase_v33/phase_network_comparisons.csv",
+        "rows": 16,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_phase_v33/phase_stock_screen.csv",
+        "rows": 567,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_thresholds_v23/fixed_policy_probabilistic_travel_thresholds.csv",
+        "rows": 10,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_thresholds_v23/source_nonnegative_remaining_stage_checks.csv",
+        "rows": 14,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "calendar_thresholds_v23/strong_baseline_comparisons.csv",
+        "rows": 5,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "continuing_pool_v34/geometry_numeric_facts.csv",
+        "rows": 490,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "continuing_pool_v34/periodic_comparisons.csv",
+        "rows": 20,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "continuing_pool_v34/periodic_stock_certificates.csv",
+        "rows": 40,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "joint_dependence_v32/joint_dependence_thresholds.csv",
+        "rows": 432,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "joint_integration_v30/environmental_halfplanes.csv",
+        "rows": 1008,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "joint_integration_v30/integrated_joint_decisions.csv",
+        "rows": 432,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "joint_travel_v31/continuous_environment_coefficients.csv",
+        "rows": 504,
+        "maximum_absolute_error": 0.0
+      },
+      {
+        "table": "joint_travel_v31/joint_travel_thresholds.csv",
+        "rows": 432,
+        "maximum_absolute_error": 0.0
+      }
+    ],
+    "no_empirical_EU_fleet_validation": true
+  },
+  "declared_synthetic": true,
+  "empirical_asset_data": false,
+  "paid_LCA_database_required": false,
+  "external_deposit_performed": false,
+  "doi_assigned": false,
+  "runs": [
+    {
+      "script": "code/run_lifecycle_v38.py",
+      "arguments": [],
+      "exit_code": 0,
+      "seconds": 4.39100000000326,
+      "log": "logs/01_run_lifecycle_v38.log"
+    },
+    {
+      "script": "code/extend_lifecycle_v38.py",
+      "arguments": [],
+      "exit_code": 0,
+      "seconds": 0.9529999999795109,
+      "log": "logs/02_extend_lifecycle_v38.log"
+    },
+    {
+      "script": "code/lifecycle_foreground_v38.py",
+      "arguments": [],
+      "exit_code": 0,
+      "seconds": 2.234000000025844,
+      "log": "logs/03_lifecycle_foreground_v38.log"
+    },
+    {
+      "script": "code/lifecycle_v38_independent_check.py",
+      "arguments": [],
+      "exit_code": 0,
+      "seconds": 0.8909999999741558,
+      "log": "logs/04_lifecycle_v38_independent_check.log"
+    },
+    {
+      "script": "code/lifecycle_v38_path_verify.py",
+      "arguments": [],
+      "exit_code": 0,
+      "seconds": 10.28100000001723,
+      "log": "logs/05_lifecycle_v38_path_verify.log"
+    },
+    {
+      "script": "code/lifecycle_v38_path_verify.py",
+      "arguments": [
+        "--canonical-only"
+      ],
+      "exit_code": 0,
+      "seconds": 1.2030000000086147,
+      "log": "logs/06_lifecycle_v38_path_verify.log"
+    },
+    {
+      "script": "historical/run_geometry_refit_v36.py",
+      "arguments": [
+        "--family",
+        "all"
+      ],
+      "exit_code": 0,
+      "seconds": 320.7190000000119,
+      "log": "logs/07_run_geometry_refit_v36.log"
+    },
+    {
+      "script": "code/plot_epse_nature_v39.py",
+      "arguments": [],
+      "exit_code": 0,
+      "seconds": 8.828000000008615,
+      "log": "logs/08_plot_epse_nature_v39.log"
+    },
+    {
+      "script": "code/redraw_supplement.py",
+      "arguments": [],
+      "exit_code": 0,
+      "seconds": 8.0,
+      "log": "logs/09_redraw_supplement.log"
+    }
+  ],
+  "figures": {
+    "exports": 40,
+    "native_raster_dpi": 1200,
+    "files": [
+      {
+        "file": "figures/figure1_lifecycle.pdf",
+        "sha256": "f19fe2d0608f74d5dd020a6967c04752b43b1c95c9399c1c59264ff3059703e6"
+      },
+      {
+        "file": "figures/figure1_lifecycle.svg",
+        "sha256": "b2a26b7ba9bf30fdd7be67888759de5438600cbcf1efcad3ea23075b54b465f2"
+      },
+      {
+        "file": "figures/figure1_lifecycle.png",
+        "sha256": "3da06efef900ba8de4846819d2c18245c7bb26fde6cc18d31b254e2d674e7cfe",
+        "width_px": 8400,
+        "height_px": 3360,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/figure1_lifecycle.tiff",
+        "sha256": "1ba0d80ac7e4fe56ac773274f2b133dc4620f0a137e3c14ac6ba24899b71033b",
+        "width_px": 8400,
+        "height_px": 3360,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/figure2_calendar.pdf",
+        "sha256": "57a5869286dc148dc1b8609199b3f17d5651b69afdfea376c78b98f9bb938375"
+      },
+      {
+        "file": "figures/figure2_calendar.svg",
+        "sha256": "58e4f4fa3b8cc80a7ca648d21259ba4fa7cf99ce4d10cc11938540aa05b822a4"
+      },
+      {
+        "file": "figures/figure2_calendar.png",
+        "sha256": "c70e7503b7b3f269f02f3beeb35b2e00659f9d643c08a327bc341ecab66c75a2",
+        "width_px": 8400,
+        "height_px": 3960,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/figure2_calendar.tiff",
+        "sha256": "8a35edadcb49ae754b01b4577058ea6adb9e7e46091b12320d6d4bf9da366d21",
+        "width_px": 8400,
+        "height_px": 3960,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/figure3_delay_age.pdf",
+        "sha256": "31bb4281e317621ff8af4150b68725e535ff789447e790710caf3a62970655c7"
+      },
+      {
+        "file": "figures/figure3_delay_age.svg",
+        "sha256": "ec9cd5c4e4d41235b619dc130dbed2845523828c05068b3206c2c0f9f3294c24"
+      },
+      {
+        "file": "figures/figure3_delay_age.png",
+        "sha256": "6a44a105d1445198897683b380c080efb4a006218e3ea31952e0f50e4b8f8a6e",
+        "width_px": 8400,
+        "height_px": 3540,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/figure3_delay_age.tiff",
+        "sha256": "0249b8f27d6d6c0d59f714c5f6c5d379c63001c570dc9db7a7ec97bf99d7b079",
+        "width_px": 8400,
+        "height_px": 3540,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/figure4_workflow.pdf",
+        "sha256": "c765b7b122a9dd67f5ae817e480e82f7f598ddc35eb88ea0783c4a868ec24a77"
+      },
+      {
+        "file": "figures/figure4_workflow.svg",
+        "sha256": "77ec8cae8f1fdebb8fdd4ef3977db4a076aba36490625404c701d55b7fdda330"
+      },
+      {
+        "file": "figures/figure4_workflow.png",
+        "sha256": "87664a94a93b11e4e24cc5577ed6151d8661d2db7ad1d277bb1a21676f1f4d1d",
+        "width_px": 8400,
+        "height_px": 1980,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/figure4_workflow.tiff",
+        "sha256": "b20e797b9347b9146a32a1fd9391be499796d9ee782cb5a03fcea03c696f0463",
+        "width_px": 8400,
+        "height_px": 1980,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/graphical_abstract.pdf",
+        "sha256": "6263cdeff7396057e6f459c8af3437db56ba51e9250ea44ac4beba697aeeac44"
+      },
+      {
+        "file": "figures/graphical_abstract.svg",
+        "sha256": "e0010aa7523b107ced70e83e0c7b610f5bc39495733a37fdae2a363c66a9743b"
+      },
+      {
+        "file": "figures/graphical_abstract.png",
+        "sha256": "fa7b0b0e97c72f14f0e15c0d06ecd4877e4b992cbf5b0251f9702dde76f2d695",
+        "width_px": 2834,
+        "height_px": 2362,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/graphical_abstract.tiff",
+        "sha256": "64a070df4d000397a88c06d609ba523ba2de1537511e98cb0b0e06d3cf8aac6f",
+        "width_px": 2834,
+        "height_px": 2362,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/supplement_1_lifecycle.pdf",
+        "sha256": "fb9eacb0d3a88d179cacd7989e134178620aaee55017331701100d9ad9267f2a"
+      },
+      {
+        "file": "figures/supplement_1_lifecycle.svg",
+        "sha256": "b9e4d2503e4adbacf0f435077701523aa8d137698a653a82469fd253b301dbf8"
+      },
+      {
+        "file": "figures/supplement_1_lifecycle.png",
+        "sha256": "ca1c86bce9cc9bda0546f81cb593319597b63fd8acda3ba5bc461de482ef4a82",
+        "width_px": 8400,
+        "height_px": 3420,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/supplement_1_lifecycle.tiff",
+        "sha256": "83a974eb45c00ea8e97c28a0a0dd89210e85c556aa78500d328d8de1a7469130",
+        "width_px": 8400,
+        "height_px": 3420,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/supplement_2_ownership.pdf",
+        "sha256": "4a48111f55c137bf5fc564092595e56bfa8b617ca3e1ede04eb2cfc0d45e978a"
+      },
+      {
+        "file": "figures/supplement_2_ownership.svg",
+        "sha256": "8a3f369b1ecb8f4a54d6ed15a1547eeff52c70939e55d2ca82aa95a89bfee15c"
+      },
+      {
+        "file": "figures/supplement_2_ownership.png",
+        "sha256": "c74633649c176db7c1a38547de04e3e5280adeffba247a50999c0359b7859c11",
+        "width_px": 8400,
+        "height_px": 4320,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/supplement_2_ownership.tiff",
+        "sha256": "42bdf6ba41b7829ccfb8624164c7ac43449da7bb964c38e58b2764828b154731",
+        "width_px": 8400,
+        "height_px": 4320,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/supplement_3_collection.pdf",
+        "sha256": "af9a85fac2458ec8f713244a57e828c93cd54bd68c3b253c97d36a0e76ebfe46"
+      },
+      {
+        "file": "figures/supplement_3_collection.svg",
+        "sha256": "fc3499412e24d54855604a7f2944806c4dd747e6aab596636d53ed7d80b7d719"
+      },
+      {
+        "file": "figures/supplement_3_collection.png",
+        "sha256": "92cb312f8c77c5570359093f26854b0768e0645e6e7293d5d5c2bb70a014d964",
+        "width_px": 8400,
+        "height_px": 3480,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/supplement_3_collection.tiff",
+        "sha256": "9fd715bde13d88c163f42bf0c2457840a881572158fd239ac9c1a8e7ae676741",
+        "width_px": 8400,
+        "height_px": 3480,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/supplement_4_events.pdf",
+        "sha256": "df244cd6c38443b8d6d7d40959e3f4c90dca2303e6d6a8cb9914c0e5fd5cd74c"
+      },
+      {
+        "file": "figures/supplement_4_events.svg",
+        "sha256": "f4d9b2c73d281866a5b6c84b6357b7928e6944083aa2026c07f01f78294e24a9"
+      },
+      {
+        "file": "figures/supplement_4_events.png",
+        "sha256": "d5508f189ebac344eeff1a409500d9fbb6411dadf49cfb9d1af274d4d1015d65",
+        "width_px": 8400,
+        "height_px": 1860,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/supplement_4_events.tiff",
+        "sha256": "f8d23933db0f29a21f8c0330cd1dd8c4239db25c4e071b7e99e18b7a4c9053f6",
+        "width_px": 8400,
+        "height_px": 1860,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      },
+      {
+        "file": "figures/supplement_5_attainment.pdf",
+        "sha256": "757aa1e821a3767e6b51e6701eb20636fae77a66a90f5dc005f4f95254a6b40e"
+      },
+      {
+        "file": "figures/supplement_5_attainment.svg",
+        "sha256": "1e8c520d07fbe411939233a920523c5db7cfaeea5504a9d6dc33640ea3f01ec8"
+      },
+      {
+        "file": "figures/supplement_5_attainment.png",
+        "sha256": "e0094c954e1e89b8819ca6fb31bc800299e34bb0b81c219d3737948d73b6a3a8",
+        "width_px": 8400,
+        "height_px": 3000,
+        "actual_dpi": [
+          1199.9976,
+          1199.9976
+        ]
+      },
+      {
+        "file": "figures/supplement_5_attainment.tiff",
+        "sha256": "c0d5bdc55f522f00ee23c7a03c41147ff23c03445b1d9c707653fe4274181a34",
+        "width_px": 8400,
+        "height_px": 3000,
+        "actual_dpi": [
+          1200.0,
+          1200.0
+        ]
+      }
+    ],
+    "visual_review_not_automatic": true
+  },
+  "tested_platform": "Windows; Python 3.12.10; Linux CI workflow supplied but not yet executed",
+  "smoke_tests": {
+    "tests": 8,
+    "all_passed": true
+  },
+  "first_attempt": {
+    "all_passed": false,
+    "failing_stage": "cross-stage provenance byte fingerprint",
+    "scientific_numeric_checks_failed": false,
+    "cause": "Source and cached geometry JSON had identical objects but different newline serialization.",
+    "repair": "Cache now preserves provenance bytes; fingerprint checks and numerical tolerances are unchanged."
+  },
+  "checks_not_performed": [
+    "GitHub upload",
+    "Zenodo deposit or DOI assignment",
+    "human author approval",
+    "empirical cohort/fleet validation",
+    "complete contemporary EU LCIA",
+    "Linux execution"
+  ],
+  "second_attempt": {
+    "all_passed": false,
+    "failure": "JSON report export of a Pillow TIFF DPI rational object after all nine subprocesses and scientific comparisons passed.",
+    "repair": "Convert DPI metadata to numeric JSON floats; source data, figures and numerical checks unchanged."
+  },
+  "figure_visual_review": {
+    "images": [
+      {
+        "file": "results/epse_v39/figure1_lifecycle_preview.png",
+        "sha256": "3e8527d7de59a0473d53ce59ab8ca2f9a40dc86ae5777cc3cb2097e2935b13f1",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "results/epse_v39/figure2_calendar_preview.png",
+        "sha256": "3f94e249cb960e5afb258de7178a0f667e6a92c62a356bb1bc7301fa9793c295",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "results/epse_v39/figure3_delay_age_preview.png",
+        "sha256": "a7505ecfa22bfdcdabb79901b80b398a0f0a75bc0ded0c5c80535b50cf24358c",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "results/epse_v39/figure4_workflow_preview.png",
+        "sha256": "65d2272097d829570a0b25e5f3667fdb866501ce9cd5f3729da950831f9e91d5",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "results/epse_v39/graphical_abstract_preview.png",
+        "sha256": "e079c795adb56ab8a3cb782152895182fa649ff94dc0a0016addec892ba5cc15",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "figures/supplement_1_lifecycle.png",
+        "sha256": "ca1c86bce9cc9bda0546f81cb593319597b63fd8acda3ba5bc461de482ef4a82",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "figures/supplement_2_ownership.png",
+        "sha256": "c74633649c176db7c1a38547de04e3e5280adeffba247a50999c0359b7859c11",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "figures/supplement_3_collection.png",
+        "sha256": "92cb312f8c77c5570359093f26854b0768e0645e6e7293d5d5c2bb70a014d964",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "figures/supplement_4_events.png",
+        "sha256": "d5508f189ebac344eeff1a409500d9fbb6411dadf49cfb9d1af274d4d1015d65",
+        "same_bytes_as_actually_viewed_image": true
+      },
+      {
+        "file": "figures/supplement_5_attainment.png",
+        "sha256": "e0094c954e1e89b8819ca6fb31bc800299e34bb0b81c219d3737948d73b6a3a8",
+        "same_bytes_as_actually_viewed_image": true
+      }
+    ],
+    "result": "No visible text-text/data overlap or clipping in the reviewed ten standalone exports.",
+    "limitation": "Not a new page-by-page review of the manuscript PDF or an independent verification of numbers."
+  }
+}

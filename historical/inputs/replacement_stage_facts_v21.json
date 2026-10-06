@@ -1,0 +1,679 @@
+{
+  "source_layout_sha256": "d67c4edd8f8a0b3e08e963fc7831a1c38aaa472097b4f0bb45eb2e0b500d044b",
+  "source_table": "S12",
+  "source_doi": "10.3390/resources8020110",
+  "facts": [
+    {
+      "indicator": "Climate change",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 8,
+      "cells": {
+        "P20": {
+          "printed": "475.30",
+          "value": 475.3,
+          "lower": 475.295,
+          "upper": 475.305
+        },
+        "W20": {
+          "printed": "115.84",
+          "value": 115.84,
+          "lower": 115.835,
+          "upper": 115.845
+        },
+        "E20": {
+          "printed": "-114.01",
+          "value": -114.01,
+          "lower": -114.015,
+          "upper": -114.005
+        },
+        "P125": {
+          "printed": "624.71",
+          "value": 624.71,
+          "lower": 624.705,
+          "upper": 624.715
+        },
+        "W125": {
+          "printed": "756.00",
+          "value": 756.0,
+          "lower": 755.995,
+          "upper": 756.005
+        },
+        "E125": {
+          "printed": "-78.82",
+          "value": -78.82,
+          "lower": -78.825,
+          "upper": -78.815
+        }
+      },
+      "net_replacement_increment_lower": 3.196190476190476,
+      "net_replacement_increment_upper": 3.196883116883117,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Ozone depletion",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 9,
+      "cells": {
+        "P20": {
+          "printed": "2.63E-05",
+          "value": 2.63e-05,
+          "lower": 2.625e-05,
+          "upper": 2.635e-05
+        },
+        "W20": {
+          "printed": "1.99E-05",
+          "value": 1.99e-05,
+          "lower": 1.985e-05,
+          "upper": 1.995e-05
+        },
+        "E20": {
+          "printed": "4.43E-06",
+          "value": 4.43e-06,
+          "lower": 4.425e-06,
+          "upper": 4.435e-06
+        },
+        "P125": {
+          "printed": "3.94E-05",
+          "value": 3.94e-05,
+          "lower": 3.935e-05,
+          "upper": 3.945e-05
+        },
+        "W125": {
+          "printed": "1.30E-04",
+          "value": 0.00013,
+          "lower": 0.0001295,
+          "upper": 0.0001305
+        },
+        "E125": {
+          "printed": "6.79E-06",
+          "value": 6.79e-06,
+          "lower": 6.785e-06,
+          "upper": 6.795e-06
+        }
+      },
+      "net_replacement_increment_lower": 2.658008658008658e-07,
+      "net_replacement_increment_upper": 2.696103896103896e-07,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Human toxicity, non-cancer effects",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 11,
+      "cells": {
+        "P20": {
+          "printed": "4.34E-05",
+          "value": 4.34e-05,
+          "lower": 4.335e-05,
+          "upper": 4.345e-05
+        },
+        "W20": {
+          "printed": "2.17E-05",
+          "value": 2.17e-05,
+          "lower": 2.165e-05,
+          "upper": 2.175e-05
+        },
+        "E20": {
+          "printed": "3.43E-06",
+          "value": 3.43e-06,
+          "lower": 3.425e-06,
+          "upper": 3.435e-06
+        },
+        "P125": {
+          "printed": "6.41E-05",
+          "value": 6.41e-05,
+          "lower": 6.405e-05,
+          "upper": 6.415e-05
+        },
+        "W125": {
+          "printed": "1.41E-04",
+          "value": 0.000141,
+          "lower": 0.0001405,
+          "upper": 0.0001415
+        },
+        "E125": {
+          "printed": "6.48E-06",
+          "value": 6.48e-06,
+          "lower": 6.475e-06,
+          "upper": 6.485e-06
+        }
+      },
+      "net_replacement_increment_lower": 4.093506493506494e-07,
+      "net_replacement_increment_upper": 4.1316017316017316e-07,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Human toxicity, cancer effects",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 14,
+      "cells": {
+        "P20": {
+          "printed": "1.85E-05",
+          "value": 1.85e-05,
+          "lower": 1.845e-05,
+          "upper": 1.855e-05
+        },
+        "W20": {
+          "printed": "3.31E-06",
+          "value": 3.31e-06,
+          "lower": 3.305e-06,
+          "upper": 3.315e-06
+        },
+        "E20": {
+          "printed": "-3.50E-06",
+          "value": -3.5e-06,
+          "lower": -3.505e-06,
+          "upper": -3.495e-06
+        },
+        "P125": {
+          "printed": "2.56E-05",
+          "value": 2.56e-05,
+          "lower": 2.555e-05,
+          "upper": 2.565e-05
+        },
+        "W125": {
+          "printed": "2.16E-05",
+          "value": 2.16e-05,
+          "lower": 2.155e-05,
+          "upper": 2.165e-05
+        },
+        "E125": {
+          "printed": "-2.86E-06",
+          "value": -2.86e-06,
+          "lower": -2.865e-06,
+          "upper": -2.855e-06
+        }
+      },
+      "net_replacement_increment_lower": 1.3212121212121213e-07,
+      "net_replacement_increment_upper": 1.3593073593073594e-07,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Particulate matter",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 16,
+      "cells": {
+        "P20": {
+          "printed": "0.20",
+          "value": 0.2,
+          "lower": 0.195,
+          "upper": 0.205
+        },
+        "W20": {
+          "printed": "4.35E-02",
+          "value": 0.0435,
+          "lower": 0.04345,
+          "upper": 0.04355
+        },
+        "E20": {
+          "printed": "-0.06",
+          "value": -0.06,
+          "lower": -0.065,
+          "upper": -0.055
+        },
+        "P125": {
+          "printed": "0.26",
+          "value": 0.26,
+          "lower": 0.255,
+          "upper": 0.265
+        },
+        "W125": {
+          "printed": "0.28",
+          "value": 0.28,
+          "lower": 0.275,
+          "upper": 0.285
+        },
+        "E125": {
+          "printed": "-0.05",
+          "value": -0.05,
+          "lower": -0.055,
+          "upper": -0.045
+        }
+      },
+      "net_replacement_increment_lower": 0.0008658008658008658,
+      "net_replacement_increment_upper": 0.0015584415584415584,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Photochemical ozone formation",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 18,
+      "cells": {
+        "P20": {
+          "printed": "1.62",
+          "value": 1.62,
+          "lower": 1.615,
+          "upper": 1.625
+        },
+        "W20": {
+          "printed": "2.81E-01",
+          "value": 0.281,
+          "lower": 0.2805,
+          "upper": 0.2815
+        },
+        "E20": {
+          "printed": "-0.59",
+          "value": -0.59,
+          "lower": -0.595,
+          "upper": -0.585
+        },
+        "P125": {
+          "printed": "2.08",
+          "value": 2.08,
+          "lower": 2.075,
+          "upper": 2.085
+        },
+        "W125": {
+          "printed": "1.83",
+          "value": 1.83,
+          "lower": 1.825,
+          "upper": 1.835
+        },
+        "E125": {
+          "printed": "-0.55",
+          "value": -0.55,
+          "lower": -0.555,
+          "upper": -0.545
+        }
+      },
+      "net_replacement_increment_lower": 0.008311688311688312,
+      "net_replacement_increment_upper": 0.009004329004329004,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Acidification",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 20,
+      "cells": {
+        "P20": {
+          "printed": "2.14",
+          "value": 2.14,
+          "lower": 2.135,
+          "upper": 2.145
+        },
+        "W20": {
+          "printed": "4.13E-01",
+          "value": 0.413,
+          "lower": 0.4125,
+          "upper": 0.4135
+        },
+        "E20": {
+          "printed": "-0.49",
+          "value": -0.49,
+          "lower": -0.495,
+          "upper": -0.485
+        },
+        "P125": {
+          "printed": "2.87",
+          "value": 2.87,
+          "lower": 2.865,
+          "upper": 2.875
+        },
+        "W125": {
+          "printed": "2.70",
+          "value": 2.7,
+          "lower": 2.695,
+          "upper": 2.705
+        },
+        "E125": {
+          "printed": "-0.39",
+          "value": -0.39,
+          "lower": -0.395,
+          "upper": -0.385
+        }
+      },
+      "net_replacement_increment_lower": 0.014025974025974027,
+      "net_replacement_increment_upper": 0.01471861471861472,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Terrestrial eutrophication",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 21,
+      "cells": {
+        "P20": {
+          "printed": "3.71",
+          "value": 3.71,
+          "lower": 3.705,
+          "upper": 3.715
+        },
+        "W20": {
+          "printed": "8.70E-01",
+          "value": 0.87,
+          "lower": 0.8695,
+          "upper": 0.8705
+        },
+        "E20": {
+          "printed": "-1.02",
+          "value": -1.02,
+          "lower": -1.025,
+          "upper": -1.015
+        },
+        "P125": {
+          "printed": "4.87",
+          "value": 4.87,
+          "lower": 4.865,
+          "upper": 4.875
+        },
+        "W125": {
+          "printed": "5.68",
+          "value": 5.68,
+          "lower": 5.675,
+          "upper": 5.685
+        },
+        "E125": {
+          "printed": "-0.87",
+          "value": -0.87,
+          "lower": -0.875,
+          "upper": -0.865
+        }
+      },
+      "net_replacement_increment_lower": 0.022337662337662337,
+      "net_replacement_increment_upper": 0.02303030303030303,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Freshwater eutrophication",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 23,
+      "cells": {
+        "P20": {
+          "printed": "0.12",
+          "value": 0.12,
+          "lower": 0.115,
+          "upper": 0.125
+        },
+        "W20": {
+          "printed": "1.79E-02",
+          "value": 0.0179,
+          "lower": 0.01785,
+          "upper": 0.01795
+        },
+        "E20": {
+          "printed": "3.13E-03",
+          "value": 0.00313,
+          "lower": 0.003125,
+          "upper": 0.003135
+        },
+        "P125": {
+          "printed": "0.18",
+          "value": 0.18,
+          "lower": 0.175,
+          "upper": 0.185
+        },
+        "W125": {
+          "printed": "0.12",
+          "value": 0.12,
+          "lower": 0.115,
+          "upper": 0.125
+        },
+        "E125": {
+          "printed": "7.85E-03",
+          "value": 0.00785,
+          "lower": 0.007845,
+          "upper": 0.007855
+        }
+      },
+      "net_replacement_increment_lower": 0.0009473593073593073,
+      "net_replacement_increment_upper": 0.001294025974025974,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Marine eutrophication",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 25,
+      "cells": {
+        "P20": {
+          "printed": "0.36",
+          "value": 0.36,
+          "lower": 0.355,
+          "upper": 0.365
+        },
+        "W20": {
+          "printed": "1.03E-01",
+          "value": 0.103,
+          "lower": 0.1025,
+          "upper": 0.1035
+        },
+        "E20": {
+          "printed": "-9.45E-02",
+          "value": -0.0945,
+          "lower": -0.09455,
+          "upper": -0.09445
+        },
+        "P125": {
+          "printed": "0.48",
+          "value": 0.48,
+          "lower": 0.475,
+          "upper": 0.485
+        },
+        "W125": {
+          "printed": "0.67",
+          "value": 0.67,
+          "lower": 0.665,
+          "upper": 0.675
+        },
+        "E125": {
+          "printed": "-0.08",
+          "value": -0.08,
+          "lower": -0.085,
+          "upper": -0.075
+        }
+      },
+      "net_replacement_increment_lower": 0.0020683982683982684,
+      "net_replacement_increment_upper": 0.0025896103896103895,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Freshwater ecotoxicity",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 26,
+      "cells": {
+        "P20": {
+          "printed": "1723.64",
+          "value": 1723.64,
+          "lower": 1723.635,
+          "upper": 1723.645
+        },
+        "W20": {
+          "printed": "929.92",
+          "value": 929.92,
+          "lower": 929.915,
+          "upper": 929.925
+        },
+        "E20": {
+          "printed": "408.59",
+          "value": 408.59,
+          "lower": 408.585,
+          "upper": 408.595
+        },
+        "P125": {
+          "printed": "2466.10",
+          "value": 2466.1,
+          "lower": 2466.095,
+          "upper": 2466.105
+        },
+        "W125": {
+          "printed": "6068.98",
+          "value": 6068.98,
+          "lower": 6068.975,
+          "upper": 6068.985
+        },
+        "E125": {
+          "printed": "766.70",
+          "value": 766.7,
+          "lower": 766.695,
+          "upper": 766.705
+        }
+      },
+      "net_replacement_increment_lower": 19.057142857142857,
+      "net_replacement_increment_upper": 19.057835497835498,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Mineral, fossil & renewable resource depletion",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 28,
+      "cells": {
+        "P20": {
+          "printed": "5.81E-03",
+          "value": 0.00581,
+          "lower": 0.005805,
+          "upper": 0.005815
+        },
+        "W20": {
+          "printed": "2.74E-03",
+          "value": 0.00274,
+          "lower": 0.002735,
+          "upper": 0.002745
+        },
+        "E20": {
+          "printed": "7.57E-05",
+          "value": 7.57e-05,
+          "lower": 7.565e-05,
+          "upper": 7.575e-05
+        },
+        "P125": {
+          "printed": "8.52E-03",
+          "value": 0.00852,
+          "lower": 0.008515,
+          "upper": 0.008525
+        },
+        "W125": {
+          "printed": "1.79E-02",
+          "value": 0.0179,
+          "lower": 0.01785,
+          "upper": 0.01795
+        },
+        "E125": {
+          "printed": "2.29E-04",
+          "value": 0.000229,
+          "lower": 0.0002285,
+          "upper": 0.0002295
+        }
+      },
+      "net_replacement_increment_lower": 4.93982683982684e-05,
+      "net_replacement_increment_upper": 4.9763636363636365e-05,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Cumulative energy demand",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 30,
+      "cells": {
+        "P20": {
+          "printed": "1.60E+04",
+          "value": 16000.0,
+          "lower": 15950.0,
+          "upper": 16050.0
+        },
+        "W20": {
+          "printed": "2.00E+03",
+          "value": 2000.0,
+          "lower": 1995.0,
+          "upper": 2005.0
+        },
+        "E20": {
+          "printed": "-6.22E+03",
+          "value": -6220.0,
+          "lower": -6225.0,
+          "upper": -6215.0
+        },
+        "P125": {
+          "printed": "2.07E+04",
+          "value": 20700.0,
+          "lower": 20650.0,
+          "upper": 20750.0
+        },
+        "W125": {
+          "printed": "1.30E+04",
+          "value": 13000.0,
+          "lower": 12950.0,
+          "upper": 13050.0
+        },
+        "E125": {
+          "printed": "-5.88E+03",
+          "value": -5880.0,
+          "lower": -5885.0,
+          "upper": -5875.0
+        }
+      },
+      "net_replacement_increment_lower": 85.36796536796537,
+      "net_replacement_increment_upper": 89.17748917748918,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    },
+    {
+      "indicator": "Water depletion",
+      "source_table": "S12",
+      "source_doi": "10.3390/resources8020110",
+      "source_line_in_table_block": 31,
+      "cells": {
+        "P20": {
+          "printed": "5.37",
+          "value": 5.37,
+          "lower": 5.365,
+          "upper": 5.375
+        },
+        "W20": {
+          "printed": "1.01",
+          "value": 1.01,
+          "lower": 1.005,
+          "upper": 1.015
+        },
+        "E20": {
+          "printed": "-0.64",
+          "value": -0.64,
+          "lower": -0.645,
+          "upper": -0.635
+        },
+        "P125": {
+          "printed": "7.41",
+          "value": 7.41,
+          "lower": 7.405,
+          "upper": 7.415
+        },
+        "W125": {
+          "printed": "6.61",
+          "value": 6.61,
+          "lower": 6.605,
+          "upper": 6.615
+        },
+        "E125": {
+          "printed": "-0.22",
+          "value": -0.22,
+          "lower": -0.225,
+          "upper": -0.215
+        }
+      },
+      "net_replacement_increment_lower": 0.042251082251082255,
+      "net_replacement_increment_upper": 0.042943722943722944,
+      "increment_unit": "source indicator unit per additional rejected/replaced crate",
+      "interpretation": "source age-invariant stage response; all added rejects recycled, not external non-return"
+    }
+  ]
+}

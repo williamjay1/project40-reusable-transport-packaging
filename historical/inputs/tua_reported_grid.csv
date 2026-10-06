@@ -1,0 +1,673 @@
+source_scenario,source_table,indicator,unit,reported_rotations,reusable_cumulative_impact_100_crates,single_use_impact_per_service_100_crates
+W1_RE1,S7,Climate change,kg CO2 eq,1,327.89,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,3,343.6,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,5,359.31,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,8,382.87,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,20,477.13,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,30,555.68,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,40,634.23,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,50,712.78,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,70,869.88,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,90,1026.97,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,100,1105.52,127.41
+W1_RE1,S7,Climate change,kg CO2 eq,125,1301.89,127.41
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,1,2.8e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,3,3.04e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,5,3.28e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,8,3.63e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,20,5.07e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,30,6.26e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,40,7.46e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,50,8.65e-05,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,70,0.00011,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,90,0.000134,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,100,0.000146,1.09e-05
+W1_RE1,S7,Ozone depletion,kg CFC-11 eq,125,0.000176,1.09e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,1,4.26e-05,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,3,4.53e-05,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,5,4.8e-05,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,8,5.21e-05,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,20,6.85e-05,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,30,8.22e-05,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,40,9.58e-05,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,50,0.000109,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,70,0.000137,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,90,0.000164,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,100,0.000178,1.65e-05
+W1_RE1,S7,"Human toxicity, non-cancer effects",CTUh,125,0.000212,1.65e-05
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,1,1.36e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,3,1.41e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,5,1.46e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,8,1.54e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,20,1.83e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,30,2.08e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,40,2.33e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,50,2.58e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,70,3.07e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,90,3.57e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,100,3.81e-05,5.3e-06
+W1_RE1,S7,"Human toxicity, cancer effects",CTUh,125,4.43e-05,5.3e-06
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,1,0.128,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,3,0.134,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,5,0.14,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,8,0.148,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,20,0.184,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,30,0.214,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,40,0.243,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,50,0.273,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,70,0.332,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,90,0.391,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,100,0.421,0.0496
+W1_RE1,S7,Particulate matter,kg PM2.5 eq,125,0.495,0.0496
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,1,0.93,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,3,0.97,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,5,1.01,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,8,1.07,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,20,1.31,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,30,1.5,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,40,1.7,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,50,1.9,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,70,2.29,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,90,2.68,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,100,2.88,0.363
+W1_RE1,S7,Photochemical ozone formation,kg NMVOC eq,125,3.37,0.363
+W1_RE1,S7,Acidification,molc H+ eq,1,1.5,0.582
+W1_RE1,S7,Acidification,molc H+ eq,3,1.56,0.582
+W1_RE1,S7,Acidification,molc H+ eq,5,1.62,0.582
+W1_RE1,S7,Acidification,molc H+ eq,8,1.71,0.582
+W1_RE1,S7,Acidification,molc H+ eq,20,2.06,0.582
+W1_RE1,S7,Acidification,molc H+ eq,30,2.36,0.582
+W1_RE1,S7,Acidification,molc H+ eq,40,2.65,0.582
+W1_RE1,S7,Acidification,molc H+ eq,50,2.95,0.582
+W1_RE1,S7,Acidification,molc H+ eq,70,3.54,0.582
+W1_RE1,S7,Acidification,molc H+ eq,90,4.14,0.582
+W1_RE1,S7,Acidification,molc H+ eq,100,4.43,0.582
+W1_RE1,S7,Acidification,molc H+ eq,125,5.17,0.582
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,1,2.45,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,3,2.57,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,5,2.69,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,8,2.86,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,20,3.56,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,30,4.14,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,40,4.72,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,50,5.31,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,70,6.47,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,90,7.63,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,100,8.22,0.953
+W1_RE1,S7,Terrestrial eutrophication,molc N eq,125,9.67,0.953
+W1_RE1,S7,Freshwater eutrophication,kg P eq,1,0.112,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,3,0.115,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,5,0.118,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,8,0.123,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,20,0.141,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,30,0.157,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,40,0.172,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,50,0.188,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,70,0.219,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,90,0.25,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,100,0.265,0.0435
+W1_RE1,S7,Freshwater eutrophication,kg P eq,125,0.304,0.0435
+W1_RE1,S7,Marine eutrophication,kg N eq,1,0.245,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,3,0.258,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,5,0.272,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,8,0.292,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,20,0.371,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,30,0.438,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,40,0.505,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,50,0.571,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,70,0.704,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,90,0.837,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,100,0.904,0.0952
+W1_RE1,S7,Marine eutrophication,kg N eq,125,1.07,0.0952
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,1,1933.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,3,2052.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,5,2171.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,8,2349.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,20,3062.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,30,3656.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,40,4251.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,50,4845.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,70,6033.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,90,7222.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,100,7816.0,751.18
+W1_RE1,S7,Freshwater ecotoxicity,CTUe,125,9302.0,751.18
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,1,0.00537,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,3,0.00571,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,5,0.00605,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,8,0.00657,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,20,0.00862,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,30,0.0103,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,40,0.0121,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,50,0.0138,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,70,0.0172,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,90,0.0206,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,100,0.0223,0.00209
+W1_RE1,S7,"Mineral, fossil & renewable resource depletion",kg Sb eq,125,0.0266,0.00209
+W1_RE1,S7,Cumulative energy demand,MJ,1,8855.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,3,9161.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,5,9467.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,8,9925.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,20,11760.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,30,13288.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,40,14817.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,50,16345.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,70,19402.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,90,22459.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,100,23988.0,3441.0
+W1_RE1,S7,Cumulative energy demand,MJ,125,27809.0,3441.0
+W1_RE1,S7,Water depletion,m3 water,1,4.29,1.67
+W1_RE1,S7,Water depletion,m3 water,3,4.44,1.67
+W1_RE1,S7,Water depletion,m3 water,5,4.6,1.67
+W1_RE1,S7,Water depletion,m3 water,8,4.83,1.67
+W1_RE1,S7,Water depletion,m3 water,20,5.75,1.67
+W1_RE1,S7,Water depletion,m3 water,30,6.51,1.67
+W1_RE1,S7,Water depletion,m3 water,40,7.28,1.67
+W1_RE1,S7,Water depletion,m3 water,50,8.05,1.67
+W1_RE1,S7,Water depletion,m3 water,70,9.58,1.67
+W1_RE1,S7,Water depletion,m3 water,90,11.11,1.67
+W1_RE1,S7,Water depletion,m3 water,100,11.88,1.67
+W1_RE1,S7,Water depletion,m3 water,125,13.8,1.67
+W1_RE2,S8,Climate change,kg CO2 eq,1,327.89,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,3,342.81,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,5,357.73,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,8,380.11,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,20,469.64,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,30,544.25,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,40,618.86,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,50,693.46,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,70,842.68,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,90,991.89,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,100,1066.5,127.41
+W1_RE2,S8,Climate change,kg CO2 eq,125,1253.01,127.41
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,1,2.8e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,3,3.01e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,5,3.22e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,8,3.53e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,20,4.8e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,30,5.85e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,40,6.9e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,50,7.95e-05,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,70,0.000101,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,90,0.000122,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,100,0.000132,1.09e-05
+W1_RE2,S8,Ozone depletion,kg CFC-11 eq,125,0.000158,1.09e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,1,4.26e-05,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,3,4.5e-05,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,5,4.74e-05,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,8,5.11e-05,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,20,6.57e-05,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,30,7.79e-05,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,40,9.01e-05,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,50,0.000102,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,70,0.000127,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,90,0.000151,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,100,0.000163,1.65e-05
+W1_RE2,S8,"Human toxicity, non-cancer effects",CTUh,125,0.000194,1.65e-05
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,1,1.36e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,3,1.41e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,5,1.45e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,8,1.52e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,20,1.78e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,30,1.99e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,40,2.21e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,50,2.43e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,70,2.86e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,90,3.3e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,100,3.51e-05,5.3e-06
+W1_RE2,S8,"Human toxicity, cancer effects",CTUh,125,4.06e-05,5.3e-06
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,1,0.128,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,3,0.133,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,5,0.138,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,8,0.146,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,20,0.177,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,30,0.203,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,40,0.23,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,50,0.256,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,70,0.308,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,90,0.36,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,100,0.386,0.0496
+W1_RE2,S8,Particulate matter,kg PM2.5 eq,125,0.452,0.0496
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,1,0.93,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,3,0.97,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,5,1.01,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,8,1.06,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,20,1.28,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,30,1.46,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,40,1.65,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,50,1.83,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,70,2.19,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,90,2.56,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,100,2.74,0.363
+W1_RE2,S8,Photochemical ozone formation,kg NMVOC eq,125,3.2,0.363
+W1_RE2,S8,Acidification,molc H+ eq,1,1.5,0.582
+W1_RE2,S8,Acidification,molc H+ eq,3,1.55,0.582
+W1_RE2,S8,Acidification,molc H+ eq,5,1.61,0.582
+W1_RE2,S8,Acidification,molc H+ eq,8,1.69,0.582
+W1_RE2,S8,Acidification,molc H+ eq,20,2.02,0.582
+W1_RE2,S8,Acidification,molc H+ eq,30,2.29,0.582
+W1_RE2,S8,Acidification,molc H+ eq,40,2.56,0.582
+W1_RE2,S8,Acidification,molc H+ eq,50,2.83,0.582
+W1_RE2,S8,Acidification,molc H+ eq,70,3.38,0.582
+W1_RE2,S8,Acidification,molc H+ eq,90,3.92,0.582
+W1_RE2,S8,Acidification,molc H+ eq,100,4.2,0.582
+W1_RE2,S8,Acidification,molc H+ eq,125,4.88,0.582
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,1,2.45,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,3,2.56,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,5,2.67,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,8,2.83,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,20,3.48,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,30,4.02,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,40,4.56,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,50,5.1,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,70,6.18,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,90,7.26,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,100,7.81,0.953
+W1_RE2,S8,Terrestrial eutrophication,molc N eq,125,9.16,0.953
+W1_RE2,S8,Freshwater eutrophication,kg P eq,1,0.112,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,3,0.115,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,5,0.117,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,8,0.122,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,20,0.138,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,30,0.152,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,40,0.166,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,50,0.179,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,70,0.207,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,90,0.234,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,100,0.248,0.0435
+W1_RE2,S8,Freshwater eutrophication,kg P eq,125,0.283,0.0435
+W1_RE2,S8,Marine eutrophication,kg N eq,1,0.245,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,3,0.257,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,5,0.27,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,8,0.289,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,20,0.363,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,30,0.426,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,40,0.488,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,50,0.55,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,70,0.675,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,90,0.8,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,100,0.862,0.0952
+W1_RE2,S8,Marine eutrophication,kg N eq,125,1.02,0.0952
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,1,1933.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,3,2044.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,5,2156.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,8,2323.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,20,2990.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,30,3547.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,40,4103.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,50,4659.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,70,5772.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,90,6885.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,100,7441.0,751.18
+W1_RE2,S8,Freshwater ecotoxicity,CTUe,125,8832.0,751.18
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,1,0.00537,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,3,0.00567,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,5,0.00598,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,8,0.00644,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,20,0.00827,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,30,0.0098,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,40,0.0113,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,50,0.0128,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,70,0.0159,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,90,0.019,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,100,0.0205,0.00209
+W1_RE2,S8,"Mineral, fossil & renewable resource depletion",kg Sb eq,125,0.0243,0.00209
+W1_RE2,S8,Cumulative energy demand,MJ,1,8855.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,3,9147.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,5,9438.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,8,9876.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,20,11625.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,30,13083.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,40,14541.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,50,15998.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,70,18914.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,90,21829.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,100,23287.0,3441.0
+W1_RE2,S8,Cumulative energy demand,MJ,125,26932.0,3441.0
+W1_RE2,S8,Water depletion,m3 water,1,4.29,1.67
+W1_RE2,S8,Water depletion,m3 water,3,4.42,1.67
+W1_RE2,S8,Water depletion,m3 water,5,4.54,1.67
+W1_RE2,S8,Water depletion,m3 water,8,4.73,1.67
+W1_RE2,S8,Water depletion,m3 water,20,5.5,1.67
+W1_RE2,S8,Water depletion,m3 water,30,6.13,1.67
+W1_RE2,S8,Water depletion,m3 water,40,6.77,1.67
+W1_RE2,S8,Water depletion,m3 water,50,7.41,1.67
+W1_RE2,S8,Water depletion,m3 water,70,8.68,1.67
+W1_RE2,S8,Water depletion,m3 water,90,9.95,1.67
+W1_RE2,S8,Water depletion,m3 water,100,10.59,1.67
+W1_RE2,S8,Water depletion,m3 water,125,12.18,1.67
+W2_RE1,S9,Climate change,kg CO2 eq,1,327.89,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,3,339.6,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,5,351.32,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,8,368.89,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,20,439.18,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,30,497.75,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,40,556.32,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,50,614.89,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,70,732.04,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,90,849.18,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,100,907.76,127.41
+W2_RE1,S9,Climate change,kg CO2 eq,125,1054.19,127.41
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,1,2.8e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,3,2.97e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,5,3.14e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,8,3.4e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,20,4.44e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,30,5.3e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,40,6.16e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,50,7.02e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,70,8.75e-05,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,90,0.000105,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,100,0.000113,1.09e-05
+W2_RE1,S9,Ozone depletion,kg CFC-11 eq,125,0.000135,1.09e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,1,4.26e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,3,4.49e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,5,4.72e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,8,5.06e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,20,6.45e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,30,7.6e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,40,8.76e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,50,9.91e-05,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,70,0.000122,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,90,0.000145,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,100,0.000157,1.65e-05
+W2_RE1,S9,"Human toxicity, non-cancer effects",CTUh,125,0.000186,1.65e-05
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,1,1.36e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,3,1.4e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,5,1.44e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,8,1.49e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,20,1.72e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,30,1.9e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,40,2.09e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,50,2.27e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,70,2.65e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,90,3.02e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,100,3.2e-05,5.3e-06
+W2_RE1,S9,"Human toxicity, cancer effects",CTUh,125,3.67e-05,5.3e-06
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,1,0.128,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,3,0.132,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,5,0.137,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,8,0.144,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,20,0.171,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,30,0.194,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,40,0.216,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,50,0.239,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,70,0.285,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,90,0.33,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,100,0.353,0.0496
+W2_RE1,S9,Particulate matter,kg PM2.5 eq,125,0.41,0.0496
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,1,0.93,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,3,0.97,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,5,1.0,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,8,1.04,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,20,1.23,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,30,1.39,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,40,1.55,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,50,1.71,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,70,2.02,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,90,2.34,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,100,2.5,0.363
+W2_RE1,S9,Photochemical ozone formation,kg NMVOC eq,125,2.89,0.363
+W2_RE1,S9,Acidification,molc H+ eq,1,1.5,0.582
+W2_RE1,S9,Acidification,molc H+ eq,3,1.54,0.582
+W2_RE1,S9,Acidification,molc H+ eq,5,1.59,0.582
+W2_RE1,S9,Acidification,molc H+ eq,8,1.65,0.582
+W2_RE1,S9,Acidification,molc H+ eq,20,1.92,0.582
+W2_RE1,S9,Acidification,molc H+ eq,30,2.14,0.582
+W2_RE1,S9,Acidification,molc H+ eq,40,2.36,0.582
+W2_RE1,S9,Acidification,molc H+ eq,50,2.58,0.582
+W2_RE1,S9,Acidification,molc H+ eq,70,3.02,0.582
+W2_RE1,S9,Acidification,molc H+ eq,90,3.46,0.582
+W2_RE1,S9,Acidification,molc H+ eq,100,3.68,0.582
+W2_RE1,S9,Acidification,molc H+ eq,125,4.23,0.582
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,1,2.45,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,3,2.55,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,5,2.64,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,8,2.78,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,20,3.34,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,30,3.81,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,40,4.28,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,50,4.75,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,70,5.69,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,90,6.63,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,100,7.1,0.953
+W2_RE1,S9,Terrestrial eutrophication,molc N eq,125,8.27,0.953
+W2_RE1,S9,Freshwater eutrophication,kg P eq,1,0.112,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,3,0.114,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,5,0.116,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,8,0.12,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,20,0.133,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,30,0.143,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,40,0.154,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,50,0.165,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,70,0.187,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,90,0.209,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,100,0.219,0.0435
+W2_RE1,S9,Freshwater eutrophication,kg P eq,125,0.247,0.0435
+W2_RE1,S9,Marine eutrophication,kg N eq,1,0.245,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,3,0.255,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,5,0.265,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,8,0.28,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,20,0.341,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,30,0.392,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,40,0.442,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,50,0.493,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,70,0.594,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,90,0.696,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,100,0.746,0.0952
+W2_RE1,S9,Marine eutrophication,kg N eq,125,0.873,0.0952
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,1,1933.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,3,2040.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,5,2147.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,8,2308.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,20,2951.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,30,3487.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,40,4023.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,50,4558.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,70,5630.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,90,6702.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,100,7237.0,751.18
+W2_RE1,S9,Freshwater ecotoxicity,CTUe,125,8577.0,751.18
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,1,0.00537,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,3,0.00565,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,5,0.00594,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,8,0.00636,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,20,0.00806,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,30,0.00948,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,40,0.0109,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,50,0.0123,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,70,0.0152,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,90,0.018,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,100,0.0194,0.00209
+W2_RE1,S9,"Mineral, fossil & renewable resource depletion",kg Sb eq,125,0.0229,0.00209
+W2_RE1,S9,Cumulative energy demand,MJ,1,8855.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,3,9080.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,5,9304.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,8,9640.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,20,10985.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,30,12106.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,40,13227.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,50,14347.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,70,16589.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,90,18831.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,100,19952.0,3441.0
+W2_RE1,S9,Cumulative energy demand,MJ,125,22754.0,3441.0
+W2_RE1,S9,Water depletion,m3 water,1,4.29,1.67
+W2_RE1,S9,Water depletion,m3 water,3,4.39,1.67
+W2_RE1,S9,Water depletion,m3 water,5,4.5,1.67
+W2_RE1,S9,Water depletion,m3 water,8,4.65,1.67
+W2_RE1,S9,Water depletion,m3 water,20,5.28,1.67
+W2_RE1,S9,Water depletion,m3 water,30,5.8,1.67
+W2_RE1,S9,Water depletion,m3 water,40,6.32,1.67
+W2_RE1,S9,Water depletion,m3 water,50,6.84,1.67
+W2_RE1,S9,Water depletion,m3 water,70,7.88,1.67
+W2_RE1,S9,Water depletion,m3 water,90,8.92,1.67
+W2_RE1,S9,Water depletion,m3 water,100,9.45,1.67
+W2_RE1,S9,Water depletion,m3 water,125,10.75,1.67
+W2_RE2,S10,Climate change,kg CO2 eq,1,327.89,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,3,339.17,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,5,350.45,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,8,367.37,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,20,435.06,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,30,491.46,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,40,547.87,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,50,604.27,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,70,717.08,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,90,829.89,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,100,886.29,127.41
+W2_RE2,S10,Climate change,kg CO2 eq,125,1027.3,127.41
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,1,2.8e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,3,2.95e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,5,3.11e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,8,3.35e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,20,4.29e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,30,5.07e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,40,5.85e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,50,6.64e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,70,8.2e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,90,9.77e-05,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,100,0.000106,1.09e-05
+W2_RE2,S10,Ozone depletion,kg CFC-11 eq,125,0.000125,1.09e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,1,4.26e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,3,4.47e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,5,4.69e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,8,5.01e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,20,6.3e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,30,7.37e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,40,8.45e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,50,9.52e-05,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,70,0.000117,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,90,0.000138,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,100,0.000149,1.65e-05
+W2_RE2,S10,"Human toxicity, non-cancer effects",CTUh,125,0.000176,1.65e-05
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,1,1.36e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,3,1.4e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,5,1.43e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,8,1.48e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,20,1.68e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,30,1.85e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,40,2.02e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,50,2.19e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,70,2.53e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,90,2.87e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,100,3.04e-05,5.3e-06
+W2_RE2,S10,"Human toxicity, cancer effects",CTUh,125,3.46e-05,5.3e-06
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,1,0.128,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,3,0.132,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,5,0.136,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,8,0.142,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,20,0.167,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,30,0.188,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,40,0.209,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,50,0.23,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,70,0.271,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,90,0.313,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,100,0.334,0.0496
+W2_RE2,S10,Particulate matter,kg PM2.5 eq,125,0.386,0.0496
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,1,0.93,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,3,0.964,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,5,0.99,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,8,1.04,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,20,1.22,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,30,1.37,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,40,1.52,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,50,1.67,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,70,1.97,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,90,2.27,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,100,2.42,0.363
+W2_RE2,S10,Photochemical ozone formation,kg NMVOC eq,125,2.8,0.363
+W2_RE2,S10,Acidification,molc H+ eq,1,1.5,0.582
+W2_RE2,S10,Acidification,molc H+ eq,3,1.54,0.582
+W2_RE2,S10,Acidification,molc H+ eq,5,1.58,0.582
+W2_RE2,S10,Acidification,molc H+ eq,8,1.64,0.582
+W2_RE2,S10,Acidification,molc H+ eq,20,1.89,0.582
+W2_RE2,S10,Acidification,molc H+ eq,30,2.1,0.582
+W2_RE2,S10,Acidification,molc H+ eq,40,2.31,0.582
+W2_RE2,S10,Acidification,molc H+ eq,50,2.51,0.582
+W2_RE2,S10,Acidification,molc H+ eq,70,2.93,0.582
+W2_RE2,S10,Acidification,molc H+ eq,90,3.34,0.582
+W2_RE2,S10,Acidification,molc H+ eq,100,3.55,0.582
+W2_RE2,S10,Acidification,molc H+ eq,125,4.07,0.582
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,1,2.45,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,3,2.54,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,5,2.63,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,8,2.77,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,20,3.3,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,30,3.75,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,40,4.19,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,50,4.64,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,70,5.53,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,90,6.42,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,100,6.87,0.953
+W2_RE2,S10,Terrestrial eutrophication,molc N eq,125,7.99,0.953
+W2_RE2,S10,Freshwater eutrophication,kg P eq,1,0.112,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,3,0.114,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,5,0.116,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,8,0.119,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,20,0.131,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,30,0.141,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,40,0.151,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,50,0.16,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,70,0.18,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,90,0.2,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,100,0.21,0.0435
+W2_RE2,S10,Freshwater eutrophication,kg P eq,125,0.235,0.0435
+W2_RE2,S10,Marine eutrophication,kg N eq,1,0.245,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,3,0.255,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,5,0.264,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,8,0.279,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,20,0.337,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,30,0.385,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,40,0.433,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,50,0.482,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,70,0.578,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,90,0.675,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,100,0.723,0.0952
+W2_RE2,S10,Marine eutrophication,kg N eq,125,0.844,0.0952
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,1,1933.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,3,2036.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,5,2139.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,8,2294.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,20,2912.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,30,3427.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,40,3941.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,50,4456.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,70,5486.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,90,6516.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,100,7031.0,751.18
+W2_RE2,S10,Freshwater ecotoxicity,CTUe,125,8319.0,751.18
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,1,0.00537,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,3,0.00563,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,5,0.00589,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,8,0.00629,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,20,0.00787,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,30,0.00918,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,40,0.0105,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,50,0.0118,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,70,0.0144,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,90,0.0171,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,100,0.0184,0.00209
+W2_RE2,S10,"Mineral, fossil & renewable resource depletion",kg Sb eq,125,0.0217,0.00209
+W2_RE2,S10,Cumulative energy demand,MJ,1,8855.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,3,9072.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,5,9288.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,8,9613.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,20,10911.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,30,11993.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,40,13075.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,50,14157.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,70,16321.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,90,18484.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,100,19566.0,3441.0
+W2_RE2,S10,Cumulative energy demand,MJ,125,22271.0,3441.0
+W2_RE2,S10,Water depletion,m3 water,1,4.29,1.67
+W2_RE2,S10,Water depletion,m3 water,3,4.38,1.67
+W2_RE2,S10,Water depletion,m3 water,5,4.47,1.67
+W2_RE2,S10,Water depletion,m3 water,8,4.6,1.67
+W2_RE2,S10,Water depletion,m3 water,20,5.14,1.67
+W2_RE2,S10,Water depletion,m3 water,30,5.59,1.67
+W2_RE2,S10,Water depletion,m3 water,40,6.04,1.67
+W2_RE2,S10,Water depletion,m3 water,50,6.49,1.67
+W2_RE2,S10,Water depletion,m3 water,70,7.39,1.67
+W2_RE2,S10,Water depletion,m3 water,90,8.28,1.67
+W2_RE2,S10,Water depletion,m3 water,100,8.73,1.67
+W2_RE2,S10,Water depletion,m3 water,125,9.86,1.67

@@ -1,0 +1,816 @@
+{
+  "source_commit": "b9b16959570bd2fbc9ff5118bacc423c3bddd592",
+  "source_repository": "https://github.com/garrettj403/SciencePlots",
+  "license": "MIT",
+  "native_raster_export_dpi": 1200,
+  "vectors_have_no_dpi": true,
+  "figures": [
+    {
+      "name": "supplement_1_lifecycle",
+      "width_mm": 177.79999999999998,
+      "height_mm": 72.39,
+      "data": {
+        "lifetimes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "dedicated": [
+          9,
+          9,
+          9,
+          6,
+          6,
+          6,
+          3,
+          3,
+          3
+        ],
+        "shared": [
+          9,
+          5,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "state_ranges": {
+          "pooled": [
+            0,
+            2
+          ],
+          "dedicated": [
+            0,
+            3
+          ]
+        },
+        "conditions": {
+          "jobs": 9,
+          "owners": 3,
+          "K": 5,
+          "spacing": 1,
+          "delay": 1,
+          "synthetic": true
+        },
+        "comparison": {
+          "original_recipe_18_values_identical": true,
+          "matching_stored_rows": 6,
+          "structural_grid_checks": 486,
+          "state_settings": 324,
+          "maximum_numeric_difference": 0
+        },
+        "interpretation": "Old-state extrema, not confidence intervals or observed histories"
+      },
+      "audit": {
+        "visible_text_objects": 25,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "minimum_native_font_pt": 7.0,
+      "minimum_SI_print_font_pt": 6.456692913385828,
+      "outputs": [
+        {
+          "bytes": 39001,
+          "sha256": "d42bbba22510e9c960fe7ac45037014752c8325beb91d9c2873446e5b8f5a6c6",
+          "file": "supplement_1_lifecycle.pdf",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 27066,
+          "sha256": "9b3a3e4af589d51d94fd52bdc790dae3c28eb804b69d102a849ef5a755db185e",
+          "file": "supplement_1_lifecycle.svg",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 346874,
+          "sha256": "ca1c86bce9cc9bda0546f81cb593319597b63fd8acda3ba5bc461de482ef4a82",
+          "file": "supplement_1_lifecycle.png",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            3420
+          ],
+          "dpi": [
+            1199.9976,
+            1199.9976
+          ],
+          "native_raster_render": true
+        },
+        {
+          "bytes": 1549076,
+          "sha256": "83a974eb45c00ea8e97c28a0a0dd89210e85c556aa78500d328d8de1a7469130",
+          "file": "supplement_1_lifecycle.tiff",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            3420
+          ],
+          "dpi": [
+            1200.0,
+            1200.0
+          ],
+          "native_raster_render": true
+        }
+      ]
+    },
+    {
+      "name": "supplement_2_ownership",
+      "width_mm": 177.79999999999998,
+      "height_mm": 91.44,
+      "data": {
+        "scenarios": [
+          "flat_tau1",
+          "staggered_tau1",
+          "staggered_tau3",
+          "staggered_tau1_H24",
+          "staggered_tau1_H48"
+        ],
+        "panels": [
+          {
+            "field": "initial_assets",
+            "dedicated": [
+              70000.0,
+              103128.80213162016,
+              194479.0011184775,
+              103406.95329906557,
+              103406.95329906554
+            ],
+            "shared": [
+              70000.0,
+              70000.00000000001,
+              140000.0,
+              70000.00000000001,
+              70000.00000000001
+            ],
+            "display_divisor": 1000
+          },
+          {
+            "field": "cost_per_service",
+            "dedicated": [
+              0.9114879583333333,
+              1.2872963889559443,
+              2.2741915910378903,
+              0.7461233796811038,
+              0.4739378344160961
+            ],
+            "shared": [
+              0.9114879583333333,
+              0.9203774226721868,
+              1.6688272239290651,
+              0.5522916129079157,
+              0.3682487080257802
+            ],
+            "display_divisor": 1
+          },
+          {
+            "field": "maximum_upper_impact_ratio",
+            "dedicated": [
+              0.5269509632938808,
+              0.7213689588807854,
+              1.2589508406729675,
+              0.4185669917355025,
+              0.26640616355538177
+            ],
+            "shared": [
+              0.5269509632938809,
+              0.5311771648858699,
+              0.9452463301995642,
+              0.32532411361668745,
+              0.22242044658790422
+            ],
+            "display_divisor": 1
+          }
+        ],
+        "comparison": {
+          "fields_checked": 30,
+          "maximum_numeric_difference": 0
+        }
+      },
+      "audit": {
+        "visible_text_objects": 25,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "minimum_native_font_pt": 7.0,
+      "minimum_SI_print_font_pt": 6.456692913385828,
+      "outputs": [
+        {
+          "bytes": 41834,
+          "sha256": "b1bb16cff7ccd54b9a9bbffc836a823def2f6a4b8b3c2991ae95940e1528b201",
+          "file": "supplement_2_ownership.pdf",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 43160,
+          "sha256": "2cd59e5195e45e1326780ed61f5e43ac394afc9aef6a3b7eb65933372a1941f3",
+          "file": "supplement_2_ownership.svg",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 504006,
+          "sha256": "c74633649c176db7c1a38547de04e3e5280adeffba247a50999c0359b7859c11",
+          "file": "supplement_2_ownership.png",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            4320
+          ],
+          "dpi": [
+            1199.9976,
+            1199.9976
+          ],
+          "native_raster_render": true
+        },
+        {
+          "bytes": 2301614,
+          "sha256": "42bdf6ba41b7829ccfb8624164c7ac43449da7bb964c38e58b2764828b154731",
+          "file": "supplement_2_ownership.tiff",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            4320
+          ],
+          "dpi": [
+            1200.0,
+            1200.0
+          ],
+          "native_raster_render": true
+        }
+      ]
+    },
+    {
+      "name": "supplement_3_collection",
+      "width_mm": 177.79999999999998,
+      "height_mm": 73.66,
+      "data": {
+        "curves": [
+          {
+            "delay_weeks": 1,
+            "fate_stress": 0,
+            "collection_fraction": [
+              0.7,
+              0.71,
+              0.72,
+              0.73,
+              0.74,
+              0.75,
+              0.76,
+              0.77,
+              0.78,
+              0.79,
+              0.8,
+              0.81,
+              0.82,
+              0.83,
+              0.84,
+              0.85,
+              0.86,
+              0.87,
+              0.88,
+              0.89,
+              0.9,
+              0.91,
+              0.92,
+              0.93,
+              0.94,
+              0.95,
+              0.96,
+              0.97,
+              0.98,
+              0.99,
+              1.0
+            ],
+            "design_prior_q95_maximum_ratio": [
+              1.6541122108929383,
+              1.6148643539156715,
+              1.5756185903806574,
+              1.5363750412408632,
+              1.4971331988835075,
+              1.457892868120749,
+              1.4186544635488516,
+              1.379419904554945,
+              1.340188065893345,
+              1.3009590171892453,
+              1.2617313796432932,
+              1.2225064640069259,
+              1.183282144253253,
+              1.1440604294602728,
+              1.1048417691678751,
+              1.0656248762622826,
+              1.0264138376856442,
+              0.9872070166727049,
+              0.9480058025583395,
+              0.9088124999042722,
+              0.8696281830049947,
+              0.830446354896333,
+              0.7912744248179403,
+              0.7521095568559787,
+              0.7129573431748005,
+              0.6745150837785922,
+              0.6370883876819101,
+              0.6035888791610017,
+              0.5874591446341401,
+              0.5713799257298829,
+              0.5553298661685488
+            ],
+            "first_grid_point_below_one": 0.87
+          },
+          {
+            "delay_weeks": 1,
+            "fate_stress": 1,
+            "collection_fraction": [
+              0.7,
+              0.71,
+              0.72,
+              0.73,
+              0.74,
+              0.75,
+              0.76,
+              0.77,
+              0.78,
+              0.79,
+              0.8,
+              0.81,
+              0.82,
+              0.83,
+              0.84,
+              0.85,
+              0.86,
+              0.87,
+              0.88,
+              0.89,
+              0.9,
+              0.91,
+              0.92,
+              0.93,
+              0.94,
+              0.95,
+              0.96,
+              0.97,
+              0.98,
+              0.99,
+              1.0
+            ],
+            "design_prior_q95_maximum_ratio": [
+              2.9746034185662418,
+              2.891339187999865,
+              2.8080770508757404,
+              2.7248171281468365,
+              2.6415589122003698,
+              2.5583022078485014,
+              2.475047429687495,
+              2.3917964971044774,
+              2.308548284853767,
+              2.2253028625605578,
+              2.142058851425495,
+              2.058817562200017,
+              1.9755768688572353,
+              1.8923387804751446,
+              1.8091037465936373,
+              1.7258704800989337,
+              1.6426430679331856,
+              1.5594198733311369,
+              1.476202285627661,
+              1.3929926093844833,
+              1.3097919188960958,
+              1.2265937171983243,
+              1.1434054135308207,
+              1.060224171979749,
+              0.9770537381672233,
+              0.8938895202735484,
+              0.8107356822418811,
+              0.7276999864599101,
+              0.647388458575567,
+              0.5934975359997975,
+              0.5553298661685488
+            ],
+            "first_grid_point_below_one": 0.94
+          },
+          {
+            "delay_weeks": 3,
+            "fate_stress": 0,
+            "collection_fraction": [
+              0.7,
+              0.71,
+              0.72,
+              0.73,
+              0.74,
+              0.75,
+              0.76,
+              0.77,
+              0.78,
+              0.79,
+              0.8,
+              0.81,
+              0.82,
+              0.83,
+              0.84,
+              0.85,
+              0.86,
+              0.87,
+              0.88,
+              0.89,
+              0.9,
+              0.91,
+              0.92,
+              0.93,
+              0.94,
+              0.95,
+              0.96,
+              0.97,
+              0.98,
+              0.99,
+              1.0
+            ],
+            "design_prior_q95_maximum_ratio": [
+              1.9485068379756751,
+              1.9134561884668224,
+              1.8784060554575939,
+              1.8433578915434068,
+              1.8083133638079896,
+              1.7732727407382083,
+              1.7382351955213025,
+              1.7031998230367686,
+              1.668165344022501,
+              1.6331312042086763,
+              1.5980979604765742,
+              1.5630710361348776,
+              1.5280494480398061,
+              1.4930288495831123,
+              1.4580087179326877,
+              1.422990930851094,
+              1.3879830502840769,
+              1.3529806736728351,
+              1.3179847307348558,
+              1.2829933422030046,
+              1.2480126188252456,
+              1.2130347711918044,
+              1.1780602424517974,
+              1.1430936207180473,
+              1.1082276576856411,
+              1.0746266331457968,
+              1.041469289095774,
+              1.0083430593615859,
+              0.9886800249760359,
+              0.9766172278936603,
+              0.9645684912257078
+            ],
+            "first_grid_point_below_one": 0.98
+          },
+          {
+            "delay_weeks": 3,
+            "fate_stress": 1,
+            "collection_fraction": [
+              0.7,
+              0.71,
+              0.72,
+              0.73,
+              0.74,
+              0.75,
+              0.76,
+              0.77,
+              0.78,
+              0.79,
+              0.8,
+              0.81,
+              0.82,
+              0.83,
+              0.84,
+              0.85,
+              0.86,
+              0.87,
+              0.88,
+              0.89,
+              0.9,
+              0.91,
+              0.92,
+              0.93,
+              0.94,
+              0.95,
+              0.96,
+              0.97,
+              0.98,
+              0.99,
+              1.0
+            ],
+            "design_prior_q95_maximum_ratio": [
+              3.268998045648978,
+              3.1899310225510153,
+              3.110864515952677,
+              3.0317999784493797,
+              2.9527390771248525,
+              2.8736820804659615,
+              2.794628161659945,
+              2.7155764155863023,
+              2.6365255629829227,
+              2.5574750495799887,
+              2.478425432258777,
+              2.3993821343279693,
+              2.3203441726437886,
+              2.2413072005979835,
+              2.1622706953584485,
+              2.0832365346877464,
+              2.004212280531618,
+              1.9251935303312664,
+              1.8461812138041773,
+              1.7671734516832158,
+              1.6881763547163464,
+              1.6091821334937955,
+              1.5301912311646777,
+              1.4512082358418177,
+              1.3722326946939982,
+              1.2932635740718028,
+              1.2143045707072884,
+              1.1358158515138574,
+              1.0601534204457814,
+              0.9987348381635746,
+              0.9645684912257078
+            ],
+            "first_grid_point_below_one": 0.99
+          }
+        ],
+        "comparison": {
+          "csv_rows": 124,
+          "plotted_points": 124,
+          "full_grid_retained": true,
+          "maximum_numeric_difference": 0
+        },
+        "interpretation": "Original declared-prior q95 and both fate panels; not fitted collection probabilities"
+      },
+      "audit": {
+        "visible_text_objects": 27,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "minimum_native_font_pt": 7.0,
+      "minimum_SI_print_font_pt": 6.456692913385828,
+      "outputs": [
+        {
+          "bytes": 42321,
+          "sha256": "8a1fbff930bed10511650d2796cfd69274e7b0c78de3ac9b6562b09a37229d40",
+          "file": "supplement_3_collection.pdf",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 49064,
+          "sha256": "2eabdefafab88bc35f706e16637407420415fe360d295550f9ee5eb031b98f39",
+          "file": "supplement_3_collection.svg",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 505617,
+          "sha256": "92cb312f8c77c5570359093f26854b0768e0645e6e7293d5d5c2bb70a014d964",
+          "file": "supplement_3_collection.png",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            3480
+          ],
+          "dpi": [
+            1199.9976,
+            1199.9976
+          ],
+          "native_raster_render": true
+        },
+        {
+          "bytes": 1789560,
+          "sha256": "9fd715bde13d88c163f42bf0c2457840a881572158fd239ac9c1a8e7ae676741",
+          "file": "supplement_3_collection.tiff",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            3480
+          ],
+          "dpi": [
+            1200.0,
+            1200.0
+          ],
+          "native_raster_render": true
+        }
+      ]
+    },
+    {
+      "name": "supplement_4_events",
+      "width_mm": 177.79999999999998,
+      "height_mm": 39.37,
+      "data": {
+        "cards": [
+          [
+            "Service 1",
+            "product delivered"
+          ],
+          [
+            "Return + pass",
+            "ready for reuse"
+          ],
+          [
+            "Service 2",
+            "product delivered"
+          ],
+          [
+            "Return + pass",
+            "ready for reuse"
+          ],
+          [
+            "Service 3",
+            "threshold B = 3"
+          ]
+        ],
+        "connections": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        "notes": [
+          "L=B-1=2 before service 3",
+          "delta=1 gives L=3 only with terminal return"
+        ],
+        "comparison": {
+          "original_five_events_identical": true,
+          "no_probabilities_added": true
+        },
+        "node_audit": {
+          "text_contained_in_each_card": true,
+          "arrows_between_disjoint_card_boundaries": true
+        }
+      },
+      "audit": {
+        "visible_text_objects": 12,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "minimum_native_font_pt": 6.5,
+      "minimum_SI_print_font_pt": 5.995500562429697,
+      "outputs": [
+        {
+          "bytes": 24536,
+          "sha256": "cdbb1963338b42a16b708248b75bebb80aa3082d5125804a13dc849c34ffd4a9",
+          "file": "supplement_4_events.pdf",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 6820,
+          "sha256": "f18b6453a3e6bfc4016828a9b70a83ac6bedb9725ae45c7d5b8e2f68f261146a",
+          "file": "supplement_4_events.svg",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 286362,
+          "sha256": "d5508f189ebac344eeff1a409500d9fbb6411dadf49cfb9d1af274d4d1015d65",
+          "file": "supplement_4_events.png",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            1860
+          ],
+          "dpi": [
+            1199.9976,
+            1199.9976
+          ],
+          "native_raster_render": true
+        },
+        {
+          "bytes": 1174738,
+          "sha256": "f8d23933db0f29a21f8c0330cd1dd8c4239db25c4e071b7e99e18b7a4c9053f6",
+          "file": "supplement_4_events.tiff",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            1860
+          ],
+          "dpi": [
+            1200.0,
+            1200.0
+          ],
+          "native_raster_render": true
+        }
+      ]
+    },
+    {
+      "name": "supplement_5_attainment",
+      "width_mm": 177.79999999999998,
+      "height_mm": 63.5,
+      "data": {
+        "records": [
+          {
+            "scenario": "IFEU individual",
+            "q": "0.90",
+            "theta2": 0.81,
+            "theta3": 0.729,
+            "printed_theta2": "0.810",
+            "printed_theta3": "0.729"
+          },
+          {
+            "scenario": "IFEU open pool",
+            "q": "0.96",
+            "theta2": 0.922,
+            "theta3": 0.885,
+            "printed_theta2": "0.922",
+            "printed_theta3": "0.885"
+          },
+          {
+            "scenario": "IFEU managed pool",
+            "q": "0.97",
+            "theta2": 0.941,
+            "theta3": 0.913,
+            "printed_theta2": "0.941",
+            "printed_theta3": "0.913"
+          },
+          {
+            "scenario": "R3PACK scenario",
+            "q": "0.646",
+            "theta2": 0.417,
+            "theta3": 0.27,
+            "printed_theta2": "0.417",
+            "printed_theta3": "0.270"
+          }
+        ],
+        "comparison": {
+          "original_table_values_checked": 8,
+          "maximum_numeric_difference": 0
+        },
+        "interpretation": "Scenario hazards and chain-rule calculation, not measured probabilities",
+        "historical_graphic_coordinate_correction": {
+          "point": "R3PACK L=3",
+          "old_TikZ_coordinate": 2.545,
+          "old_axis_implied_value": 0.26555555555555554,
+          "retained_table_value": 0.27,
+          "reason": "Replace inaccurate manual graphic coordinate with unchanged frozen table value"
+        }
+      },
+      "audit": {
+        "visible_text_objects": 13,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "minimum_native_font_pt": 7.0,
+      "minimum_SI_print_font_pt": 6.456692913385828,
+      "outputs": [
+        {
+          "bytes": 27503,
+          "sha256": "08201f69167eb989cc7f7f43f66c29d176917d468320b1c519362cf927fcf7a2",
+          "file": "supplement_5_attainment.pdf",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 17349,
+          "sha256": "784881e26f72521e876321d268cc1aca7128e4a88fedf062830914e8d6aba4a9",
+          "file": "supplement_5_attainment.svg",
+          "raster_dpi": null
+        },
+        {
+          "bytes": 249337,
+          "sha256": "e0094c954e1e89b8819ca6fb31bc800299e34bb0b81c219d3737948d73b6a3a8",
+          "file": "supplement_5_attainment.png",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            3000
+          ],
+          "dpi": [
+            1199.9976,
+            1199.9976
+          ],
+          "native_raster_render": true
+        },
+        {
+          "bytes": 1209760,
+          "sha256": "c0d5bdc55f522f00ee23c7a03c41147ff23c03445b1d9c707653fe4274181a34",
+          "file": "supplement_5_attainment.tiff",
+          "raster_dpi": 1200,
+          "pixels": [
+            8400,
+            3000
+          ],
+          "dpi": [
+            1200.0,
+            1200.0
+          ],
+          "native_raster_render": true
+        }
+      ]
+    }
+  ]
+}

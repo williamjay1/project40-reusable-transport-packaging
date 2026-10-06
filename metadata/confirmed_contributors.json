@@ -1,0 +1,31 @@
+{
+  "record_type": "user_confirmed_project_contributors_not_deposit_metadata",
+  "confirmation_date": "2026-10-06",
+  "confirmation_source": "explicit user statement in the current project conversation",
+  "human_contributor_count": 1,
+  "human_contributors": [
+    {
+      "name_as_supplied": "junjiezhang",
+      "given_names": null,
+      "family_names": null,
+      "orcid": null,
+      "affiliation": null,
+      "email": null,
+      "credit_roles": null,
+      "github_account_ownership_confirmed": false
+    }
+  ],
+  "upstream_source_creators_are_project_coauthors": false,
+  "ai_is_an_author": false,
+  "ai_assistance_disclosure_retained": true,
+  "copyright_ownership_confirmed": false,
+  "original_code_MIT_approved": false,
+  "original_results_CC_BY_4_0_approved": false,
+  "repository_url": null,
+  "local_packaging_revision": "1.1",
+  "scientific_manuscript_content_version": "v39",
+  "public_release_performed": false,
+  "zenodo_operation_reserved_to_user": true,
+  "version_doi": null,
+  "concept_doi": null
+}

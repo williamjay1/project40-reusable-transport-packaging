@@ -1,0 +1,6 @@
+# Tested versions; a fresh environment is recommended. Python3.12; free HiGHS via SciPy.
+numpy==2.5.1
+scipy==1.18.0
+matplotlib==3.11.1
+openpyxl==3.1.5
+Pillow==12.3.0

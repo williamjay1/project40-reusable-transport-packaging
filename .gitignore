@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.key
+*.pem
+*credentials*
+*token-cache*
+.DS_Store
+Thumbs.db
+# Run reproduce.py into a separate working directory, not inside this repo.
+logs/
+cache/
+temp/
+historical/results/
+historical/logs/
+historical/temp/
+historical/cache/
+results/lifecycle_v38/pilot/
+results/lifecycle_v38/extension/
+results/lifecycle_v38/foreground_v2/
+results/lifecycle_v38/path_verification.json
+results/epse_v39/
+figures/
+reproduction_report.json

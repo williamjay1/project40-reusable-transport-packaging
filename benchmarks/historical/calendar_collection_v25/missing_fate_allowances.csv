@@ -1,0 +1,841 @@
+scenario,indicator,collection_fraction,missing_assets,maximum_extra_missing_fate_burden_per_lost_asset,source_units,calculated_not_observed
+staggered_tau1_q0.70,Climate change,0.7,126000.00000000001,-1.6682546044172546,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Ozone depletion,0.7,126000.00000000001,-1.128766611399728e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,"Human toxicity, non-cancer effects",0.7,126000.00000000001,-4.2117384705241276e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,"Human toxicity, cancer effects",0.7,126000.00000000001,-5.573506097764632e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Particulate matter,0.7,126000.00000000001,-0.000864338184227238,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Photochemical ozone formation,0.7,126000.00000000001,-0.007345173411791812,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Acidification,0.7,126000.00000000001,-0.00719393710603447,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Terrestrial eutrophication,0.7,126000.00000000001,-0.014059740228342811,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Freshwater eutrophication,0.7,126000.00000000001,-0.00011739113360863281,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Marine eutrophication,0.7,126000.00000000001,-0.0013490238994856524,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Freshwater ecotoxicity,0.7,126000.00000000001,0.4444145737053831,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,"Mineral, fossil & renewable resource depletion",0.7,126000.00000000001,-8.153544936292459e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Cumulative energy demand,0.7,126000.00000000001,-74.24437133085324,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.70,Water depletion,0.7,126000.00000000001,-0.012773687369423527,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Climate change,0.71,121800.00000000001,-1.5923896414011995,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Ozone depletion,0.71,121800.00000000001,-5.3704373832193524e-09,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,"Human toxicity, non-cancer effects",0.71,121800.00000000001,-3.273345970365136e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,"Human toxicity, cancer effects",0.71,121800.00000000001,-5.25585915748031e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Particulate matter,0.71,121800.00000000001,-0.0008348312118175536,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Photochemical ozone formation,0.71,121800.00000000001,-0.007127498522283327,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Acidification,0.71,121800.00000000001,-0.006842372257116525,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Terrestrial eutrophication,0.71,121800.00000000001,-0.013494242424066785,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Freshwater eutrophication,0.71,121800.00000000001,-9.043282317928172e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Marine eutrophication,0.71,121800.00000000001,-0.0012932888100735567,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Freshwater ecotoxicity,0.71,121800.00000000001,0.8790671526095635,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,"Mineral, fossil & renewable resource depletion",0.71,121800.00000000001,-6.961417254906544e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Cumulative energy demand,0.71,121800.00000000001,-72.13683755567494,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.71,Water depletion,0.71,121800.00000000001,-0.011756360977334223,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Climate change,0.72,117600.00000000001,-1.5111204268851643,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Ozone depletion,0.72,117600.00000000001,9.665197442517203e-10,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,"Human toxicity, non-cancer effects",0.72,117600.00000000001,-2.2682790105730535e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,"Human toxicity, cancer effects",0.72,117600.00000000001,-4.9155607149379035e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Particulate matter,0.72,117600.00000000001,-0.0008032246796767808,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Photochemical ozone formation,0.72,117600.00000000001,-0.006894339560588221,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Acidification,0.72,117600.00000000001,-0.006465757069676687,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Terrestrial eutrophication,0.72,117600.00000000001,-0.012888552619903163,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Freshwater eutrophication,0.72,117600.00000000001,-6.154983067926382e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Marine eutrophication,0.72,117600.00000000001,-0.0012335909961024446,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Freshwater ecotoxicity,0.72,117600.00000000001,1.3446730247296899,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,"Mineral, fossil & renewable resource depletion",0.72,117600.00000000001,-5.684851697358132e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Cumulative energy demand,0.72,117600.00000000001,-69.87902288541501,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.72,Water depletion,0.72,117600.00000000001,-0.010666421920867565,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Climate change,0.73,113400.00000000001,-1.423847367727565,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Ozone depletion,0.73,113400.00000000001,7.769666152391862e-09,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,"Human toxicity, non-cancer effects",0.73,113400.00000000001,-1.1891505030619956e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,"Human toxicity, cancer effects",0.73,113400.00000000001,-4.550096187328337e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Particulate matter,0.73,113400.00000000001,-0.0007692857875886616,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Photochemical ozone formation,0.73,113400.00000000001,-0.006643979916968404,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Acidification,0.73,113400.00000000001,-0.006061311853850818,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Terrestrial eutrophication,0.73,113400.00000000001,-0.01223821706344678,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Freshwater eutrophication,0.73,113400.00000000001,-3.052835716136802e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Marine eutrophication,0.73,113400.00000000001,-0.0011694912545149585,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Freshwater ecotoxicity,0.73,113400.00000000001,1.844665853442467,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,"Mineral, fossil & renewable resource depletion",0.73,113400.00000000001,-4.314509064177004e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Cumulative energy demand,0.73,113400.00000000001,-67.45424485538614,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.73,Water depletion,0.73,113400.00000000001,-0.009495805332150092,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Climate change,0.74,109200.0,-1.3298738806943573,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Ozone depletion,0.74,109200.0,1.5093558230507924e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,"Human toxicity, non-cancer effects",0.74,109200.0,-2.7322555419037014e-10,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,"Human toxicity, cancer effects",0.74,109200.0,-4.156551986293461e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Particulate matter,0.74,109200.0,-0.00073274330686817,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Photochemical ozone formation,0.74,109200.0,-0.006374418150010242,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Acidification,0.74,109200.0,-0.005625809409649296,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Terrestrial eutrophication,0.74,109200.0,-0.011538031912903333,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Freshwater eutrophication,0.74,109200.0,2.878583212076695e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Marine eutrophication,0.74,109200.0,-0.0011004768780060912,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Freshwater ecotoxicity,0.74,109200.0,2.383037733016888,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,"Mineral, fossil & renewable resource depletion",0.74,109200.0,-2.8393824505676852e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Cumulative energy demand,0.74,109200.0,-64.84317129170029,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.74,Water depletion,0.74,109200.0,-0.008235188293020895,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Climate change,0.75,105000.0,-1.228394382044404,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Ozone depletion,0.75,105000.0,2.300099151135822e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,"Human toxicity, non-cancer effects",0.75,105000.0,1.2271656878065239e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,"Human toxicity, cancer effects",0.75,105000.0,-3.731554628259068e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Particulate matter,0.75,105000.0,-0.0006932839629944589,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Photochemical ozone formation,0.75,105000.0,-0.006083343307616705,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Acidification,0.75,105000.0,-0.00515551645409246,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Terrestrial eutrophication,0.75,105000.0,-0.010781994258585056,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Freshwater eutrophication,0.75,105000.0,3.895734165156991e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Marine eutrophication,0.75,105000.0,-0.0010259561938230758,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Freshwater ecotoxicity,0.75,105000.0,2.964403894570868,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,"Mineral, fossil & renewable resource depletion",0.75,105000.0,-1.246823207961792e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Cumulative energy demand,0.75,105000.0,-62.02341986856806,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.75,Water depletion,0.75,105000.0,-0.006873765161947458,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Climate change,0.76,100800.0,-1.1184740108933153,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Ozone depletion,0.76,100800.0,3.15642314761921e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,"Human toxicity, non-cancer effects",0.76,100800.0,2.5858150688254815e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,"Human toxicity, cancer effects",0.76,100800.0,-3.27118114807574e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Particulate matter,0.76,100800.0,-0.0006505450152467311,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Photochemical ozone formation,0.76,100800.0,-0.005768081073744765,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Acidification,0.76,100800.0,-0.004646098368311715,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Terrestrial eutrophication,0.76,100800.0,-0.00996316890990837,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Freshwater eutrophication,0.76,100800.0,7.804168480350265e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Marine eutrophication,0.76,100800.0,-0.0009452451540773838,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Freshwater ecotoxicity,0.76,100800.0,3.594117061607938,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,"Mineral, fossil & renewable resource depletion",0.76,100800.0,4.77682747229769e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Cumulative energy demand,0.76,100800.0,-58.96896528766046,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.76,Water depletion,0.76,100800.0,-0.005398947540258756,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Climate change,0.77,96599.99999999999,-0.9990281630840315,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Ozone depletion,0.77,96599.99999999999,4.086554684719228e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,"Human toxicity, non-cancer effects",0.77,96599.99999999999,4.0618171706638565e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,"Human toxicity, cancer effects",0.77,96599.99999999999,-2.770859197900866e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Particulate matter,0.77,96599.99999999999,-0.0006041077091797342,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Photochemical ozone formation,0.77,96599.99999999999,-0.005425548156160564,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Acidification,0.77,96599.99999999999,-0.0040925204481471215,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Terrestrial eutrophication,0.77,96599.99999999999,-0.009073590184138761,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Freshwater eutrophication,0.77,96599.99999999999,0.00012052262802903787,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Marine eutrophication,0.77,96599.99999999999,-0.0008575568065088886,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Freshwater ecotoxicity,0.77,96599.99999999999,4.278379204435482,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,"Mineral, fossil & renewable resource depletion",0.77,96599.99999999999,2.3505487949292963e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Cumulative energy demand,0.77,96599.99999999999,-55.64948120889478,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.77,Water depletion,0.77,96599.99999999999,-0.003796004564755468,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Climate change,0.78,92399.99999999999,-0.8687478711547043,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Ozone depletion,0.78,92399.99999999999,5.100758923965114e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,"Human toxicity, non-cancer effects",0.78,92399.99999999999,5.671416519661367e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,"Human toxicity, cancer effects",0.78,92399.99999999999,-2.2251155608215778e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Particulate matter,0.78,92399.99999999999,-0.0005534621948589996,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Photochemical ozone formation,0.78,92399.99999999999,-0.005051981950840792,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Acidification,0.78,92399.99999999999,-0.003488718869152846,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Terrestrial eutrophication,0.78,92399.99999999999,-0.008103472593661353,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Freshwater eutrophication,0.78,92399.99999999999,0.00016686396764719586,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Marine eutrophication,0.78,92399.99999999999,-0.0007619271445267161,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Freshwater ecotoxicity,0.78,92399.99999999999,5.0246926599784185,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,"Mineral, fossil & renewable resource depletion",0.78,92399.99999999999,4.3924943757876495e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Cumulative energy demand,0.78,92399.99999999999,-52.02865127311856,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.78,Water depletion,0.78,92399.99999999999,-0.0020474279923142756,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Climate change,0.79,88199.99999999999,-0.7260860081107439,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Ozone depletion,0.79,88199.99999999999,6.211033254767196e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,"Human toxicity, non-cancer effects",0.79,88199.99999999999,7.433682757526901e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,"Human toxicity, cancer effects",0.79,88199.99999999999,-1.6274630902367684e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Particulate matter,0.79,88199.99999999999,-0.0004980076580352726,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Photochemical ozone formation,0.79,88199.99999999999,-0.004642951974994237,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Acidification,0.79,88199.99999999999,-0.0028275215473187415,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Terrestrial eutrophication,0.79,88199.99999999999,-0.007041319486424873,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Freshwater eutrophication,0.79,88199.99999999999,0.00021761714843510728,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Marine eutrophication,0.79,88199.99999999999,-0.0006572225085174123,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Freshwater ecotoxicity,0.79,88199.99999999999,5.841917763230513,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,"Mineral, fossil & renewable resource depletion",0.79,88199.99999999999,6.627642042051345e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Cumulative energy demand,0.79,88199.99999999999,-48.063437479114796,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.79,Water depletion,0.79,88199.99999999999,-0.00013241539611499805,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Climate change,0.8,83999.99999999999,-0.5691718073018095,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Ozone depletion,0.8,83999.99999999999,7.43205843361431e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,"Human toxicity, non-cancer effects",0.8,83999.99999999999,9.371841942672121e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,"Human toxicity, cancer effects",0.8,83999.99999999999,-9.700808233113743e-09,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Particulate matter,0.8,83999.99999999999,-0.00043701529386968425,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Photochemical ozone formation,0.8,83999.99999999999,-0.004193079526238094,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Acidification,0.8,83999.99999999999,-0.002100262472005259,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Terrestrial eutrophication,0.8,83999.99999999999,-0.0058731404732796505,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Freshwater eutrophication,0.8,83999.99999999999,0.00027344478707220295,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Marine eutrophication,0.8,83999.99999999999,-0.0005420647292252818,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Freshwater ecotoxicity,0.8,83999.99999999999,6.740777309355192,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,"Mineral, fossil & renewable resource depletion",0.8,83999.99999999999,9.085630564123486e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Cumulative energy demand,0.8,83999.99999999999,-43.70194506019137,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.80,Water depletion,0.8,83999.99999999999,0.001974047964611983,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Climate change,0.81,79799.99999999997,-0.39576843980525755,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Ozone depletion,0.81,79799.99999999997,8.781051009714923e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,"Human toxicity, non-cancer effects",0.81,79799.99999999997,1.1513340398605995e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,"Human toxicity, cancer effects",0.81,79799.99999999997,-2.435724009691673e-09,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Particulate matter,0.81,79799.99999999997,-0.0003696181651095002,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Photochemical ozone formation,0.81,79799.99999999997,-0.0036959749701380045,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Acidification,0.81,79799.99999999997,-0.001296567527824794,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Terrestrial eutrophication,0.81,79799.99999999997,-0.004582379809381984,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Freshwater eutrophication,0.81,79799.99999999997,0.00033514727266882035,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Marine eutrophication,0.81,79799.99999999997,-0.0004148202450192997,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Freshwater ecotoxicity,0.81,79799.99999999997,7.73407484061882,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,"Mineral, fossil & renewable resource depletion",0.81,79799.99999999997,1.1800986434268355e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Cumulative energy demand,0.81,79799.99999999997,-38.88184105664048,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.81,Water depletion,0.81,79799.99999999997,0.004302141787143954,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Climate change,0.82,75600.00000000001,-0.20310452897961487,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Ozone depletion,0.82,75600.00000000001,1.027980188073847e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,"Human toxicity, non-cancer effects",0.82,75600.00000000001,1.3892626571966293e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,"Human toxicity, cancer effects",0.82,75600.00000000001,5.6364254652512666e-09,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Particulate matter,0.82,75600.00000000001,-0.00029473604463892047,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Photochemical ozone formation,0.82,75600.00000000001,-0.0031436649716399282,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Acidification,0.82,75600.00000000001,-0.000403600348043563,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Terrestrial eutrophication,0.82,75600.00000000001,-0.0031482901595221904,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Freshwater eutrophication,0.82,75600.00000000001,0.000403705186393001,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Marine eutrophication,0.82,75600.00000000001,-0.00027344561119498046,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Freshwater ecotoxicity,0.82,75600.00000000001,8.837697444464233,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,"Mineral, fossil & renewable resource depletion",0.82,75600.00000000001,1.4817732324484466e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Cumulative energy demand,0.82,75600.00000000001,-33.5262838379399,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.82,Water depletion,0.82,75600.00000000001,0.006888889009612764,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Climate change,0.83,71400.00000000001,0.012195648957024767,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Ozone depletion,0.83,71400.00000000001,1.195427571461871e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,"Human toxicity, non-cancer effects",0.83,71400.00000000001,1.6551104109223172e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,"Human toxicity, cancer effects",0.83,71400.00000000001,1.4657469689134888e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Particulate matter,0.83,71400.00000000001,-0.00021106082531683205,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Photochemical ozone formation,0.83,71400.00000000001,-0.0025265087697333103,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Acidification,0.83,71400.00000000001,0.0005942958797622571,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Terrestrial eutrophication,0.83,71400.00000000001,-0.0015458954170773844,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Freshwater eutrophication,0.83,71400.00000000001,0.0004803268688363244,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Marine eutrophication,0.83,71400.00000000001,-0.00011547628262665498,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Freshwater ecotoxicity,0.83,71400.00000000001,10.070966742652768,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,"Mineral, fossil & renewable resource depletion",0.83,71400.00000000001,1.818792594110097e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Cumulative energy demand,0.83,71400.00000000001,-27.54118826217287,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.83,Water depletion,0.83,71400.00000000001,0.009779849772834035,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Climate change,0.84,67200.00000000001,0.2543708795830662,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Ozone depletion,0.84,67200.00000000001,1.3837310430400605e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,"Human toxicity, non-cancer effects",0.84,67200.00000000001,1.9540988520724523e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,"Human toxicity, cancer effects",0.84,67200.00000000001,2.4805185262204358e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Particulate matter,0.84,67200.00000000001,-0.00011694683792645744,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Photochemical ozone formation,0.84,67200.00000000001,-0.0018323718022767949,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Acidification,0.84,67200.00000000001,0.00171677226490824,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Terrestrial eutrophication,0.84,67200.00000000001,0.00025628620158907144,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Freshwater eutrophication,0.84,67200.00000000001,0.0005665239340891712,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Marine eutrophication,0.84,67200.00000000001,6.219234897886274e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Freshwater ecotoxicity,0.84,67200.00000000001,11.458156421809118,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,"Mineral, fossil & renewable resource depletion",0.84,67200.00000000001,2.1977570380726994e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Cumulative energy demand,0.84,67200.00000000001,-20.808612552512894,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.84,Water depletion,0.84,67200.00000000001,0.013032044008492921,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Climate change,0.85,63000.00000000001,0.5288130150600313,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Ozone depletion,0.85,63000.00000000001,1.597095456781123e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,"Human toxicity, non-cancer effects",0.85,63000.00000000001,2.2928966975314927e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,"Human toxicity, cancer effects",0.85,63000.00000000001,3.6305337581096814e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Particulate matter,0.85,63000.00000000001,-1.029705423298743e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Photochemical ozone formation,0.85,63000.00000000001,-0.0010457843102899716,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Acidification,0.85,63000.00000000001,0.0029888153485011894,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Terrestrial eutrophication,0.85,63000.00000000001,0.002298442412590765,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Freshwater eutrophication,0.85,63000.00000000001,0.0006642125048644443,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Marine eutrophication,0.85,63000.00000000001,0.0002635212079867088,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Freshwater ecotoxicity,0.85,63000.00000000001,13.030157659594204,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,"Mineral, fossil & renewable resource depletion",0.85,63000.00000000001,2.6271375371098066e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Cumulative energy demand,0.85,63000.00000000001,-13.178765461185412,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.85,Water depletion,0.85,63000.00000000001,0.01671777981967121,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Climate change,0.86,58800.00000000001,0.8423790955572774,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Ozone depletion,0.86,58800.00000000001,1.840776581008794e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,"Human toxicity, non-cancer effects",0.86,58800.00000000001,2.6798964794927326e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,"Human toxicity, cancer effects",0.86,58800.00000000001,4.944626779119638e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Particulate matter,0.86,58800.00000000001,0.00011154321480697102,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Photochemical ozone formation,0.86,58800.00000000001,-0.00014718588029372375,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Acidification,0.86,58800.00000000001,0.004442235257779147,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Terrestrial eutrophication,0.86,58800.00000000001,0.004631212704334509,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Freshwater eutrophication,0.86,58800.00000000001,0.0007758514875397767,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Marine eutrophication,0.86,58800.00000000001,0.0004935086824953111,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Freshwater ecotoxicity,0.86,58800.00000000001,14.826208564884269,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,"Mineral, fossil & renewable resource depletion",0.86,58800.00000000001,3.11745870949712e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Cumulative energy demand,0.86,58800.00000000001,-4.460378915294279,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.86,Water depletion,0.86,58800.00000000001,0.020929750055479212,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Climate change,0.87,54600.0,1.2041224353978723,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Ozone depletion,0.87,54600.0,2.1218199340990734e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,"Human toxicity, non-cancer effects",0.87,54600.0,3.1262812637046483e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,"Human toxicity, cancer effects",0.87,54600.0,6.460724953441412e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Particulate matter,0.87,54600.0,0.0002520930744148378,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Photochemical ozone formation,0.87,54600.0,0.000889380167221966,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Acidification,0.87,54600.0,0.006118991641708157,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Terrestrial eutrophication,0.87,54600.0,0.007321999842633894,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Freshwater eutrophication,0.87,54600.0,0.0009046617429501312,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Marine eutrophication,0.87,54600.0,0.0007587992058999491,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Freshwater ecotoxicity,0.87,54600.0,16.89817005652512,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,"Mineral, fossil & renewable resource depletion",0.87,54600.0,3.682904041615214e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Cumulative energy demand,0.87,54600.0,5.598181673971958,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.87,Water depletion,0.87,54600.0,0.025789483533801484,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Climate change,0.88,50400.0,1.626064625460051,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Ozone depletion,0.88,50400.0,2.449520688650327e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,"Human toxicity, non-cancer effects",0.88,50400.0,3.6468425480186844e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,"Human toxicity, cancer effects",0.88,50400.0,8.22927139860339e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Particulate matter,0.88,50400.0,0.00041601740823142075,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Photochemical ozone formation,0.88,50400.0,0.002098306422181571,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Acidification,0.88,50400.0,0.008074823482159139,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Terrestrial eutrophication,0.88,50400.0,0.010459997246281412,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Freshwater eutrophication,0.88,50400.0,0.001054934677735379,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Marine eutrophication,0.88,50400.0,0.0010681901196531365,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Freshwater ecotoxicity,0.88,50400.0,19.314875271925573,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,"Mineral, fossil & renewable resource depletion",0.88,50400.0,4.342143991909484e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Cumulative energy demand,0.88,50400.0,17.331561483570702,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.88,Water depletion,0.88,50400.0,0.03145883820827357,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Climate change,0.89,46199.99999999999,2.1245824139072167,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Ozone depletion,0.89,46199.99999999999,2.83652146489847e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,"Human toxicity, non-cancer effects",0.89,46199.99999999999,4.2617112093808486e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,"Human toxicity, cancer effects",0.89,46199.99999999999,1.0319010380196337e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Particulate matter,0.89,46199.99999999999,0.0006096684281805814,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Photochemical ozone formation,0.89,46199.99999999999,0.003526420499671526,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Acidification,0.89,46199.99999999999,0.01038567011273823,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Terrestrial eutrophication,0.89,46199.99999999999,0.014166608956888007,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Freshwater eutrophication,0.89,46199.99999999999,0.0012325211956512616,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Marine eutrophication,0.89,46199.99999999999,0.0014336573742071298,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Freshwater ecotoxicity,0.89,46199.99999999999,22.170083730444755,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,"Mineral, fossil & renewable resource depletion",0.89,46199.99999999999,5.1205588083466535e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Cumulative energy demand,0.89,46199.99999999999,31.195808587718222,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.89,Water depletion,0.89,46199.99999999999,0.03815846992600563,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Climate change,0.9,41999.99999999999,2.7226273948654085,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Ozone depletion,0.9,41999.99999999999,3.3005701573073443e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,"Human toxicity, non-cancer effects",0.9,41999.99999999999,4.999128656276393e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,"Human toxicity, cancer effects",0.9,41999.99999999999,1.282624568290186e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Particulate matter,0.9,41999.99999999999,0.0008419525284544766,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Photochemical ozone formation,0.9,41999.99999999999,0.0052393865933143035,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Acidification,0.9,41999.99999999999,0.013157947693769791,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Terrestrial eutrophication,0.9,41999.99999999999,0.01861213088419544,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Freshwater eutrophication,0.9,41999.99999999999,0.0014456140618760074,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Marine eutrophication,0.9,41999.99999999999,0.0018719975003819455,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Freshwater ecotoxicity,0.9,41999.99999999999,25.595212316037415,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,"Mineral, fossil & renewable resource depletion",0.9,41999.99999999999,6.0537983430387485e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Cumulative energy demand,0.9,41999.99999999999,47.82981356376014,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.90,Water depletion,0.9,41999.99999999999,0.0461973849175946,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Climate change,0.91,37799.999999999985,3.4535169849438376,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Ozone depletion,0.91,37799.999999999985,3.867632381473693e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,"Human toxicity, non-cancer effects",0.91,37799.999999999985,5.90028587160721e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,"Human toxicity, cancer effects",0.91,37799.999999999985,1.589050544688096e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Particulate matter,0.91,37799.999999999985,0.0011258254283363633,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Photochemical ozone formation,0.91,37799.999999999985,0.007332774609078885,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Acidification,0.91,37799.999999999985,0.016546059727908676,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Terrestrial eutrophication,0.91,37799.999999999985,0.024044804253106223,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Freshwater eutrophication,0.91,37799.999999999985,0.0017060575269398307,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Marine eutrophication,0.91,37799.999999999985,0.0024076786612667335,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Freshwater ecotoxicity,0.91,37799.999999999985,29.781135431185607,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,"Mineral, fossil & renewable resource depletion",0.91,37799.999999999985,7.194160320206373e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Cumulative energy demand,0.91,37799.999999999985,68.15931268068755,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.91,Water depletion,0.91,37799.999999999985,0.056022527561259645,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Climate change,0.92,33599.999999999985,4.366886134305807,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Ozone depletion,0.92,33599.999999999985,4.575975161639123e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,"Human toxicity, non-cancer effects",0.92,33599.999999999985,7.026147279143439e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,"Human toxicity, cancer effects",0.92,33599.999999999985,1.9720208513027667e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Particulate matter,0.92,33599.999999999985,0.001480532823051479,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Photochemical ozone formation,0.92,33599.999999999985,0.009948448310699978,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Acidification,0.92,33599.999999999985,0.020780183096853012,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Terrestrial eutrophication,0.92,33599.999999999985,0.030832324694776495,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Freshwater eutrophication,0.92,33599.999999999985,0.00203159677388893,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Marine eutrophication,0.92,33599.999999999985,0.0030769763954702324,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Freshwater ecotoxicity,0.92,33599.999999999985,35.01199503628256,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,"Mineral, fossil & renewable resource depletion",0.92,33599.999999999985,8.618431069107676e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Cumulative energy demand,0.92,33599.999999999985,93.56692980520465,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.92,Water depletion,0.92,33599.999999999985,0.06830307041945927,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Climate change,0.93,29399.999999999978,5.541019884128837,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Ozone depletion,0.93,29399.999999999978,5.486306117565709e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,"Human toxicity, non-cancer effects",0.93,29399.999999999978,8.473206266467391e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,"Human toxicity, cancer effects",0.93,29399.999999999978,2.4643605562354686e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Particulate matter,0.93,29399.999999999978,0.001936476142289394,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Photochemical ozone formation,0.93,29399.999999999978,0.013310591942257363,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Acidification,0.93,29399.999999999978,0.02622322699001971,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Terrestrial eutrophication,0.93,29399.999999999978,0.039556428482340734,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Freshwater eutrophication,0.93,29399.999999999978,0.002450134934240291,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Marine eutrophication,0.93,29399.999999999978,0.0039372543987864165,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Freshwater ecotoxicity,0.93,29399.999999999978,41.73612672273295,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,"Mineral, fossil & renewable resource depletion",0.93,29399.999999999978,0.00010448672724844921,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Cumulative energy demand,0.93,29399.999999999978,126.23039507792858,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.93,Water depletion,0.93,29399.999999999978,0.0840916178033981,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Climate change,0.94,25200.000000000022,7.106178007872387,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Ozone depletion,0.94,25200.000000000022,6.699374624892099e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,"Human toxicity, non-cancer effects",0.94,25200.000000000022,1.0401766398801683e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,"Human toxicity, cancer effects",0.94,25200.000000000022,3.1207229931570145e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Particulate matter,0.94,25200.000000000022,0.0025442058732623686,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Photochemical ozone formation,0.94,25200.000000000022,0.017791904968708604,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Acidification,0.94,25200.000000000022,0.03347913869532236,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Terrestrial eutrophication,0.94,25200.000000000022,0.05118373150477384,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Freshwater eutrophication,0.94,25200.000000000022,0.0030081638537006214,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Marine eutrophication,0.94,25200.000000000022,0.005083849561982746,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Freshwater ecotoxicity,0.94,25200.000000000022,50.699387342861414,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,"Mineral, fossil & renewable resource depletion",0.94,25200.000000000022,0.00012887274489390292,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Cumulative energy demand,0.94,25200.000000000022,169.77548477081663,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.94,Water depletion,0.94,25200.000000000022,0.1051417252139862,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Climate change,0.95,21000.00000000002,9.297155378987105,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Ozone depletion,0.95,21000.00000000002,8.397183210568179e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,"Human toxicity, non-cancer effects",0.95,21000.00000000002,1.3101162668083025e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,"Human toxicity, cancer effects",0.95,21000.00000000002,4.0395679430215475e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Particulate matter,0.95,21000.00000000002,0.00339489312553718,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Photochemical ozone formation,0.95,21000.00000000002,0.024064676800904416,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Acidification,0.95,21000.00000000002,0.04363639353623982,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Terrestrial eutrophication,0.95,21000.00000000002,0.06745861854832526,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Freshwater eutrophication,0.95,21000.00000000002,0.003789389184267053,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Marine eutrophication,0.95,21000.00000000002,0.006688777617881868,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Freshwater ecotoxicity,0.95,21000.00000000002,63.246400520639526,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,"Mineral, fossil & renewable resource depletion",0.95,21000.00000000002,0.00016300129573362205,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Cumulative energy demand,0.95,21000.00000000002,230.7343331670982,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.95,Water depletion,0.95,21000.00000000002,0.13461098589860568,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Climate change,0.96,16800.000000000015,12.583112116671028,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Ozone depletion,0.96,16800.000000000015,1.094287886982184e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,"Human toxicity, non-cancer effects",0.96,16800.000000000015,1.7149029882799596e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,"Human toxicity, cancer effects",0.96,16800.000000000015,5.417704987832243e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Particulate matter,0.96,16800.000000000015,0.004670643523826945,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Photochemical ozone formation,0.96,16800.000000000015,0.03347160858403818,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Acidification,0.96,16800.000000000015,0.058870143467701794,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Terrestrial eutrophication,0.96,16800.000000000015,0.09186398321885611,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Freshwater eutrophication,0.96,16800.000000000015,0.004961195542753369,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Marine eutrophication,0.96,16800.000000000015,0.009095532698316396,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Freshwater ecotoxicity,0.96,16800.000000000015,82.06368135903384,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,"Mineral, fossil & renewable resource depletion",0.96,16800.000000000015,0.00021416933702739815,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Cumulative energy demand,0.96,16800.000000000015,322.1636777827118,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.96,Water depletion,0.96,16800.000000000015,0.17881301982649458,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Climate change,0.97,12600.000000000011,18.058946078777286,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Ozone depletion,0.97,12600.000000000011,1.5184185885842277e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,"Human toxicity, non-cancer effects",0.97,12600.000000000011,2.389354198229633e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,"Human toxicity, cancer effects",0.97,12600.000000000011,7.714405357212129e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Particulate matter,0.97,12600.000000000011,0.0067964753275918475,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Photochemical ozone formation,0.97,12600.000000000011,0.04914650403736121,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Acidification,0.97,12600.000000000011,0.08425654233345548,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Terrestrial eutrophication,0.97,12600.000000000011,0.13252918835839922,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Freshwater eutrophication,0.97,12600.000000000011,0.006914158894003222,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Marine eutrophication,0.97,12600.000000000011,0.013105839885165704,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Freshwater ecotoxicity,0.97,12600.000000000011,113.42097917771684,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,"Mineral, fossil & renewable resource depletion",0.97,12600.000000000011,0.000299411731398837,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Cumulative energy demand,0.97,12600.000000000011,474.53258605049786,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.97,Water depletion,0.97,12600.000000000011,0.2524803030406177,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Climate change,0.98,8400.000000000007,29.00942226789581,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Ozone depletion,0.98,8400.000000000007,2.3664419767291528e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,"Human toxicity, non-cancer effects",0.98,8400.000000000007,3.7379694730436588e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,"Human toxicity, cancer effects",0.98,8400.000000000007,1.2307501025066218e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Particulate matter,0.98,8400.000000000007,0.01104748265092086,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Photochemical ozone formation,0.98,8400.000000000007,0.08049108649731515,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Acidification,0.98,8400.000000000007,0.13502435071163058,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Terrestrial eutrophication,0.98,8400.000000000007,0.21384329941934735,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Freshwater eutrophication,0.98,8400.000000000007,0.010820011569504049,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Marine eutrophication,0.98,8400.000000000007,0.021124963760097742,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Freshwater ecotoxicity,0.98,8400.000000000007,176.1279961765881,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,"Mineral, fossil & renewable resource depletion",0.98,8400.000000000007,0.00046983852679326833,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Cumulative energy demand,0.98,8400.000000000007,779.2495123661631,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.98,Water depletion,0.98,8400.000000000007,0.399810524117226,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Climate change,0.99,4200.000000000004,61.85810654058764,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Ozone depletion,0.99,4200.000000000004,4.9099640466586645e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,"Human toxicity, non-cancer effects",0.99,4200.000000000004,7.783154067712996e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,"Human toxicity, cancer effects",0.99,4200.000000000004,2.608608551977167e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Particulate matter,0.99,4200.000000000004,0.02379899334777413,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Photochemical ozone formation,0.99,4200.000000000004,0.17451284000996967,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Acidification,0.99,4200.000000000004,0.28731628650108726,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Terrestrial eutrophication,0.99,4200.000000000004,0.4577480992127796,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Freshwater eutrophication,0.99,4200.000000000004,0.02253739912867784,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Marine eutrophication,0.99,4200.000000000004,0.04517890310549546,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Freshwater ecotoxicity,0.99,4200.000000000004,364.23159529376665,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,"Mineral, fossil & renewable resource depletion",0.99,4200.000000000004,0.0009809853674952937,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Cumulative energy demand,0.99,4200.000000000004,1693.352185891658,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau1_q0.99,Water depletion,0.99,4200.000000000004,0.8417911809912989,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Climate change,0.7,126000.00000000001,-2.9169939802597793,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Ozone depletion,0.7,126000.00000000001,-1.1633949176137105e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,"Human toxicity, non-cancer effects",0.7,126000.00000000001,-2.0344095906279258e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,"Human toxicity, cancer effects",0.7,126000.00000000001,-1.0796273871925911e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Particulate matter,0.7,126000.00000000001,-0.0013521218694780067,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Photochemical ozone formation,0.7,126000.00000000001,-0.010923001824613986,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Acidification,0.7,126000.00000000001,-0.012931883093221862,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Terrestrial eutrophication,0.7,126000.00000000001,-0.023437431435582246,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Freshwater eutrophication,0.7,126000.00000000001,-0.0005479269330932566,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Marine eutrophication,0.7,126000.00000000001,-0.002281719045062961,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Freshwater ecotoxicity,0.7,126000.00000000001,-6.868487528332438,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,"Mineral, fossil & renewable resource depletion",0.7,126000.00000000001,-2.8572347890788958e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Cumulative energy demand,0.7,126000.00000000001,-108.16080795780209,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.70,Water depletion,0.7,126000.00000000001,-0.029180499794577264,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Climate change,0.71,121800.00000000001,-2.902586217565252,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Ozone depletion,0.71,121800.00000000001,-1.1558583477469385e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,"Human toxicity, non-cancer effects",0.71,121800.00000000001,-2.0199026101738476e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,"Human toxicity, cancer effects",0.71,121800.00000000001,-1.0735760078802268e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Particulate matter,0.71,121800.00000000001,-0.001346612230249346,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Photochemical ozone formation,0.71,121800.00000000001,-0.010881325284349722,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Acidification,0.71,121800.00000000001,-0.012862736815430473,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Terrestrial eutrophication,0.71,121800.00000000001,-0.023333108533629257,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Freshwater eutrophication,0.71,121800.00000000001,-0.0005421737386740662,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Marine eutrophication,0.71,121800.00000000001,-0.0022718581712853703,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Freshwater ecotoxicity,0.71,121800.00000000001,-6.7937136028805485,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,"Mineral, fossil & renewable resource depletion",0.71,121800.00000000001,-2.8383296124152793e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Cumulative energy demand,0.71,121800.00000000001,-107.72303448256093,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.71,Water depletion,0.71,121800.00000000001,-0.028971182728425665,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Climate change,0.72,117600.00000000001,-2.887152949478185,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Ozone depletion,0.72,117600.00000000001,-1.1477906824045434e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,"Human toxicity, non-cancer effects",0.72,117600.00000000001,-2.0043681403532985e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,"Human toxicity, cancer effects",0.72,117600.00000000001,-1.0670933139997063e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Particulate matter,0.72,117600.00000000001,-0.0013407110391655624,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Photochemical ozone formation,0.72,117600.00000000001,-0.010836687671713858,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Acidification,0.72,117600.00000000001,-0.012788666675548557,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Terrestrial eutrophication,0.72,117600.00000000001,-0.023221383513161747,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Freshwater eutrophication,0.72,117600.00000000001,-0.0005360098266918123,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Marine eutrophication,0.72,117600.00000000001,-0.002261297477544827,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Freshwater ecotoxicity,0.72,117600.00000000001,-6.713621706803525,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,"Mineral, fossil & renewable resource depletion",0.72,117600.00000000001,-2.8180916844811495e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Cumulative energy demand,0.72,117600.00000000001,-107.2540549382652,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.72,Water depletion,0.72,117600.00000000001,-0.028746927644525355,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Climate change,0.73,113400.00000000001,-2.870590790353591,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Ozone depletion,0.73,113400.00000000001,-1.1391540003620054e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,"Human toxicity, non-cancer effects",0.73,113400.00000000001,-1.987717458243264e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,"Human toxicity, cancer effects",0.73,113400.00000000001,-1.06013408479852e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Particulate matter,0.73,113400.00000000001,-0.0013343806054875616,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Photochemical ozone formation,0.73,113400.00000000001,-0.010788806128237384,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Acidification,0.73,113400.00000000001,-0.012709169786078335,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Terrestrial eutrophication,0.73,113400.00000000001,-0.023101578336197203,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Freshwater eutrophication,0.73,113400.00000000001,-0.0005293902177797877,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Marine eutrophication,0.73,113400.00000000001,-0.0022499724126692896,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Freshwater ecotoxicity,0.73,113400.00000000001,-6.6276881051924015,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,"Mineral, fossil & renewable resource depletion",0.73,113400.00000000001,-2.7964243069535425e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Cumulative energy demand,0.73,113400.00000000001,-106.7505870822252,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.73,Water depletion,0.73,113400.00000000001,-0.028506113265223454,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Climate change,0.74,109200.0,-2.8527820682181035,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Ozone depletion,0.74,109200.0,-1.1299077801610178e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,"Human toxicity, non-cancer effects",0.74,109200.0,-1.9698520925480104e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,"Human toxicity, cancer effects",0.74,109200.0,-1.0526465569710646e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Particulate matter,0.74,109200.0,-0.0013275783315640553,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Photochemical ozone formation,0.74,109200.0,-0.010737361355239845,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Acidification,0.74,109200.0,-0.012623672671018793,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Terrestrial eutrophication,0.74,109200.0,-0.022972932796212767,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Freshwater eutrophication,0.74,109200.0,-0.0005222631132457802,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Marine eutrophication,0.74,109200.0,-0.0022378105196090604,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Freshwater ecotoxicity,0.74,109200.0,-6.535318785283175,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,"Mineral, fossil & renewable resource depletion",0.74,109200.0,-2.7732237841329918e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Cumulative energy demand,0.74,109200.0,-106.20887209391483,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.74,Water depletion,0.74,109200.0,-0.02824687478936451,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Climate change,0.75,105000.0,-2.8335793033682637,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Ozone depletion,0.75,105000.0,-1.1199830870667967e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,"Human toxicity, non-cancer effects",0.75,105000.0,-1.950631360059143e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,"Human toxicity, cancer effects",0.75,105000.0,-1.044567874270313e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Particulate matter,0.75,105000.0,-0.00132024875735527,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Photochemical ozone formation,0.75,105000.0,-0.010681934977515675,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Acidification,0.75,105000.0,-0.012531464128119106,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Terrestrial eutrophication,0.75,105000.0,-0.02283441487856536,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Freshwater eutrophication,0.75,105000.0,-0.0005145677445489397,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Marine eutrophication,0.75,105000.0,-0.0022247140152721542,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Freshwater ecotoxicity,0.75,105000.0,-6.435754865446842,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,"Mineral, fossil & renewable resource depletion",0.75,105000.0,-2.7483163960430117e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Cumulative energy demand,0.75,105000.0,-105.62435726662451,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.75,Water depletion,0.75,105000.0,-0.027967009011116355,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Climate change,0.76,100800.0,-2.812801478791092,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Ozone depletion,0.76,100800.0,-1.1092816074550596e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,"Human toxicity, non-cancer effects",0.76,100800.0,-1.9298695478724785e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,"Human toxicity, cancer effects",0.76,100800.0,-1.0358224114239793e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Particulate matter,0.76,100800.0,-0.0013123222466963303,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Photochemical ozone formation,0.76,100800.0,-0.010621999742758126,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Acidification,0.76,100800.0,-0.012431676920276549,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Terrestrial eutrophication,0.76,100800.0,-0.02268469805744602,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Freshwater eutrophication,0.76,100800.0,-0.0005062326586540832,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Marine eutrophication,0.76,100800.0,-0.0022105576164481917,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Freshwater ecotoxicity,0.76,100800.0,-6.328054020968185,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,"Mineral, fossil & renewable resource depletion",0.76,100800.0,-2.721455880224294e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Cumulative energy demand,0.76,100800.0,-104.99157409342739,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.76,Water depletion,0.76,100800.0,-0.02766391286299831,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Climate change,0.77,96599.99999999999,-2.790235428009833,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Ozone depletion,0.77,96599.99999999999,-1.0976865950530701e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,"Human toxicity, non-cancer effects",0.77,96599.99999999999,-1.9073470350727893e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,"Human toxicity, cancer effects",0.77,96599.99999999999,-1.0263212198754583e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Particulate matter,0.77,96599.99999999999,-0.0013037166847853737,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Photochemical ozone formation,0.77,96599.99999999999,-0.010556933782063856,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Acidification,0.77,96599.99999999999,-0.012323290188853885,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Terrestrial eutrophication,0.77,96599.99999999999,-0.02252221596741021,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Freshwater eutrophication,0.77,96599.99999999999,-0.0004971739344019016,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Marine eutrophication,0.77,96599.99999999999,-0.0021951934157718746,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Freshwater ecotoxicity,0.77,96599.99999999999,-6.211105794986987,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,"Mineral, fossil & renewable resource depletion",0.77,96599.99999999999,-2.6923498940905057e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Cumulative energy demand,0.77,96599.99999999999,-104.30409130889684,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.77,Water depletion,0.77,96599.99999999999,-0.02733452813356349,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Climate change,0.78,92399.99999999999,-2.765625889119759,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Ozone depletion,0.78,92399.99999999999,-1.0850534105172699e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,"Human toxicity, non-cancer effects",0.78,92399.99999999999,-1.8827962271288283e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,"Human toxicity, cancer effects",0.78,92399.99999999999,-1.0159583241414914e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Particulate matter,0.78,92399.99999999999,-0.0012943331886944162,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Photochemical ozone formation,0.78,92399.99999999999,-0.01048598757131044,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Acidification,0.78,92399.99999999999,-0.012205083490057307,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Terrestrial eutrophication,0.78,92399.99999999999,-0.022345071797418944,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Freshwater eutrophication,0.78,92399.99999999999,-0.0004872921849009981,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Marine eutrophication,0.78,92399.99999999999,-0.0021784424389467943,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Freshwater ecotoxicity,0.78,92399.99999999999,-6.083576602667364,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,"Mineral, fossil & renewable resource depletion",0.78,92399.99999999999,-2.6606366987152966e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Cumulative energy demand,0.78,92399.99999999999,-103.55424981597518,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.78,Water depletion,0.78,92399.99999999999,-0.026975228402185625,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Climate change,0.79,88199.99999999999,-2.73867575488485,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Ozone depletion,0.79,88199.99999999999,-1.0712233972461633e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,"Human toxicity, non-cancer effects",0.79,88199.99999999999,-1.855914885657503e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,"Human toxicity, cancer effects",0.79,88199.99999999999,-1.0046092975088655e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Particulate matter,0.79,88199.99999999999,-0.001284057772161846,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Photochemical ozone formation,0.79,88199.99999999999,-0.010408298434134312,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Acidification,0.79,88199.99999999999,-0.01207563228314277,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Terrestrial eutrophication,0.79,88199.99999999999,-0.022151100113412692,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Freshwater eutrophication,0.79,88199.99999999999,-0.00047646951332725433,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Marine eutrophication,0.79,88199.99999999999,-0.002160100096032902,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Freshwater ecotoxicity,0.79,88199.99999999999,-5.943921933741993,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,"Mineral, fossil & renewable resource depletion",0.79,88199.99999999999,-2.6259186264580983e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Cumulative energy demand,0.79,88199.99999999999,-102.73305041987626,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.79,Water depletion,0.79,88199.99999999999,-0.026581721208312852,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Climate change,0.8,83999.99999999999,-2.7090394010126526,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Ozone depletion,0.8,83999.99999999999,-1.0560279457251191e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,"Human toxicity, non-cancer effects",0.8,83999.99999999999,-1.8263665984096923e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,"Human toxicity, cancer effects",0.8,83999.99999999999,-9.921276193242637e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Particulate matter,0.8,83999.99999999999,-0.0012727596566822353,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Photochemical ozone formation,0.8,83999.99999999999,-0.010322878816250457,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Acidification,0.8,83999.99999999999,-0.011933272771861724,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Terrestrial eutrophication,0.8,83999.99999999999,-0.02193785153256638,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Freshwater eutrophication,0.8,83999.99999999999,-0.00046456512083968034,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Marine eutrophication,0.8,83999.99999999999,-0.0021399345171841757,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Freshwater ecotoxicity,0.8,83999.99999999999,-5.790357720525475,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,"Mineral, fossil & renewable resource depletion",0.8,83999.99999999999,-2.5877715401353174e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Cumulative energy demand,0.8,83999.99999999999,-101.82988523262586,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.80,Water depletion,0.8,83999.99999999999,-0.02614889535930384,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Climate change,0.81,79799.99999999997,-2.6763487109011015,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Ozone depletion,0.81,79799.99999999997,-1.0393633510684578e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,"Human toxicity, non-cancer effects",0.81,79799.99999999997,-1.7938652552846286e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,"Human toxicity, cancer effects",0.81,79799.99999999997,-9.783487912199486e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Particulate matter,0.81,79799.99999999997,-0.0012603082153253109,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Photochemical ozone formation,0.81,79799.99999999997,-0.010228752963969755,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Acidification,0.81,79799.99999999997,-0.011776201351865372,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Terrestrial eutrophication,0.81,79799.99999999997,-0.021703048558846357,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Freshwater eutrophication,0.81,79799.99999999997,-0.0004514116894006345,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Marine eutrophication,0.81,79799.99999999997,-0.002117727891231794,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Freshwater ecotoxicity,0.81,79799.99999999997,-5.621043990176089,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,"Mineral, fossil & renewable resource depletion",0.81,79799.99999999997,-2.545926642590869e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Cumulative energy demand,0.81,79799.99999999997,-100.83279433422744,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.81,Water depletion,0.81,79799.99999999997,-0.025670746920973625,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Climate change,0.82,75600.00000000001,-2.6400839083122403,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Ozone depletion,0.82,75600.00000000001,-1.020963345552046e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,"Human toxicity, non-cancer effects",0.82,75600.00000000001,-1.7578928502990597e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,"Human toxicity, cancer effects",0.82,75600.00000000001,-9.630538772913746e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Particulate matter,0.82,75600.00000000001,-0.001246505323537259,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Photochemical ozone formation,0.82,75600.00000000001,-0.010124422985884075,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Acidification,0.82,75600.00000000001,-0.011601921156870068,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Terrestrial eutrophication,0.82,75600.00000000001,-0.02144295217457535,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Freshwater eutrophication,0.82,75600.00000000001,-0.0004368003799450846,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Marine eutrophication,0.82,75600.00000000001,-0.002093126635945573,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Freshwater ecotoxicity,0.82,75600.00000000001,-5.433287649878655,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,"Mineral, fossil & renewable resource depletion",0.82,75600.00000000001,-2.499715464305359e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Cumulative energy demand,0.82,75600.00000000001,-99.72593552248003,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.82,Water depletion,0.82,75600.00000000001,-0.025139683040025108,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Climate change,0.83,71400.00000000001,-2.599564084140732,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Ozone depletion,0.83,71400.00000000001,-1.0004214532391034e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,"Human toxicity, non-cancer effects",0.83,71400.00000000001,-1.7177159277526688e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,"Human toxicity, cancer effects",0.83,71400.00000000001,-9.459624865967091e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Particulate matter,0.83,71400.00000000001,-0.0012310848542631705,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Photochemical ozone formation,0.83,71400.00000000001,-0.010007868828801902,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Acidification,0.83,71400.00000000001,-0.011407185245033421,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Terrestrial eutrophication,0.83,71400.00000000001,-0.02115241248471899,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Freshwater eutrophication,0.83,71400.00000000001,-0.0004204708026416556,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Marine eutrophication,0.83,71400.00000000001,-0.0020656454055141666,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Freshwater ecotoxicity,0.83,71400.00000000001,-5.223514988696931,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,"Mineral, fossil & renewable resource depletion",0.83,71400.00000000001,-2.448123278032544e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Cumulative energy demand,0.83,71400.00000000001,-98.48905831234089,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.83,Water depletion,0.83,71400.00000000001,-0.024546182716569297,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Climate change,0.84,67200.00000000001,-2.553985008259391,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Ozone depletion,0.84,67200.00000000001,-9.773232610595203e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,"Human toxicity, non-cancer effects",0.84,67200.00000000001,-1.672530687268307e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,"Human toxicity, cancer effects",0.84,67200.00000000001,-9.267361379371789e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Particulate matter,0.84,67200.00000000001,-0.0012137399797888828,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Photochemical ozone formation,0.84,67200.00000000001,-0.009876770428777788,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Acidification,0.84,67200.00000000001,-0.01118813131816243,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Terrestrial eutrophication,0.84,67200.00000000001,-0.020825633651708465,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Freshwater eutrophication,0.84,67200.00000000001,-0.0004021003838765472,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Marine eutrophication,0.84,67200.00000000001,-0.0020347361831560217,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Freshwater ecotoxicity,0.84,67200.00000000001,-4.987557160381104,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,"Mineral, fossil & renewable resource depletion",0.84,67200.00000000001,-2.3901099343986657e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Cumulative energy demand,0.84,67200.00000000001,-97.0976718288701,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.84,Water depletion,0.84,67200.00000000001,-0.023878515732185395,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Climate change,0.85,63000.00000000001,-2.5023594004698784,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Ozone depletion,0.85,63000.00000000001,-9.51206580886729e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,"Human toxicity, non-cancer effects",0.85,63000.00000000001,-1.6213946663008355e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,"Human toxicity, cancer effects",0.85,63000.00000000001,-9.049541294028179e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Particulate matter,0.85,63000.00000000001,-0.0011940993497634852,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Photochemical ozone formation,0.85,63000.00000000001,-0.009728326320385915,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Acidification,0.85,63000.00000000001,-0.010939998639339043,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Terrestrial eutrophication,0.85,63000.00000000001,-0.020455703889824574,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Freshwater eutrophication,0.85,63000.00000000001,-0.00038128248158083276,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Marine eutrophication,0.85,63000.00000000001,-0.001999744100275462,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Freshwater ecotoxicity,0.85,63000.00000000001,-4.720333381192174,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,"Mineral, fossil & renewable resource depletion",0.85,63000.00000000001,-2.3245107675051406e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Cumulative energy demand,0.85,63000.00000000001,-95.52130491354026,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.85,Water depletion,0.85,63000.00000000001,-0.023121938343317296,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Climate change,0.86,58800.00000000001,-2.4434975895047844,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Ozone depletion,0.86,58800.00000000001,-9.216363268439774e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,"Human toxicity, non-cancer effects",0.86,58800.00000000001,-1.5632881355770783e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,"Human toxicity, cancer effects",0.86,58800.00000000001,-8.800959580308784e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Particulate matter,0.86,58800.00000000001,-0.0011717293981727006,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Photochemical ozone formation,0.86,58800.00000000001,-0.009559282898118847,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Acidification,0.86,58800.00000000001,-0.010656999889365512,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Terrestrial eutrophication,0.86,58800.00000000001,-0.020034826514166448,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Freshwater eutrophication,0.86,58800.00000000001,-0.00035749922027749107,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Marine eutrophication,0.86,58800.00000000001,-0.001959926849691963,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Freshwater ecotoxicity,0.86,58800.00000000001,-4.4158179835812685,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,"Mineral, fossil & renewable resource depletion",0.86,58800.00000000001,-2.2502161399109676e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Cumulative energy demand,0.86,58800.00000000001,-93.72217725054963,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.86,Water depletion,0.86,58800.00000000001,-0.02225778487338874,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Climate change,0.87,54600.0,-2.3756632131786306,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Ozone depletion,0.87,54600.0,-8.876827672067968e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,"Human toxicity, non-cancer effects",0.87,54600.0,-1.4964423604618058e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,"Human toxicity, cancer effects",0.87,54600.0,-8.514347247291073e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Particulate matter,0.87,54600.0,-0.0011459636772609275,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Photochemical ozone formation,0.87,54600.0,-0.009364595972520108,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Acidification,0.87,54600.0,-0.010330810770137703,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Terrestrial eutrophication,0.87,54600.0,-0.019550335292559763,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Freshwater eutrophication,0.87,54600.0,-0.0003300621574860562,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Marine eutrophication,0.87,54600.0,-0.0019140877984474764,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Freshwater ecotoxicity,0.87,54600.0,-4.064982510125315,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,"Mineral, fossil & renewable resource depletion",0.87,54600.0,-2.1648959483537198e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Cumulative energy demand,0.87,54600.0,-91.64771735939446,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.87,Water depletion,0.87,54600.0,-0.02126098771049865,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Climate change,0.88,50400.0,-2.2966283366079656,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Ozone depletion,0.88,50400.0,-8.482804461323942e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,"Human toxicity, non-cancer effects",0.88,50400.0,-1.4187091693700974e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,"Human toxicity, cancer effects",0.88,50400.0,-8.180235566985593e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Particulate matter,0.88,50400.0,-0.0011159616188386244,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Photochemical ozone formation,0.88,50400.0,-0.00913792112717392,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Acidification,0.88,50400.0,-0.00995069735314318,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Terrestrial eutrophication,0.88,50400.0,-0.018986534740405913,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Freshwater eutrophication,0.88,50400.0,-0.00029805878741385967,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Marine eutrophication,0.88,50400.0,-0.0018607405150372356,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Freshwater ecotoxicity,0.88,50400.0,-3.6563436447624573,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,"Mineral, fossil & renewable resource depletion",0.88,50400.0,-2.0658678009514486e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Cumulative energy demand,0.88,50400.0,-89.22935874078507,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.88,Water depletion,0.88,50400.0,-0.020098441377791064,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Climate change,0.89,46199.99999999999,-2.2033047463206046,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Ozone depletion,0.89,46199.99999999999,-8.018763680023704e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,"Human toxicity, non-cancer effects",0.89,46199.99999999999,-1.32703847365672e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,"Human toxicity, cancer effects",0.89,46199.99999999999,-7.785584334822827e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Particulate matter,0.89,46199.99999999999,-0.0010805493924064791,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Photochemical ozone formation,0.89,46199.99999999999,-0.008870387835052276,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Acidification,0.89,46199.99999999999,-0.009501812627384696,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Terrestrial eutrophication,0.89,46199.99999999999,-0.018321336432779504,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Freshwater eutrophication,0.89,46199.99999999999,-0.0002602416706484476,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Marine eutrophication,0.89,46199.99999999999,-0.0017977953619448387,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Freshwater ecotoxicity,0.89,46199.99999999999,-3.173923587584963,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,"Mineral, fossil & renewable resource depletion",0.89,46199.99999999999,-1.949229989687272e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Cumulative energy demand,0.89,46199.99999999999,-86.37272304918157,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.89,Water depletion,0.89,46199.99999999999,-0.01872481929202475,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Climate change,0.9,41999.99999999999,-2.0915257650549655,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Ozone depletion,0.9,41999.99999999999,-7.466095453209261e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,"Human toxicity, non-cancer effects",0.9,41999.99999999999,-1.217538006275592e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,"Human toxicity, cancer effects",0.9,41999.99999999999,-7.31253871022686e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Particulate matter,0.9,41999.99999999999,-0.0010381699963524045,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Photochemical ozone formation,0.9,41999.99999999999,-0.00855026274296662,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Acidification,0.9,41999.99999999999,-0.008964027331404953,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Terrestrial eutrophication,0.9,41999.99999999999,-0.01752596140501725,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Freshwater eutrophication,0.9,41999.99999999999,-0.00021487413329838534,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Marine eutrophication,0.9,41999.99999999999,-0.0017225229828538892,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Freshwater ecotoxicity,0.9,41999.99999999999,-2.5963506992554692,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,"Mineral, fossil & renewable resource depletion",0.9,41999.99999999999,-1.810283263544465e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Cumulative energy demand,0.9,41999.99999999999,-82.94842956552301,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.90,Water depletion,0.9,41999.99999999999,-0.01707723604578115,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Climate change,0.91,37799.999999999985,-1.9549697243968518,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Ozone depletion,0.91,37799.999999999985,-6.791864602408661e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,"Human toxicity, non-cancer effects",0.91,37799.999999999985,-1.0838552097825882e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,"Human toxicity, cancer effects",0.91,37799.999999999985,-6.734532377141628e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Particulate matter,0.91,37799.999999999985,-0.0009864074932257772,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Photochemical ozone formation,0.91,37799.999999999985,-0.008159272832376767,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Acidification,0.91,37799.999999999985,-0.008306996753088193,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Terrestrial eutrophication,0.91,37799.999999999985,-0.016554694105989757,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Freshwater eutrophication,0.91,37799.999999999985,-0.00015942881660045222,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Marine eutrophication,0.91,37799.999999999985,-0.0016306018448599023,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Freshwater ecotoxicity,0.91,37799.999999999985,-1.8908271007128514,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,"Mineral, fossil & renewable resource depletion",0.91,37799.999999999985,-1.6407646730698228e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Cumulative energy demand,0.91,37799.999999999985,-78.76428130753155,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.91,Water depletion,0.91,37799.999999999985,-0.015063751860338532,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Climate change,0.92,33599.999999999985,-1.7843560992928362,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Ozone depletion,0.92,33599.999999999985,-5.9507022851544435e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,"Human toxicity, non-cancer effects",0.92,33599.999999999985,-9.169479070538273e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,"Human toxicity, cancer effects",0.92,33599.999999999985,-6.012232901552283e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Particulate matter,0.92,33599.999999999985,-0.0009217492051658852,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Photochemical ozone formation,0.92,33599.999999999985,-0.007670891313087991,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Acidification,0.92,33599.999999999985,-0.00748604942951004,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Terrestrial eutrophication,0.92,33599.999999999985,-0.015341723632006104,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Freshwater eutrophication,0.92,33599.999999999985,-9.012722864872039e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Marine eutrophication,0.92,33599.999999999985,-0.0015158022612188462,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Freshwater ecotoxicity,0.92,33599.999999999985,-1.009440415669963,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,"Mineral, fossil & renewable resource depletion",0.92,33599.999999999985,-1.429262676565476e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Cumulative energy demand,0.92,33599.999999999985,-73.53552331665037,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.92,Water depletion,0.92,33599.999999999985,-0.01254719352621106,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Climate change,0.93,29399.999999999978,-1.5652174275427577,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Ozone depletion,0.93,29399.999999999978,-4.873635769347625e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,"Human toxicity, non-cancer effects",0.93,29399.999999999978,-7.028869913639837e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,"Human toxicity, cancer effects",0.93,29399.999999999978,-5.084129683182946e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Particulate matter,0.93,29399.999999999978,-0.0008387392117680059,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Photochemical ozone formation,0.93,29399.999999999978,-0.007043941165631022,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Acidification,0.93,29399.999999999978,-0.006431473917698865,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Terrestrial eutrophication,0.93,29399.999999999978,-0.013785222376078937,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Freshwater eutrophication,0.93,29399.999999999978,-1.0389585437223086e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Marine eutrophication,0.93,29399.999999999978,-0.001368480080156603,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Freshwater ecotoxicity,0.93,29399.999999999978,0.12236115122194692,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,"Mineral, fossil & renewable resource depletion",0.93,29399.999999999978,-1.1584104123287821e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Cumulative energy demand,0.93,29399.999999999978,-66.81672076480665,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.93,Water depletion,0.93,29399.999999999978,-0.009312426908837103,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Climate change,0.94,25200.000000000022,-1.27327637281118,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Ozone depletion,0.94,25200.000000000022,-3.4424171080825653e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,"Human toxicity, non-cancer effects",0.94,25200.000000000022,-4.180599647123696e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,"Human toxicity, cancer effects",0.94,25200.000000000022,-3.847282930982351e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Particulate matter,0.94,25200.000000000022,-0.0007281935028908543,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Photochemical ozone formation,0.94,25200.000000000022,-0.00620907333604307,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Acidification,0.94,25200.000000000022,-0.005026394106943008,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Terrestrial eutrophication,0.94,25200.000000000022,-0.011713222351440152,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Freshwater eutrophication,0.94,25200.000000000022,0.00011773025493093984,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Marine eutrophication,0.94,25200.000000000022,-0.0011723554763816018,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Freshwater ecotoxicity,0.94,25200.000000000022,1.6298792417433738,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,"Mineral, fossil & renewable resource depletion",0.94,25200.000000000022,-7.984606620014607e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Cumulative energy demand,0.94,25200.000000000022,-57.862591710552266,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.94,Water depletion,0.94,25200.000000000022,-0.0050002938548012535,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Climate change,0.95,21000.00000000002,-0.8648109300280794,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Ozone depletion,0.95,21000.00000000002,-1.4437446386922905e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,"Human toxicity, non-cancer effects",0.95,21000.00000000002,-1.9909395568794027e-09,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,"Human toxicity, cancer effects",0.95,21000.00000000002,-2.1163426564529863e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Particulate matter,0.95,21000.00000000002,-0.000573568304586486,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Photochemical ozone formation,0.95,21000.00000000002,-0.00504135988185308,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Acidification,0.95,21000.00000000002,-0.003060337544205666,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Terrestrial eutrophication,0.95,21000.00000000002,-0.008815869353602828,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Freshwater eutrophication,0.95,21000.00000000002,0.00028399149821146567,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Marine eutrophication,0.95,21000.00000000002,-0.0008980962489090083,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Freshwater ecotoxicity,0.95,21000.00000000002,3.7388018017345828,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,"Mineral, fossil & renewable resource depletion",0.95,21000.00000000002,-2.9575748263070188e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Cumulative energy demand,0.95,21000.00000000002,-45.331228998278654,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.95,Water depletion,0.95,21000.00000000002,0.0010357734450885112,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Climate change,0.96,16800.000000000015,-0.25260919937458887,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Ozone depletion,0.96,16800.000000000015,1.544349223201769e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,"Human toxicity, non-cancer effects",0.96,16800.000000000015,5.761203160969827e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,"Human toxicity, cancer effects",0.96,16800.000000000015,4.787969408398056e-09,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Particulate matter,0.96,16800.000000000015,-0.00034190389127236424,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Photochemical ozone formation,0.96,16800.000000000015,-0.0032919593501354693,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Acidification,0.96,16800.000000000015,-0.00011333108333719461,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Terrestrial eutrophication,0.96,16800.000000000015,-0.004476629518654218,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Freshwater eutrophication,0.96,16800.000000000015,0.0005333525261753683,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Marine eutrophication,0.96,16800.000000000015,-0.000487328295307376,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Freshwater ecotoxicity,0.96,16800.000000000015,6.899028656404351,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,"Mineral, fossil & renewable resource depletion",0.96,16800.000000000015,4.5588149433220775e-06,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Cumulative energy demand,0.96,16800.000000000015,-26.54288703613184,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.96,Water depletion,0.96,16800.000000000015,0.010088064279382282,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Climate change,0.97,12600.000000000011,0.7668667805913707,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Ozone depletion,0.97,12600.000000000011,6.507324865950175e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,"Human toxicity, non-cancer effects",0.97,12600.000000000011,1.5673984404967523e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,"Human toxicity, cancer effects",0.97,12600.000000000011,4.8018274901006543e-08,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Particulate matter,0.97,12600.000000000011,4.372973441536752e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Photochemical ozone formation,0.97,12600.000000000011,-0.00038005144376945023,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Acidification,0.97,12600.000000000011,0.0047947448545127445,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Terrestrial eutrophication,0.97,12600.000000000011,0.002743671503711686,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Freshwater eutrophication,0.97,12600.000000000011,0.0009489008040649373,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Marine eutrophication,0.97,12600.000000000011,0.00019620906440664718,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Freshwater ecotoxicity,0.97,12600.000000000011,12.160602876933117,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,"Mineral, fossil & renewable resource depletion",0.97,12600.000000000011,1.7044269515204914e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Cumulative energy demand,0.97,12600.000000000011,4.755936912631769,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.97,Water depletion,0.97,12600.000000000011,0.025172079036816206,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Climate change,0.98,8400.000000000007,2.804839236742037,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Ozone depletion,0.98,8400.000000000007,1.641371336004941e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,"Human toxicity, non-cancer effects",0.98,8400.000000000007,3.5475660321552123e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,"Human toxicity, cancer effects",0.98,8400.000000000007,1.3445381168079188e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Particulate matter,0.98,8400.000000000007,0.0008144575766054351,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Photochemical ozone formation,0.98,8400.000000000007,0.005439483473606672,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Acidification,0.98,8400.000000000007,0.014606795910760752,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Terrestrial eutrophication,0.98,8400.000000000007,0.01717087699254935,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Freshwater eutrophication,0.98,8400.000000000007,0.0017799365160158765,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Marine eutrophication,0.98,8400.000000000007,0.0015620587220024303,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Freshwater ecotoxicity,0.98,8400.000000000007,22.67752232876335,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,"Mineral, fossil & renewable resource depletion",0.98,8400.000000000007,4.196751311284641e-05,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Cumulative energy demand,0.98,8400.000000000007,67.33641484554788,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.98,Water depletion,0.98,8400.000000000007,0.05533653704625342,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Climate change,0.99,4200.000000000004,8.918372478161304,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Ozone depletion,0.99,4200.000000000004,4.612520700161035e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,"Human toxicity, non-cancer effects",0.99,4200.000000000004,9.487143264280161e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,"Human toxicity, cancer effects",0.99,4200.000000000004,3.9375058879610806e-07,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Particulate matter,0.99,4200.000000000004,0.0031264295658097086,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Photochemical ozone formation,0.99,4200.000000000004,0.022896409408703394,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Acidification,0.99,4200.000000000004,0.04404134088192757,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Terrestrial eutrophication,0.99,4200.000000000004,0.06044723979964539,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Freshwater eutrophication,0.99,4200.000000000004,0.004273019791053024,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Marine eutrophication,0.99,4200.000000000004,0.005659127268500893,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Freshwater ecotoxicity,0.99,4200.000000000004,54.22583789312382,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,"Mineral, fossil & renewable resource depletion",0.99,4200.000000000004,0.00011671855115016681,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Cumulative energy demand,0.99,4200.000000000004,255.07111518631064,same indicator units as Tua supplement; negative means no nonnegative allowance,True
+staggered_tau3_q0.99,Water depletion,0.99,4200.000000000004,0.1458285104553845,same indicator units as Tua supplement; negative means no nonnegative allowance,True

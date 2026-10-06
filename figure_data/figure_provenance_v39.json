@@ -1,0 +1,379 @@
+{
+  "source_commit": "b9b16959570bd2fbc9ff5118bacc423c3bddd592",
+  "source_repository": "https://github.com/garrettj403/SciencePlots",
+  "license": "MIT",
+  "native_raster_export_dpi": 1200,
+  "vectors_have_no_dpi": true,
+  "figures": [
+    {
+      "name": "figure1_lifecycle",
+      "width_mm": 177.79999999999998,
+      "height_mm": 71.11999999999999,
+      "data": {
+        "equal_spacing_exact": [
+          {
+            "life": 1,
+            "dedicated": 9,
+            "pooled": 9
+          },
+          {
+            "life": 2,
+            "dedicated": 9,
+            "pooled": 5
+          },
+          {
+            "life": 3,
+            "dedicated": 9,
+            "pooled": 3
+          },
+          {
+            "life": 4,
+            "dedicated": 6,
+            "pooled": 3
+          },
+          {
+            "life": 5,
+            "dedicated": 6,
+            "pooled": 2
+          },
+          {
+            "life": 6,
+            "dedicated": 6,
+            "pooled": 2
+          },
+          {
+            "life": 7,
+            "dedicated": 3,
+            "pooled": 2
+          },
+          {
+            "life": 8,
+            "dedicated": 3,
+            "pooled": 2
+          },
+          {
+            "life": 9,
+            "dedicated": 3,
+            "pooled": 2
+          }
+        ],
+        "conditions": {
+          "jobs": 9,
+          "owners": 3,
+          "K": 5,
+          "delta": 1,
+          "ready_delay": 1,
+          "synthetic": true
+        },
+        "seven_job_long_unavailability": {
+          "peak_occupied": 2,
+          "global_division_lower_bound": 2,
+          "exact_births": 3
+        }
+      },
+      "audit": {
+        "visible_text_objects": 26,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "outputs": [
+        {
+          "file": "figure1_lifecycle.pdf",
+          "sha256": "84c3ac0c822d08b0457242ab17cd3ec10b872d4a2a4d6f930d59909ebfaa4a16",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure1_lifecycle.svg",
+          "sha256": "bb7f63a7c3c74c2d00685935759c1bd4ca4213c4b9cf2975faf16740345dce07",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure1_lifecycle.png",
+          "sha256": "3da06efef900ba8de4846819d2c18245c7bb26fde6cc18d31b254e2d674e7cfe",
+          "raster_dpi": 1200
+        },
+        {
+          "file": "figure1_lifecycle.tiff",
+          "sha256": "1ba0d80ac7e4fe56ac773274f2b133dc4620f0a137e3c14ac6ba24899b71033b",
+          "raster_dpi": 1200
+        }
+      ]
+    },
+    {
+      "name": "figure2_calendar",
+      "width_mm": 177.79999999999998,
+      "height_mm": 83.82,
+      "data": {
+        "historical_scenario_rows": [
+          {
+            "scenario": "flat_tau1",
+            "reference_cost_reduction_fraction": "0.0",
+            "initial_stock_reduction_fraction": "0.0",
+            "dedicated_initial_assets": "70000.0",
+            "pooled_initial_assets": "70000.0",
+            "dedicated_cost_per_service": "0.9114879583333333",
+            "pooled_cost_per_service": "0.9114879583333333",
+            "dedicated_maximum_upper_impact_ratio": "0.5269509632938808",
+            "pooled_maximum_upper_impact_ratio": "0.5269509632938809",
+            "benchmark_mode": "dedicated_adaptive"
+          },
+          {
+            "scenario": "staggered_tau1",
+            "reference_cost_reduction_fraction": "0.28503068091517403",
+            "initial_stock_reduction_fraction": "0.32123714662504144",
+            "dedicated_initial_assets": "103128.80213162016",
+            "pooled_initial_assets": "70000.00000000001",
+            "dedicated_cost_per_service": "1.2872963889559443",
+            "pooled_cost_per_service": "0.9203774226721868",
+            "dedicated_maximum_upper_impact_ratio": "0.7213689588807854",
+            "pooled_maximum_upper_impact_ratio": "0.5311771648858699",
+            "benchmark_mode": "dedicated_adaptive"
+          },
+          {
+            "scenario": "staggered_tau3",
+            "reference_cost_reduction_fraction": "0.2661888160586111",
+            "initial_stock_reduction_fraction": "0.28012793569054084",
+            "dedicated_initial_assets": "194479.0011184775",
+            "pooled_initial_assets": "140000.0",
+            "dedicated_cost_per_service": "2.2741915910378903",
+            "pooled_cost_per_service": "1.6688272239290651",
+            "dedicated_maximum_upper_impact_ratio": "1.2589508406729675",
+            "pooled_maximum_upper_impact_ratio": "0.9452463301995642",
+            "benchmark_mode": "dedicated_adaptive"
+          }
+        ],
+        "scope": "Historical source-response illustration; declared demand, primary-packaging geometry proxy; not observed EU crate operation"
+      },
+      "audit": {
+        "visible_text_objects": 19,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "outputs": [
+        {
+          "file": "figure2_calendar.pdf",
+          "sha256": "11639d5119fab6b62a94105612cc7146fe95ba7fc5b9e48dd725cfef07095826",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure2_calendar.svg",
+          "sha256": "d2239079b709ab9a6064e7fa6800cdd9752f66069ade01f776d882d9d202ed86",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure2_calendar.png",
+          "sha256": "c70e7503b7b3f269f02f3beeb35b2e00659f9d643c08a327bc341ecab66c75a2",
+          "raster_dpi": 1200
+        },
+        {
+          "file": "figure2_calendar.tiff",
+          "sha256": "8a35edadcb49ae754b01b4577058ea6adb9e7e46091b12320d6d4bf9da366d21",
+          "raster_dpi": 1200
+        }
+      ]
+    },
+    {
+      "name": "figure3_delay_age",
+      "width_mm": 177.79999999999998,
+      "height_mm": 74.93,
+      "data": {
+        "periodic_delay": [
+          {
+            "return_weeks": 1,
+            "dedicated": 103406.95329906559,
+            "shared": 70000.00000000001,
+            "saving_percent": 32.30629298442685
+          },
+          {
+            "return_weeks": 3,
+            "dedicated": 197862.5404400623,
+            "shared": 140000.0,
+            "saving_percent": 29.24380749957588
+          },
+          {
+            "return_weeks": 5,
+            "dedicated": 276813.9065981312,
+            "shared": 210000.0,
+            "saving_percent": 24.136759391618746
+          }
+        ],
+        "synthetic_age_only": {
+          "base": "synchronous_delay2_K2_L8_loss0",
+          "fixed_prior": 0,
+          "integer_age_profile": [
+            {
+              "age": 0,
+              "dedicated": 3,
+              "pooled": 2,
+              "gain": 1
+            },
+            {
+              "age": 1,
+              "dedicated": 3,
+              "pooled": 3,
+              "gain": 0
+            },
+            {
+              "age": 2,
+              "dedicated": 3,
+              "pooled": 3,
+              "gain": 0
+            },
+            {
+              "age": 3,
+              "dedicated": 3,
+              "pooled": 3,
+              "gain": 0
+            },
+            {
+              "age": 4,
+              "dedicated": 3,
+              "pooled": 3,
+              "gain": 0
+            },
+            {
+              "age": 5,
+              "dedicated": 3,
+              "pooled": 3,
+              "gain": 0
+            },
+            {
+              "age": 6,
+              "dedicated": 3,
+              "pooled": 3,
+              "gain": 0
+            },
+            {
+              "age": 7,
+              "dedicated": 6,
+              "pooled": 5,
+              "gain": 1
+            },
+            {
+              "age": 8,
+              "dedicated": 6,
+              "pooled": 5,
+              "gain": 1
+            }
+          ],
+          "first_integer_erasure": 1,
+          "prior_only_at_age0": [
+            {
+              "prior": 0,
+              "dedicated": 3,
+              "pooled": 2,
+              "gain": 1
+            },
+            {
+              "prior": 1,
+              "dedicated": 3,
+              "pooled": 3,
+              "gain": 0
+            }
+          ],
+          "age_gain_is_nonincreasing": false
+        },
+        "warning": "Panels have different scale, purpose and data status; no cohort probability or combined EU estimate"
+      },
+      "audit": {
+        "visible_text_objects": 27,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "outputs": [
+        {
+          "file": "figure3_delay_age.pdf",
+          "sha256": "cd4b8c8c6d2796eb4c6b53085d7b0d7b6397a174b7e6162b0ee53ae170e907be",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure3_delay_age.svg",
+          "sha256": "0a1d35868b570bdf67788235b0a1388ba380ee0c16fe05042eff70cafbc268e2",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure3_delay_age.png",
+          "sha256": "6a44a105d1445198897683b380c080efb4a006218e3ea31952e0f50e4b8f8a6e",
+          "raster_dpi": 1200
+        },
+        {
+          "file": "figure3_delay_age.tiff",
+          "sha256": "0249b8f27d6d6c0d59f714c5f6c5d379c63001c570dc9db7a7ec97bf99d7b079",
+          "raster_dpi": 1200
+        }
+      ]
+    },
+    {
+      "name": "figure4_workflow",
+      "width_mm": 177.79999999999998,
+      "height_mm": 41.91,
+      "data": {
+        "scope": "Engineering implementation sequence; no measured data encoded"
+      },
+      "audit": {
+        "visible_text_objects": 11,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "outputs": [
+        {
+          "file": "figure4_workflow.pdf",
+          "sha256": "50478717b888563547b0f3d1456ccfa04654e6718b096235b478d6d2dcb3198a",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure4_workflow.svg",
+          "sha256": "56b36a1e13cb90625a3823c55dac0e885676e444843436f27f3ef02d17a6014e",
+          "raster_dpi": null
+        },
+        {
+          "file": "figure4_workflow.png",
+          "sha256": "87664a94a93b11e4e24cc5577ed6151d8661d2db7ad1d277bb1a21676f1f4d1d",
+          "raster_dpi": 1200
+        },
+        {
+          "file": "figure4_workflow.tiff",
+          "sha256": "b20e797b9347b9146a32a1fd9391be499796d9ee782cb5a03fcea03c696f0463",
+          "raster_dpi": 1200
+        }
+      ]
+    },
+    {
+      "name": "graphical_abstract",
+      "width_mm": 60.0,
+      "height_mm": 50.0,
+      "data": {
+        "width_mm": 60,
+        "height_mm": 50,
+        "scope": "Conceptual sequence only"
+      },
+      "audit": {
+        "visible_text_objects": 6,
+        "findings": [],
+        "zero_detected_overlap_or_clipping": true
+      },
+      "outputs": [
+        {
+          "file": "graphical_abstract.pdf",
+          "sha256": "df19d346c84fc93f9f34c5dc703119df3d68ee47bbfe16be4381e0d580c67abf",
+          "raster_dpi": null
+        },
+        {
+          "file": "graphical_abstract.svg",
+          "sha256": "716b5392890d9e0415db061adf4f7b972dad15819086bca7b4bd84d7e4487b5f",
+          "raster_dpi": null
+        },
+        {
+          "file": "graphical_abstract.png",
+          "sha256": "fa7b0b0e97c72f14f0e15c0d06ecd4877e4b992cbf5b0251f9702dde76f2d695",
+          "raster_dpi": 1200
+        },
+        {
+          "file": "graphical_abstract.tiff",
+          "sha256": "64a070df4d000397a88c06d609ba523ba2de1537511e98cb0b0e06d3cf8aac6f",
+          "raster_dpi": 1200
+        }
+      ]
+    }
+  ]
+}

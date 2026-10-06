@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="111.6pt" viewBox="0 0 504 111.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-05T15:43:16.475725</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 111.6 
+L 504 111.6 
+L 504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="workflow-card">
+    <path d="M 8.49744 54.7956 
+L 95.42736 54.7956 
+L 95.42736 17.6328 
+L 8.49744 17.6328 
+z
+" clip-path="url(#p8a583e56a4)" style="fill: #f5f6f7; stroke: #6b7075; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 98.416927 36.2142 
+Q 101.353372 36.2142 103.563095 36.2142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+    <path d="M 100.763095 34.8142 
+L 103.563095 36.2142 
+L 100.763095 37.6142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+   </g>
+   <g id="workflow-card">
+    <path d="M 107.28144 54.7956 
+L 194.21136 54.7956 
+L 194.21136 17.6328 
+L 107.28144 17.6328 
+z
+" clip-path="url(#p8a583e56a4)" style="fill: #f5f6f7; stroke: #6b7075; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 197.200927 36.2142 
+Q 200.137372 36.2142 202.347095 36.2142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+    <path d="M 199.547095 34.8142 
+L 202.347095 36.2142 
+L 199.547095 37.6142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+   </g>
+   <g id="workflow-card">
+    <path d="M 206.06544 54.7956 
+L 292.99536 54.7956 
+L 292.99536 17.6328 
+L 206.06544 17.6328 
+z
+" clip-path="url(#p8a583e56a4)" style="fill: #f5f6f7; stroke: #6b7075; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 295.984927 36.2142 
+Q 298.921372 36.2142 301.131095 36.2142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+    <path d="M 298.331095 34.8142 
+L 301.131095 36.2142 
+L 298.331095 37.6142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+   </g>
+   <g id="workflow-card">
+    <path d="M 304.84944 54.7956 
+L 391.77936 54.7956 
+L 391.77936 17.6328 
+L 304.84944 17.6328 
+z
+" clip-path="url(#p8a583e56a4)" style="fill: #f5f6f7; stroke: #6b7075; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 394.768927 36.2142 
+Q 397.705372 36.2142 399.915095 36.2142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+    <path d="M 397.115095 34.8142 
+L 399.915095 36.2142 
+L 397.115095 37.6142 
+" clip-path="url(#p8a583e56a4)" style="fill: none; stroke: #6b7075; stroke-width: 0.65; stroke-linecap: round"/>
+   </g>
+   <g id="workflow-card">
+    <path d="M 403.63344 54.7956 
+L 490.56336 54.7956 
+L 490.56336 17.6328 
+L 403.63344 17.6328 
+z
+" clip-path="url(#p8a583e56a4)" style="fill: #f5f6f7; stroke: #6b7075; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7px; font-family: 'Arial', sans-serif; text-anchor: middle" x="51.9624" y="32.300643" transform="rotate(-0 51.9624 32.300643)">Service 1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6.5px; font-family: 'Arial', sans-serif; text-anchor: middle" x="51.9624" y="45.228449" transform="rotate(-0 51.9624 45.228449)">product delivered</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7px; font-family: 'Arial', sans-serif; text-anchor: middle" x="150.7464" y="32.300643" transform="rotate(-0 150.7464 32.300643)">Return + pass</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.5px; font-family: 'Arial', sans-serif; text-anchor: middle" x="150.7464" y="45.228385" transform="rotate(-0 150.7464 45.228385)">ready for reuse</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'Arial', sans-serif; text-anchor: middle" x="249.5304" y="32.300643" transform="rotate(-0 249.5304 32.300643)">Service 2</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.5px; font-family: 'Arial', sans-serif; text-anchor: middle" x="249.5304" y="45.228449" transform="rotate(-0 249.5304 45.228449)">product delivered</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Arial', sans-serif; text-anchor: middle" x="348.3144" y="32.300643" transform="rotate(-0 348.3144 32.300643)">Return + pass</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.5px; font-family: 'Arial', sans-serif; text-anchor: middle" x="348.3144" y="45.228385" transform="rotate(-0 348.3144 45.228385)">ready for reuse</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7px; font-family: 'Arial', sans-serif; text-anchor: middle" x="447.0984" y="32.300643" transform="rotate(-0 447.0984 32.300643)">Service 3</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.5px; font-family: 'Arial', sans-serif; text-anchor: middle" x="447.0984" y="45.228449" transform="rotate(-0 447.0984 45.228449)">threshold B = 3</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7px; font-family: 'Arial', sans-serif; text-anchor: middle" x="252" y="76.695055" transform="rotate(-0 252 76.695055)">L = B - 1 = 2 completed return-to-ready events before service 3</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.5px; font-family: 'Arial', sans-serif; text-anchor: middle" x="252" y="95.147065" transform="rotate(-0 252 95.147065)">A post-service-3 return is counted only if the terminal boundary includes it (delta = 1, L = 3).</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8a583e56a4">
+   <rect x="5.04" y="5.58" width="493.92" height="100.44"/>
+  </clipPath>
+ </defs>
+</svg>

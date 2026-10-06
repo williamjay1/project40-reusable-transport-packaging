@@ -1,0 +1,39 @@
+{
+  "cutoff": "2026-08-29",
+  "snapshot_date": "2026-09-30",
+  "sources": [
+    {
+      "id": "tua2019",
+      "doi": "10.3390/resources8020110",
+      "url": "https://doi.org/10.3390/resources8020110",
+      "locators": "Supplement Tables S7-S10 and S17; article Table 1 facility rejection",
+      "coverage": "Italian RPC case; 100-crate service system with replacement; not an EU fleet",
+      "extraction": "Source PDF converted to layout text; fixed suffix of numeric fields parsed by reproduce_tua_multicategory_p40.py; anchors checked against Tables S7, S10, S17.",
+      "source_pdf_sha256": "576c19f8d6cc2c2b714afc5aa369f8bb0c75a5f06b2864fafde3b992ea94c05a",
+      "source_text_sha256": "d67c4edd8f8a0b3e08e963fc7831a1c38aaa472097b4f0bb45eb2e0b500d044b",
+      "redistribution": "This package supplies attributed numerical facts, not the full source article or supplement."
+    },
+    {
+      "id": "ifeu2025",
+      "url": "https://www.polivouga.pt/zArchives/Library/Content/20250627_ifeu_EUPC_LCA_transport_packaging_final-report_incl_CR.pdf",
+      "locators": "pp. 42-43, Table 2-1 and trip-rate equation",
+      "coverage": "European transport-packaging technical-report scenarios",
+      "redistribution": "Only source parameters and their locators; full report excluded."
+    },
+    {
+      "id": "r3pack2023",
+      "doi": "10.5281/zenodo.21275395",
+      "url": "https://doi.org/10.5281/zenodo.21275395",
+      "locators": "D3.4 scenario with recovery 68%, scrap 5%, reported UC 2.82",
+      "coverage": "Regional project demonstrator assumptions; not operational cohort observations",
+      "redistribution": "Only attributed parameter facts; report and workbook excluded."
+    }
+  ],
+  "upstream_ledger_sha256": {
+    "tua_multicategory_source_reproduction_20260927.csv": "df63121231f3b1dac420c8401b7d1e251232a87f25d8bfc893082b5ea6a867ff",
+    "rotation_concordance_inputs_v11.csv": "7a70759d69ae59d73056a02a89983adb6e5889f7ac81d40053fb626ce92a00f2",
+    "ppwr_crosswalk_audit_v15.json": "3b776963fd3b2eefa9b661dcc24e5cce411fbdd34e0877b1cfde6b939dcd5567"
+  },
+  "inputs_are": "published numerical source extracts and explicitly labelled scenario assumptions",
+  "not_inputs": "private operator data, paid background LCI, empirical cohort events, or invented outcomes"
+}

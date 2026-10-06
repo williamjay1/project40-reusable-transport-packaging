@@ -1,0 +1,43 @@
+source_scenario,indicator,process,displayed_value,impact_per_100_crates_reconditioned,source_table,source_doi
+W1_RE1,Climate change,return_transport,1.79,1.79,S13,10.3390/resources8020110
+W1_RE1,Climate change,electricity,1.34,1.34,S13,10.3390/resources8020110
+W1_RE1,Climate change,water_heating,2.20,2.2,S14,10.3390/resources8020110
+W1_RE1,Ozone depletion,return_transport,3.58E-07,3.58e-07,S13,10.3390/resources8020110
+W1_RE1,Ozone depletion,electricity,1.48E-07,1.48e-07,S13,10.3390/resources8020110
+W1_RE1,Ozone depletion,water_heating,3.32E-07,3.32e-07,S14,10.3390/resources8020110
+W1_RE1,"Human toxicity, non-cancer effects",return_transport,4.32E-07,4.32e-07,S13,10.3390/resources8020110
+W1_RE1,"Human toxicity, non-cancer effects",electricity,2.16E-07,2.16e-07,S13,10.3390/resources8020110
+W1_RE1,"Human toxicity, non-cancer effects",water_heating,4.95E-08,4.95e-08,S14,10.3390/resources8020110
+W1_RE1,"Human toxicity, cancer effects",return_transport,4.59E-08,4.59e-08,S13,10.3390/resources8020110
+W1_RE1,"Human toxicity, cancer effects",electricity,4.54E-08,4.54e-08,S13,10.3390/resources8020110
+W1_RE1,"Human toxicity, cancer effects",water_heating,1.81E-08,1.81e-08,S14,10.3390/resources8020110
+W1_RE1,Particulate matter,return_transport,9.88E-04,0.000988,S13,10.3390/resources8020110
+W1_RE1,Particulate matter,electricity,4.98E-04,0.000498,S13,10.3390/resources8020110
+W1_RE1,Particulate matter,water_heating,2.50E-04,0.00025,S14,10.3390/resources8020110
+W1_RE1,Photochemical ozone formation,return_transport,7.84E-03,0.00784,S13,10.3390/resources8020110
+W1_RE1,Photochemical ozone formation,electricity,2.72E-03,0.00272,S13,10.3390/resources8020110
+W1_RE1,Photochemical ozone formation,water_heating,1.88E-03,0.00188,S14,10.3390/resources8020110
+W1_RE1,Acidification,return_transport,7.51E-03,0.00751,S13,10.3390/resources8020110
+W1_RE1,Acidification,electricity,6.87E-03,0.00687,S13,10.3390/resources8020110
+W1_RE1,Acidification,water_heating,3.03E-03,0.00303,S14,10.3390/resources8020110
+W1_RE1,Terrestrial eutrophication,return_transport,2.45E-02,0.0245,S13,10.3390/resources8020110
+W1_RE1,Terrestrial eutrophication,electricity,8.92E-03,0.00892,S13,10.3390/resources8020110
+W1_RE1,Terrestrial eutrophication,water_heating,4.45E-03,0.00445,S14,10.3390/resources8020110
+W1_RE1,Freshwater eutrophication,return_transport,1.11E-04,0.000111,S13,10.3390/resources8020110
+W1_RE1,Freshwater eutrophication,electricity,3.68E-04,0.000368,S13,10.3390/resources8020110
+W1_RE1,Freshwater eutrophication,water_heating,1.08E-04,0.000108,S14,10.3390/resources8020110
+W1_RE1,Marine eutrophication,return_transport,2.24E-03,0.00224,S13,10.3390/resources8020110
+W1_RE1,Marine eutrophication,electricity,8.65E-04,0.000865,S13,10.3390/resources8020110
+W1_RE1,Marine eutrophication,water_heating,4.28E-04,0.000428,S14,10.3390/resources8020110
+W1_RE1,Freshwater ecotoxicity,return_transport,11.41,11.41,S13,10.3390/resources8020110
+W1_RE1,Freshwater ecotoxicity,electricity,24.35,24.35,S13,10.3390/resources8020110
+W1_RE1,Freshwater ecotoxicity,water_heating,1.69,1.69,S14,10.3390/resources8020110
+W1_RE1,"Mineral, fossil & renewable resource depletion",return_transport,8.73E-05,8.73e-05,S13,10.3390/resources8020110
+W1_RE1,"Mineral, fossil & renewable resource depletion",electricity,2.02E-05,2.02e-05,S13,10.3390/resources8020110
+W1_RE1,"Mineral, fossil & renewable resource depletion",water_heating,2.45E-06,2.45e-06,S14,10.3390/resources8020110
+W1_RE1,Cumulative energy demand,return_transport,31.46,31.46,S13,10.3390/resources8020110
+W1_RE1,Cumulative energy demand,electricity,23.38,23.38,S13,10.3390/resources8020110
+W1_RE1,Cumulative energy demand,water_heating,38.77,38.77,S14,10.3390/resources8020110
+W1_RE1,Water depletion,return_transport,6.54E-03,0.00654,S13,10.3390/resources8020110
+W1_RE1,Water depletion,electricity,1.93E-02,0.0193,S13,10.3390/resources8020110
+W1_RE1,Water depletion,water_heating,3.61E-03,0.00361,S14,10.3390/resources8020110
