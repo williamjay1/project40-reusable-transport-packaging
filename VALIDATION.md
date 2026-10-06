@@ -24,8 +24,9 @@ The intermediate attempt completed all scientific/figure subprocesses but its re
 writer failed on a TIFF DPI rational object; conversion to a JSON float repaired only
 report serialization. The failure is retained in the local development audit trail.
 
-Testing used Windows and the pinned Python 3.12 environment. A Linux GitHub Actions
-workflow is supplied but has not yet run; do not label it a passed cross-platform test.
+The complete reproduction used Windows and the pinned Python 3.12 environment.
+The Ubuntu GitHub Actions smoke-test/audit workflow subsequently passed as documented
+below; it does not execute or establish a complete Linux scientific reproduction.
 Ten regenerated standalone figure images were actually inspected for readability,
 text/line overlap and clipping; the final-run versions matched the reviewed image
 bytes. This is not a new manuscript page-by-page visual review, empirical validation, legal
@@ -48,5 +49,19 @@ Licence grants, any requested formal name formatting and
 submission declarations (affiliation, funding, interests and CRediT roles) remain
 to be confirmed. Authorship confirmation alone is not approval of those declarations.
 DOI creation/confirmation is reserved to the user-operated Zenodo archive step.
-GitHub source upload is not a formal release, archival deposit or a passed Linux
-workflow; remote verification and any actual CI result are recorded separately.
+GitHub source upload is not a formal release, archival deposit or full Linux reproduction.
+
+## Verified GitHub source upload and smoke CI
+
+The public source repository was verified on 2026-10-06 at commit
+`0472565f126f34e8758e26f83b885abeaa5144c1`. Its author and committer names are both
+`junjiezhang`. A fresh anonymous clone passed the complete repository hash/scope audit
+and all eight semantic smoke tests. The remote audit covered 143 files, 106 component
+lineage hashes and the declared 578-policy benchmark.
+
+The Ubuntu/Python 3.12 GitHub Actions run
+<https://github.com/williamjay1/project40-reusable-transport-packaging/actions/runs/37423668451>
+completed successfully at 2026-10-06T06:26:03Z. Dependency installation, all eight
+semantic tests and the repository audit passed. This is a real cross-platform smoke
+check, not a new full simulation run, empirical validation, licence grant or DOI deposit.
+Later documentation-only commits do not change the scientific code tested at that ref.

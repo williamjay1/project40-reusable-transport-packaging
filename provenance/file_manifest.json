@@ -1,21 +1,13 @@
 {
-  "created_at_utc": "2026-10-06T06:25:00.075055+00:00",
+  "created_at_utc": "2026-10-06T06:27:13.681579+00:00",
   "operation": "author-confirmed metadata-only refresh",
-  "previous_manifest": "provenance/manifest_history/file_manifest_20261006T062500075055Z.json",
-  "previous_manifest_sha256": "d47aff6a36117db83637d53ec31cb152f3035fdd9384dcf5dcca35cca6f38359",
+  "previous_manifest": "provenance/manifest_history/file_manifest_20261006T062713681579Z.json",
+  "previous_manifest_sha256": "95a77134e922325dcc0144d66bb9833ad127d4ed390524ff716fa3116f357e75",
   "changed_metadata": [
-    "AUTHORSHIP.md",
-    "CITATION.md",
-    "LICENSE.md",
-    "MANUSCRIPT_AVAILABILITY_STATEMENT.md",
-    "README.md",
-    "RELEASE_CHECKLIST.md",
-    "VALIDATION.md",
-    "ZENODO_GUIDE_zh.md"
+    "metadata/github_repository.json",
+    "VALIDATION.md"
   ],
-  "added_metadata": [
-    "metadata/github_repository.json"
-  ],
+  "added_metadata": [],
   "external_publication_performed": false,
   "doi_assigned_by_this_tool": false,
   "files": [
@@ -626,8 +618,8 @@
     },
     {
       "path": "metadata/github_repository.json",
-      "bytes": 638,
-      "sha256": "ed083ed3dd1d0dc76ef286432c1641972faa62c8fb7ca45535835bc6ae1d91e8"
+      "bytes": 1091,
+      "sha256": "66f212b1393f7cab9115c2ef60a2289ad512c3e10f471a9833b54c632f48e712"
     },
     {
       "path": "metadata/release_metadata.example.json",
@@ -648,6 +640,11 @@
       "path": "provenance/manifest_history/file_manifest_20261006T062500075055Z.json",
       "bytes": 26904,
       "sha256": "d47aff6a36117db83637d53ec31cb152f3035fdd9384dcf5dcca35cca6f38359"
+    },
+    {
+      "path": "provenance/manifest_history/file_manifest_20261006T062713681579Z.json",
+      "bytes": 27325,
+      "sha256": "95a77134e922325dcc0144d66bb9833ad127d4ed390524ff716fa3116f357e75"
     },
     {
       "path": "provenance/reproduction_validation.json",
@@ -721,8 +718,8 @@
     },
     {
       "path": "VALIDATION.md",
-      "bytes": 3483,
-      "sha256": "bbfc7890b90c831abf91623810d6934dd45ca8f28be6fa9bd91f7161a7364265"
+      "bytes": 4395,
+      "sha256": "c8175eebec41d7db0137f8789b55179b185c862cf770059f0c11c51dd2649040"
     },
     {
       "path": "ZENODO_GUIDE_zh.md",

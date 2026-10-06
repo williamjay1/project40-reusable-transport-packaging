@@ -7,6 +7,15 @@
   "sole_human_scientific_creator": "junjiezhang",
   "hosting_account_is_an_additional_project_author": false,
   "user_explicitly_authorized_github_source_upload": true,
+  "initial_verified_source_commit": "0472565f126f34e8758e26f83b885abeaa5144c1",
+  "initial_commit_author_name": "junjiezhang",
+  "initial_commit_committer_name": "junjiezhang",
+  "initial_smoke_ci": {
+    "run_url": "https://github.com/williamjay1/project40-reusable-transport-packaging/actions/runs/37423668451",
+    "conclusion": "success",
+    "completed_at_utc": "2026-10-06T06:26:03Z",
+    "full_scientific_reproduction_executed_in_ci": false
+  },
   "original_material_licence_grant": "not yet approved",
   "formal_release_tag": null,
   "version_doi": null,
